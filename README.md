@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-07
+## Latest: 2026-07-08
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | Rust | ⭐854 | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the  |
-| 2 | [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) | Rust | ⭐602 | Global DNS propagation checker TUI — watch a DNS record propagate across 34 publ |
-| 3 | [nagisanzenin/engram](https://github.com/nagisanzenin/engram) | Python | ⭐345 | Evidence-based learning engine for Claude Code — first-principles curricula, fre |
-| 4 | [simonlin1212/Vibe-Research](https://github.com/simonlin1212/Vibe-Research) | TypeScript | ⭐342 | Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、 |
-| 5 | [majidmanzarpour/threejs-procedural-dungeon](https://github.com/majidmanzarpour/threejs-procedural-dungeon) | JavaScript | ⭐289 | Real-time procedural dungeon generator in Three.js - deterministic seeds, Delaun |
-| 6 | [eli-labz/Cognitive-Core-Skills](https://github.com/eli-labz/Cognitive-Core-Skills) | Python | ⭐270 | A universal, industry-neutral taxonomy of cognitive core skills (perception, mem |
-| 7 | [Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision) | Python | ⭐253 | Self-supervised learning for spatial perception |
-| 8 | [avifenesh/bw24](https://github.com/avifenesh/bw24) | Rust | ⭐236 | From-scratch Rust+CUDA LLM inference engine for RTX 5090 (sm_120a) — NVFP4, MoE, |
-| 9 | [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) | — | ⭐176 |  |
-| 10 | [zjp1997720/wechat-article-search](https://github.com/zjp1997720/wechat-article-search) | JavaScript | ⭐174 | Search WeChat public account articles by keyword via Sogou WeChat Search. Return |
+| 1 | [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | JavaScript | ⭐1180 | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es |
+| 2 | [Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision) | Python | ⭐430 | Self-supervised learning for spatial perception |
+| 3 | [V4bel/Januscape](https://github.com/V4bel/Januscape) | C | ⭐317 |  |
+| 4 | [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) | JavaScript | ⭐275 | ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe |
+| 5 | [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) | — | ⭐245 |  |
+| 6 | [Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | Python | ⭐224 | From Foundation to Application |
+| 7 | [jiguang132/storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) | TypeScript | ⭐217 | A browser-based 3D director desk demo built with React, Vite, and Three.js. |
+| 8 | [kuskhan/jetendard](https://github.com/kuskhan/jetendard) | Python | ⭐207 | JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced  |
+| 9 | [zjp1997720/wechat-article-search](https://github.com/zjp1997720/wechat-article-search) | JavaScript | ⭐190 | Search WeChat public account articles by keyword via Sogou WeChat Search. Return |
+| 10 | [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) | Python | ⭐188 | J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, por |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-08](records/2026-07-08.md) | Shpigford/knockoff | 1180 |
 | [2026-07-07](records/2026-07-07.md) | MaximeRivest/riddle | 854 |
 | [2026-07-06](records/2026-07-06.md) | ammaarreshi/Generals-Mac-iOS-iPad | 976 |
 | [2026-07-05](records/2026-07-05.md) | jamesob/local-llm | 818 |
