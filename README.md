@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-08
+## Latest: 2026-07-09
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | JavaScript | ⭐1180 | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es |
-| 2 | [Robbyant/lingbot-vision](https://github.com/Robbyant/lingbot-vision) | Python | ⭐430 | Self-supervised learning for spatial perception |
-| 3 | [V4bel/Januscape](https://github.com/V4bel/Januscape) | C | ⭐317 |  |
-| 4 | [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) | JavaScript | ⭐275 | ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe |
-| 5 | [SmtimesIWndr/gdid-reversal](https://github.com/SmtimesIWndr/gdid-reversal) | — | ⭐245 |  |
-| 6 | [Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | Python | ⭐224 | From Foundation to Application |
-| 7 | [jiguang132/storyai-3d-director-desk](https://github.com/jiguang132/storyai-3d-director-desk) | TypeScript | ⭐217 | A browser-based 3D director desk demo built with React, Vite, and Three.js. |
-| 8 | [kuskhan/jetendard](https://github.com/kuskhan/jetendard) | Python | ⭐207 | JetBrainsMono Nerd Font Mono rebuilt with Pretendard Korean glyphs for balanced  |
-| 9 | [zjp1997720/wechat-article-search](https://github.com/zjp1997720/wechat-article-search) | JavaScript | ⭐190 | Search WeChat public account articles by keyword via Sogou WeChat Search. Return |
-| 10 | [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) | Python | ⭐188 | J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, por |
+| 1 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | ⭐903 |  |
+| 2 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | Python | ⭐464 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
+| 3 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | Python | ⭐437 | Infinite Worlds with Versatile Interactions |
+| 4 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | — | ⭐422 | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 |
+| 5 | [Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | Python | ⭐336 | From Foundation to Application |
+| 6 | [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail) | TypeScript | ⭐329 | Voice-first local agent orchestration runtime for auditable DAG workflows. |
+| 7 | [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) | Python | ⭐271 | J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, por |
+| 8 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | Dockerfile | ⭐254 |  |
+| 9 | [CWS6206/EasyLastSkill](https://github.com/CWS6206/EasyLastSkill) | Python | ⭐228 | EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherc |
+| 10 | [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) | Shell | ⭐217 | Codex skill for auditing and tuning Codex Desktop context/tool surfaces |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-09](records/2026-07-09.md) | withmarbleapp/os-taxonomy | 903 |
 | [2026-07-08](records/2026-07-08.md) | Shpigford/knockoff | 1180 |
 | [2026-07-07](records/2026-07-07.md) | MaximeRivest/riddle | 854 |
 | [2026-07-06](records/2026-07-06.md) | ammaarreshi/Generals-Mac-iOS-iPad | 976 |
