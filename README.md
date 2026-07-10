@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-09
+## Latest: 2026-07-10
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | ⭐903 |  |
-| 2 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | Python | ⭐464 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
-| 3 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | Python | ⭐437 | Infinite Worlds with Versatile Interactions |
-| 4 | [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) | — | ⭐422 | 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。 |
-| 5 | [Robbyant/lingbot-vla-v2](https://github.com/Robbyant/lingbot-vla-v2) | Python | ⭐336 | From Foundation to Application |
-| 6 | [xiaotianfotos/homerail](https://github.com/xiaotianfotos/homerail) | TypeScript | ⭐329 | Voice-first local agent orchestration runtime for auditable DAG workflows. |
-| 7 | [WeZZard/jlens-qwen36](https://github.com/WeZZard/jlens-qwen36) | Python | ⭐271 | J-space / Jacobian-lens visualizer for Qwen3.6-27B (4-bit) on Apple Silicon, por |
-| 8 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | Dockerfile | ⭐254 |  |
-| 9 | [CWS6206/EasyLastSkill](https://github.com/CWS6206/EasyLastSkill) | Python | ⭐228 | EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherc |
-| 10 | [sunflower-of-parchman/codex-hygiene](https://github.com/sunflower-of-parchman/codex-hygiene) | Shell | ⭐217 | Codex skill for auditing and tuning Codex Desktop context/tool surfaces |
+| 1 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | ⭐1808 |  |
+| 2 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | Python | ⭐663 | Infinite Worlds with Versatile Interactions |
+| 3 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | Python | ⭐620 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
+| 4 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | Dockerfile | ⭐417 |  |
+| 5 | [Nanako0129/pilotfish](https://github.com/Nanako0129/pilotfish) | — | ⭐307 | Multi-model orchestration layer for Claude Code — the frontier model plans, chea |
+| 6 | [Doriandarko/texts-to-transformer](https://github.com/Doriandarko/texts-to-transformer) | Python | ⭐244 | Train a tiny Transformer from scratch on your iMessage history, entirely on your |
+| 7 | [CWS6206/EasyLastSkill](https://github.com/CWS6206/EasyLastSkill) | Python | ⭐228 | EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherc |
+| 8 | [Moore-developers/moore-wechat-article-downloader](https://github.com/Moore-developers/moore-wechat-article-downloader) | Python | ⭐224 |  |
+| 9 | [gostonx/uninstally](https://github.com/gostonx/uninstally) | Swift | ⭐220 | A clean, native macOS uninstaller. Completely removes apps and every file they l |
+| 10 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | TypeScript | ⭐205 | 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-10](records/2026-07-10.md) | withmarbleapp/os-taxonomy | 1808 |
 | [2026-07-09](records/2026-07-09.md) | withmarbleapp/os-taxonomy | 903 |
 | [2026-07-08](records/2026-07-08.md) | Shpigford/knockoff | 1180 |
 | [2026-07-07](records/2026-07-07.md) | MaximeRivest/riddle | 854 |
