@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-10
+## Latest: 2026-07-11
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | JavaScript | ⭐1808 |  |
-| 2 | [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | Python | ⭐663 | Infinite Worlds with Versatile Interactions |
-| 3 | [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | Python | ⭐620 | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
-| 4 | [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | Dockerfile | ⭐417 |  |
-| 5 | [Nanako0129/pilotfish](https://github.com/Nanako0129/pilotfish) | — | ⭐307 | Multi-model orchestration layer for Claude Code — the frontier model plans, chea |
-| 6 | [Doriandarko/texts-to-transformer](https://github.com/Doriandarko/texts-to-transformer) | Python | ⭐244 | Train a tiny Transformer from scratch on your iMessage history, entirely on your |
-| 7 | [CWS6206/EasyLastSkill](https://github.com/CWS6206/EasyLastSkill) | Python | ⭐228 | EasyLastSkill ist eine deutschsprachige Codex-/Agent-Skill fuer schnelle Recherc |
-| 8 | [Moore-developers/moore-wechat-article-downloader](https://github.com/Moore-developers/moore-wechat-article-downloader) | Python | ⭐224 |  |
-| 9 | [gostonx/uninstally](https://github.com/gostonx/uninstally) | Swift | ⭐220 | A clean, native macOS uninstaller. Completely removes apps and every file they l |
-| 10 | [bkingfilm/lapian-notes](https://github.com/bkingfilm/lapian-notes) | TypeScript | ⭐205 | 拉片笔记:把电影变成 AI 辅助的拉片笔记 - 本地抽帧/剧情泳道时间轴/结构树/情绪曲线/段落深拆 |
+| 1 | [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) | TypeScript | ⭐191 | A field guide to the visual & copy tics of AI-generated products — and an Agent  |
+| 2 | [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | Python | ⭐177 | Codex plugin that turns attached object images into code-only, animation-ready p |
+| 3 | [thatmagicalcat/txm](https://github.com/thatmagicalcat/txm) | Rust | ⭐175 | Terminal Math rendering engine |
+| 4 | [adamholter/hive-mind-landing-page](https://github.com/adamholter/hive-mind-landing-page) | CSS | ⭐152 | CHORUS Hive Mind landing page — source, prompts, frontend skills, generated desi |
+| 5 | [imchine/FinTech-Wallet](https://github.com/imchine/FinTech-Wallet) | TypeScript | ⭐152 | fintech wallet platform same to cloud-native microservices system designed to po |
+| 6 | [imchine/FinTech-Solution](https://github.com/imchine/FinTech-Solution) | TypeScript | ⭐151 | FinTech AI Solution for SMEs to calculate financial values |
+| 7 | [Elias569/fintech-app](https://github.com/Elias569/fintech-app) | TypeScript | ⭐151 | fintech app  |
+| 8 | [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) | TypeScript | ⭐151 | fintech dashboard for personal finance management which track income and expense |
+| 9 | [KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge) | TypeScript | ⭐151 | fintech forge of AI-powered financial tools and insights to secure authenticatio |
+| 10 | [KORAYTEACHER/fintech-advisor](https://github.com/KORAYTEACHER/fintech-advisor) | TypeScript | ⭐151 | ai fintech financial advisor for your portfolio |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-11](records/2026-07-11.md) | yetone/kill-ai-slop | 191 |
 | [2026-07-10](records/2026-07-10.md) | withmarbleapp/os-taxonomy | 1808 |
 | [2026-07-09](records/2026-07-09.md) | withmarbleapp/os-taxonomy | 903 |
 | [2026-07-08](records/2026-07-08.md) | Shpigford/knockoff | 1180 |
