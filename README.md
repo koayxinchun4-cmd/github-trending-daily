@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-11
+## Latest: 2026-07-12
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) | TypeScript | ⭐191 | A field guide to the visual & copy tics of AI-generated products — and an Agent  |
-| 2 | [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | Python | ⭐177 | Codex plugin that turns attached object images into code-only, animation-ready p |
-| 3 | [thatmagicalcat/txm](https://github.com/thatmagicalcat/txm) | Rust | ⭐175 | Terminal Math rendering engine |
-| 4 | [adamholter/hive-mind-landing-page](https://github.com/adamholter/hive-mind-landing-page) | CSS | ⭐152 | CHORUS Hive Mind landing page — source, prompts, frontend skills, generated desi |
-| 5 | [imchine/FinTech-Wallet](https://github.com/imchine/FinTech-Wallet) | TypeScript | ⭐152 | fintech wallet platform same to cloud-native microservices system designed to po |
-| 6 | [imchine/FinTech-Solution](https://github.com/imchine/FinTech-Solution) | TypeScript | ⭐151 | FinTech AI Solution for SMEs to calculate financial values |
-| 7 | [Elias569/fintech-app](https://github.com/Elias569/fintech-app) | TypeScript | ⭐151 | fintech app  |
-| 8 | [Elias569/fintech-dashboard](https://github.com/Elias569/fintech-dashboard) | TypeScript | ⭐151 | fintech dashboard for personal finance management which track income and expense |
-| 9 | [KORAYTEACHER/fintech-forge](https://github.com/KORAYTEACHER/fintech-forge) | TypeScript | ⭐151 | fintech forge of AI-powered financial tools and insights to secure authenticatio |
-| 10 | [KORAYTEACHER/fintech-advisor](https://github.com/KORAYTEACHER/fintech-advisor) | TypeScript | ⭐151 | ai fintech financial advisor for your portfolio |
+| 1 | [CoscoAI/luxy-aisre](https://github.com/CoscoAI/luxy-aisre) | Python | ⭐269 | AISRE for Cosco |
+| 2 | [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) | TypeScript | ⭐263 | A field guide to the visual & copy tics of AI-generated products — and an Agent  |
+| 3 | [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) | Python | ⭐187 | Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI aut |
+| 4 | [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) | JavaScript | ⭐174 | Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice |
+| 5 | [chordswallowthrust/undress-design](https://github.com/chordswallowthrust/undress-design) | — | ⭐145 | AI-powered fashion visualization and virtual try-on toolkit for consent-based ga |
+| 6 | [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register) | Python | ⭐128 |  |
+| 7 | [nhevers/project-r0x](https://github.com/nhevers/project-r0x) | TypeScript | ⭐123 | Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilita |
+| 8 | [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa) | Python | ⭐108 | Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传 |
+| 9 | [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) | Python | ⭐107 | 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权 |
+| 10 | [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) | — | ⭐103 | The Lunduke Computer Operating System |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-12](records/2026-07-12.md) | CoscoAI/luxy-aisre | 269 |
 | [2026-07-11](records/2026-07-11.md) | yetone/kill-ai-slop | 191 |
 | [2026-07-10](records/2026-07-10.md) | withmarbleapp/os-taxonomy | 1808 |
 | [2026-07-09](records/2026-07-09.md) | withmarbleapp/os-taxonomy | 903 |
