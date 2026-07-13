@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-12
+## Latest: 2026-07-13
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [CoscoAI/luxy-aisre](https://github.com/CoscoAI/luxy-aisre) | Python | ⭐269 | AISRE for Cosco |
-| 2 | [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) | TypeScript | ⭐263 | A field guide to the visual & copy tics of AI-generated products — and an Agent  |
-| 3 | [dongguatanglinux/grok-build-auth](https://github.com/dongguatanglinux/grok-build-auth) | Python | ⭐187 | Protocol research client: x.ai signup → SSO → Grok Build OAuth → CLIProxyAPI aut |
-| 4 | [Jane-xiaoer/paper-collage-ad-codex](https://github.com/Jane-xiaoer/paper-collage-ad-codex) | JavaScript | ⭐174 | Codex skill for complete paper-cut collage ad production, local IndexTTS-2 voice |
-| 5 | [chordswallowthrust/undress-design](https://github.com/chordswallowthrust/undress-design) | — | ⭐145 | AI-powered fashion visualization and virtual try-on toolkit for consent-based ga |
-| 6 | [maxucheng0/grok-auto-register](https://github.com/maxucheng0/grok-auto-register) | Python | ⭐128 |  |
-| 7 | [nhevers/project-r0x](https://github.com/nhevers/project-r0x) | TypeScript | ⭐123 | Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilita |
-| 8 | [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa) | Python | ⭐108 | Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传 |
-| 9 | [myfanhua/turb-gpt-free-register](https://github.com/myfanhua/turb-gpt-free-register) | Python | ⭐107 | 纯协议+指纹浏览器自动GPT FREE注册机+Codex自动接码授权 |
-| 10 | [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) | — | ⭐103 | The Lunduke Computer Operating System |
+| 1 | [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | TypeScript | ⭐693 | Local-first, zero-trust agentic IDE for verifiable autonomous software developme |
+| 2 | [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | Python | ⭐458 | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex |
+| 3 | [Git-creat7/grokRegister-cpa](https://github.com/Git-creat7/grokRegister-cpa) | Python | ⭐203 | Grok 自动注册机 — 注册成功后自动入库 CLIProxyAPI (CPA)：支持本地 auth 目录与远程 Management API 上传 |
+| 4 | [BryanLunduke/LCOS](https://github.com/BryanLunduke/LCOS) | — | ⭐180 | The Lunduke Computer Operating System |
+| 5 | [Subhan-code/Amicro--Micro-transitions-](https://github.com/Subhan-code/Amicro--Micro-transitions-) | TypeScript | ⭐162 |  |
+| 6 | [djfksjd/ir-search](https://github.com/djfksjd/ir-search) | Python | ⭐156 | 🇰🇷 한국 정부 지원사업 전수조사 Claude Code 스킬 — K-Startup·기업마당·NIPA·KOCCA·SMTECH 크롤링 + 프로젝트  |
+| 7 | [x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel) | Dockerfile | ⭐141 |  |
+| 8 | [BloxHubSSS/Game-Copier](https://github.com/BloxHubSSS/Game-Copier) | — | ⭐138 |  |
+| 9 | [x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node) | Dockerfile | ⭐125 |  |
+| 10 | [nhevers/project-r0x](https://github.com/nhevers/project-r0x) | TypeScript | ⭐123 | Official SDK, Claude Code plugin and facilitator docs for r0x, the x402 facilita |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-13](records/2026-07-13.md) | mereyabdenbekuly-ctrl/clodex-ide | 693 |
 | [2026-07-12](records/2026-07-12.md) | CoscoAI/luxy-aisre | 269 |
 | [2026-07-11](records/2026-07-11.md) | yetone/kill-ai-slop | 191 |
 | [2026-07-10](records/2026-07-10.md) | withmarbleapp/os-taxonomy | 1808 |
