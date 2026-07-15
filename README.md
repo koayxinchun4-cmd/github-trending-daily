@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-14
+## Latest: 2026-07-15
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [littledivy/mimic](https://github.com/littledivy/mimic) | Python | ⭐815 | Intercept any app, then call it from Python like a library |
-| 2 | [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | TypeScript | ⭐700 | Local-first, zero-trust agentic IDE for verifiable autonomous software developme |
-| 3 | [x4gKing/Marzban-Panel](https://github.com/x4gKing/Marzban-Panel) | Dockerfile | ⭐537 |  |
-| 4 | [x4gKing/Marzban-Node](https://github.com/x4gKing/Marzban-Node) | Dockerfile | ⭐448 |  |
-| 5 | [Kappaemme-git/codex-first-customer-finder-skill](https://github.com/Kappaemme-git/codex-first-customer-finder-skill) | Python | ⭐400 | A Codex skill that finds evidence-backed potential first customers from recent p |
-| 6 | [BloxHubSSS/Game-Copier](https://github.com/BloxHubSSS/Game-Copier) | — | ⭐220 |  |
-| 7 | [opencoredev/domain-sdk](https://github.com/opencoredev/domain-sdk) | TypeScript | ⭐216 | Add, verify, monitor, and remove customer domains with one TypeScript API. |
-| 8 | [m-novotny/memguard-rs](https://github.com/m-novotny/memguard-rs) | Rust | ⭐130 | Secure memory handling primitives for Rust — zeroization on drop, mlock-protecte |
-| 9 | [marcelpanse/youtube-guitar-tab-parser](https://github.com/marcelpanse/youtube-guitar-tab-parser) | TypeScript | ⭐129 | CLI that turns a YouTube guitar-lesson video into a PDF of the guitar tab. |
-| 10 | [x-spy/CVE-2026-43499-popsicle](https://github.com/x-spy/CVE-2026-43499-popsicle) | C | ⭐123 | CVE-2026-43499 Implementation for 6.12.23-android16-5-g75e9b1c7ae7c-abogki463945 |
+| 1 | [littledivy/mimic](https://github.com/littledivy/mimic) | Python | ⭐922 | Intercept any app, then call it from Python like a library |
+| 2 | [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) | Python | ⭐367 | Design clear, theme-specific GitHub README homepages with SVG titles, real proof |
+| 3 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | Python | ⭐306 | Open-source app builder engine — intent to working app |
+| 4 | [WAYLON/ashare-quant-strategies](https://github.com/WAYLON/ashare-quant-strategies) | Python | ⭐272 | A-share quant strategies research corpus: 119 Python strategy articles for learn |
+| 5 | [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | Rust | ⭐266 |  |
+| 6 | [TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) | — | ⭐220 |  |
+| 7 | [vybenetwork/solana-pyth-api](https://github.com/vybenetwork/solana-pyth-api) | CSS | ⭐202 | Solana Pyth API |
+| 8 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐165 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
+| 9 | [v-modal/vmodal_sdk_android](https://github.com/v-modal/vmodal_sdk_android) | Kotlin | ⭐159 | Multimodal Video Search SDK for Android Kotlin |
+| 10 | [x4gKing/Free-Panel](https://github.com/x4gKing/Free-Panel) | HTML | ⭐155 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-15](records/2026-07-15.md) | littledivy/mimic | 922 |
 | [2026-07-14](records/2026-07-14.md) | littledivy/mimic | 815 |
 | [2026-07-13](records/2026-07-13.md) | mereyabdenbekuly-ctrl/clodex-ide | 693 |
 | [2026-07-12](records/2026-07-12.md) | CoscoAI/luxy-aisre | 269 |
