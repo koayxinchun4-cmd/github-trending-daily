@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-15
+## Latest: 2026-07-16
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [littledivy/mimic](https://github.com/littledivy/mimic) | Python | ⭐922 | Intercept any app, then call it from Python like a library |
-| 2 | [oil-oil/beautify-github-readme](https://github.com/oil-oil/beautify-github-readme) | Python | ⭐367 | Design clear, theme-specific GitHub README homepages with SVG titles, real proof |
-| 3 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | Python | ⭐306 | Open-source app builder engine — intent to working app |
-| 4 | [WAYLON/ashare-quant-strategies](https://github.com/WAYLON/ashare-quant-strategies) | Python | ⭐272 | A-share quant strategies research corpus: 119 Python strategy articles for learn |
-| 5 | [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | Rust | ⭐266 |  |
-| 6 | [TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) | — | ⭐220 |  |
-| 7 | [vybenetwork/solana-pyth-api](https://github.com/vybenetwork/solana-pyth-api) | CSS | ⭐202 | Solana Pyth API |
-| 8 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐165 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
-| 9 | [v-modal/vmodal_sdk_android](https://github.com/v-modal/vmodal_sdk_android) | Kotlin | ⭐159 | Multimodal Video Search SDK for Android Kotlin |
-| 10 | [x4gKing/Free-Panel](https://github.com/x4gKing/Free-Panel) | HTML | ⭐155 |  |
+| 1 | [xai-org/grok-build](https://github.com/xai-org/grok-build) | Rust | ⭐8537 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib |
+| 2 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | PowerShell | ⭐3539 | Codex Dream Skin |
+| 3 | [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | Rust | ⭐665 |  |
+| 4 | [MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI) | TypeScript | ⭐428 | One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, |
+| 5 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | Python | ⭐313 | Open-source app builder engine — intent to working app |
+| 6 | [TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) | — | ⭐286 |  |
+| 7 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐275 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
+| 8 | [gabriel-azara/hyperliquid-tracker](https://github.com/gabriel-azara/hyperliquid-tracker) | TypeScript | ⭐257 | Get notified when big trades happen on Hyperliquid. |
+| 9 | [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | Go | ⭐246 | Memory layer for coding agents: search, MCP recall, auto-context, secret redacti |
+| 10 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐188 | Your clothes, extracted and organized with gpt-image. |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-16](records/2026-07-16.md) | xai-org/grok-build | 8537 |
 | [2026-07-15](records/2026-07-15.md) | littledivy/mimic | 922 |
 | [2026-07-14](records/2026-07-14.md) | littledivy/mimic | 815 |
 | [2026-07-13](records/2026-07-13.md) | mereyabdenbekuly-ctrl/clodex-ide | 693 |
