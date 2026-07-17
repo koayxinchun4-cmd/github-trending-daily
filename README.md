@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-16
+## Latest: 2026-07-17
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [xai-org/grok-build](https://github.com/xai-org/grok-build) | Rust | ⭐8537 | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib |
-| 2 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | PowerShell | ⭐3539 | Codex Dream Skin |
-| 3 | [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | Rust | ⭐665 |  |
-| 4 | [MatinSenPai/Aether-GUI](https://github.com/MatinSenPai/Aether-GUI) | TypeScript | ⭐428 | One-click desktop GUI for the Aether censorship-circumvention tunnel — Tauri v2, |
-| 5 | [QuantumByteOSS/quantumbyte](https://github.com/QuantumByteOSS/quantumbyte) | Python | ⭐313 | Open-source app builder engine — intent to working app |
-| 6 | [TobiasLee/Rebuttal-Skill](https://github.com/TobiasLee/Rebuttal-Skill) | — | ⭐286 |  |
-| 7 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐275 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
-| 8 | [gabriel-azara/hyperliquid-tracker](https://github.com/gabriel-azara/hyperliquid-tracker) | TypeScript | ⭐257 | Get notified when big trades happen on Hyperliquid. |
-| 9 | [vshulcz/deja-vu](https://github.com/vshulcz/deja-vu) | Go | ⭐246 | Memory layer for coding agents: search, MCP recall, auto-context, secret redacti |
-| 10 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐188 | Your clothes, extracted and organized with gpt-image. |
+| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | JavaScript | ⭐7899 | Codex Dream Skin |
+| 2 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐751 | Your clothes, extracted and organized with gpt-image. |
+| 3 | [PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework) | Python | ⭐422 | Circuit Framework — multi-agent LLM trading research system |
+| 4 | [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue) | JavaScript | ⭐394 | Open-source macOS AI copilot that floats over your screen, sees/hears your meeti |
+| 5 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐287 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
+| 6 | [gabriel-azara/hyperliquid-tracker](https://github.com/gabriel-azara/hyperliquid-tracker) | TypeScript | ⭐257 | Get notified when big trades happen on Hyperliquid. |
+| 7 | [robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot) | TypeScript | ⭐254 | NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Unisw |
+| 8 | [robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler) | TypeScript | ⭐253 | NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA facto |
+| 9 | [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | Python | ⭐236 | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 / Editorial halftone paper |
+| 10 | [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities) | Java | ⭐235 | 176 vulnerabilities in Samsung preinstalled Android apps |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-17](records/2026-07-17.md) | Fei-Away/Codex-Dream-Skin | 7899 |
 | [2026-07-16](records/2026-07-16.md) | xai-org/grok-build | 8537 |
 | [2026-07-15](records/2026-07-15.md) | littledivy/mimic | 922 |
 | [2026-07-14](records/2026-07-14.md) | littledivy/mimic | 815 |
