@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-17
+## Latest: 2026-07-18
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | JavaScript | ⭐7899 | Codex Dream Skin |
-| 2 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐751 | Your clothes, extracted and organized with gpt-image. |
-| 3 | [PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework) | Python | ⭐422 | Circuit Framework — multi-agent LLM trading research system |
-| 4 | [Blueturboguy07/cue](https://github.com/Blueturboguy07/cue) | JavaScript | ⭐394 | Open-source macOS AI copilot that floats over your screen, sees/hears your meeti |
-| 5 | [my-take-dev/inspired-mino-design-skills](https://github.com/my-take-dev/inspired-mino-design-skills) | Shell | ⭐287 | ミノ駆動氏のWebに掲載されている資料から作成した開発スキル |
-| 6 | [gabriel-azara/hyperliquid-tracker](https://github.com/gabriel-azara/hyperliquid-tracker) | TypeScript | ⭐257 | Get notified when big trades happen on Hyperliquid. |
-| 7 | [robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot) | TypeScript | ⭐254 | NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Unisw |
-| 8 | [robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler) | TypeScript | ⭐253 | NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA facto |
-| 9 | [pyang5166/gbro-collage-broll](https://github.com/pyang5166/gbro-collage-broll) | Python | ⭐236 | 半调纸拼贴 B-roll 生成 skill：三闸门审批，Gemini Omni Flash 首尾帧组装动画 / Editorial halftone paper |
-| 10 | [oversecured/Samsung_Vulnerabilities](https://github.com/oversecured/Samsung_Vulnerabilities) | Java | ⭐235 | 176 vulnerabilities in Samsung preinstalled Android apps |
+| 1 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐954 | Your clothes, extracted and organized with gpt-image. |
+| 2 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | TypeScript | ⭐490 | yoink any video from your terminal. no shady ads. |
+| 3 | [PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework) | Python | ⭐479 | Circuit Framework — multi-agent LLM trading research system |
+| 4 | [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | Go | ⭐448 | Use LLMs to hide secret messages inside normal looking conversations |
+| 5 | [PromptPartner/agentsmith](https://github.com/PromptPartner/agentsmith) | Shell | ⭐255 | Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini |
+| 6 | [robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot) | TypeScript | ⭐252 | NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Unisw |
+| 7 | [robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler) | TypeScript | ⭐250 | NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA facto |
+| 8 | [thesysdev/appless](https://github.com/thesysdev/appless) | TypeScript | ⭐209 | What if your phone had no apps |
+| 9 | [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) | Swift | ⭐208 |  |
+| 10 | [h9-tec/Awesome_ai_learning](https://github.com/h9-tec/Awesome_ai_learning) | — | ⭐187 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-18](records/2026-07-18.md) | tandpfun/wardrobe | 954 |
 | [2026-07-17](records/2026-07-17.md) | Fei-Away/Codex-Dream-Skin | 7899 |
 | [2026-07-16](records/2026-07-16.md) | xai-org/grok-build | 8537 |
 | [2026-07-15](records/2026-07-15.md) | littledivy/mimic | 922 |
