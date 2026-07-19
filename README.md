@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-18
+## Latest: 2026-07-19
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | JavaScript | ⭐954 | Your clothes, extracted and organized with gpt-image. |
-| 2 | [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | TypeScript | ⭐490 | yoink any video from your terminal. no shady ads. |
-| 3 | [PengZhang64/circuit-framework](https://github.com/PengZhang64/circuit-framework) | Python | ⭐479 | Circuit Framework — multi-agent LLM trading research system |
-| 4 | [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | Go | ⭐448 | Use LLMs to hide secret messages inside normal looking conversations |
-| 5 | [PromptPartner/agentsmith](https://github.com/PromptPartner/agentsmith) | Shell | ⭐255 | Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini |
-| 6 | [robinhood-ape/robinhood-sniper-bot](https://github.com/robinhood-ape/robinhood-sniper-bot) | TypeScript | ⭐252 | NOXA Fun token sniper on Robinhood Chain - watches TokenLaunched, buys via Unisw |
-| 7 | [robinhood-ape/robinhood-noxa-bundler](https://github.com/robinhood-ape/robinhood-noxa-bundler) | TypeScript | ⭐250 | NOXA Fun multi-wallet launch bundler for Robinhood Chain - launch via NOXA facto |
-| 8 | [thesysdev/appless](https://github.com/thesysdev/appless) | TypeScript | ⭐209 | What if your phone had no apps |
-| 9 | [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) | Swift | ⭐208 |  |
-| 10 | [h9-tec/Awesome_ai_learning](https://github.com/h9-tec/Awesome_ai_learning) | — | ⭐187 |  |
+| 1 | [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | Go | ⭐750 | Use LLMs to hide messages inside normal looking conversations |
+| 2 | [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | Python | ⭐349 | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e |
+| 3 | [MIgHTy-alIeN/Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot) | Solidity | ⭐349 | An arbitrage bot is a smart contract connected to an external automation script  |
+| 4 | [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) | Swift | ⭐320 |  |
+| 5 | [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | Python | ⭐278 | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain |
+| 6 | [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) | Python | ⭐275 | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co |
+| 7 | [thebuggeddev/football-stadium](https://github.com/thebuggeddev/football-stadium) | HTML | ⭐213 | A 3D football stadium to visualize where you sit in the seat before you buy it |
+| 8 | [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) | TypeScript | ⭐139 | Open-source AI coding agent for the terminal. Claude Code-grade accuracy with sm |
+| 9 | [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) | C# | ⭐124 | Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без |
+| 10 | [timethrough/xiaohei-Chrome](https://github.com/timethrough/xiaohei-Chrome) | JavaScript | ⭐108 | 谷歌多开 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-19](records/2026-07-19.md) | nethical6/conversation-steganography | 750 |
 | [2026-07-18](records/2026-07-18.md) | tandpfun/wardrobe | 954 |
 | [2026-07-17](records/2026-07-17.md) | Fei-Away/Codex-Dream-Skin | 7899 |
 | [2026-07-16](records/2026-07-16.md) | xai-org/grok-build | 8537 |
