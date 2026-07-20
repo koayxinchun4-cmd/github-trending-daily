@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-19
+## Latest: 2026-07-20
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | Go | ⭐750 | Use LLMs to hide messages inside normal looking conversations |
-| 2 | [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | Python | ⭐349 | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e |
-| 3 | [MIgHTy-alIeN/Trading-Bot](https://github.com/MIgHTy-alIeN/Trading-Bot) | Solidity | ⭐349 | An arbitrage bot is a smart contract connected to an external automation script  |
-| 4 | [JustinGamer191/Holo](https://github.com/JustinGamer191/Holo) | Swift | ⭐320 |  |
-| 5 | [Icex0/wp2shell-poc](https://github.com/Icex0/wp2shell-poc) | Python | ⭐278 | wp2shell (CVE-2026-63030 & CVE-2026-60137) - full RCE chain |
-| 6 | [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) | Python | ⭐275 | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co |
-| 7 | [thebuggeddev/football-stadium](https://github.com/thebuggeddev/football-stadium) | HTML | ⭐213 | A 3D football stadium to visualize where you sit in the seat before you buy it |
-| 8 | [KlaatAI/klaatcode](https://github.com/KlaatAI/klaatcode) | TypeScript | ⭐139 | Open-source AI coding agent for the terminal. Claude Code-grade accuracy with sm |
-| 9 | [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) | C# | ⭐124 | Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без |
-| 10 | [timethrough/xiaohei-Chrome](https://github.com/timethrough/xiaohei-Chrome) | JavaScript | ⭐108 | 谷歌多开 |
+| 1 | [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | Python | ⭐623 | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e |
+| 2 | [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) | Python | ⭐446 | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co |
+| 3 | [Gheat1/tuistore](https://github.com/Gheat1/tuistore) | Python | ⭐166 | 🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal app |
+| 4 | [joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) | JavaScript | ⭐166 | 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 / Agent-native video director with governed  |
+| 5 | [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean) | — | ⭐164 | he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 sy |
+| 6 | [RinDig/icm-architect](https://github.com/RinDig/icm-architect) | — | ⭐150 | Claude skill: design any process, idea, or problem into an ICM workspace (folder |
+| 7 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | — | ⭐142 | xhs-virtual-product |
+| 8 | [OpenBMB/MiniCPM-Robot](https://github.com/OpenBMB/MiniCPM-Robot) | Python | ⭐141 | A Smarter and Faster On-Device AI Brain for Robots |
+| 9 | [rjx18/codor](https://github.com/rjx18/codor) | TypeScript | ⭐139 |  |
+| 10 | [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) | C# | ⭐119 | Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-20](records/2026-07-20.md) | lopopolo/harness-engineering | 623 |
 | [2026-07-19](records/2026-07-19.md) | nethical6/conversation-steganography | 750 |
 | [2026-07-18](records/2026-07-18.md) | tandpfun/wardrobe | 954 |
 | [2026-07-17](records/2026-07-17.md) | Fei-Away/Codex-Dream-Skin | 7899 |
