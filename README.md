@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-20
+## Latest: 2026-07-21
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | Python | ⭐623 | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e |
-| 2 | [xiejunjie524/handdraw-story-video](https://github.com/xiejunjie524/handdraw-story-video) | Python | ⭐446 | Turn hand-drawn story illustrations into 35–45 second line-reveal and gradual-co |
-| 3 | [Gheat1/tuistore](https://github.com/Gheat1/tuistore) | Python | ⭐166 | 🛍️ The TUI app store — browse, search & one-key-install hundreds of terminal app |
-| 4 | [joeseesun/qiaomu-cut-skill](https://github.com/joeseesun/qiaomu-cut-skill) | JavaScript | ⭐166 | 乔木智能视频导演 Skill：素材治理、双语字幕、品牌包装与可复现渲染 / Agent-native video director with governed  |
-| 5 | [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean) | — | ⭐164 | he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 sy |
-| 6 | [RinDig/icm-architect](https://github.com/RinDig/icm-architect) | — | ⭐150 | Claude skill: design any process, idea, or problem into an ICM workspace (folder |
-| 7 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | — | ⭐142 | xhs-virtual-product |
-| 8 | [OpenBMB/MiniCPM-Robot](https://github.com/OpenBMB/MiniCPM-Robot) | Python | ⭐141 | A Smarter and Faster On-Device AI Brain for Robots |
-| 9 | [rjx18/codor](https://github.com/rjx18/codor) | TypeScript | ⭐139 |  |
-| 10 | [PostmanReminisce/Wisp-VPN](https://github.com/PostmanReminisce/Wisp-VPN) | C# | ⭐119 | Wisp VPN - бесплатный и открытый VPN-клиент для Windows на основе WireGuard. Без |
+| 1 | [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | Swift | ⭐401 | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from  |
+| 2 | [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean) | — | ⭐294 | he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 sy |
+| 3 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | TypeScript | ⭐279 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: |
+| 4 | [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) | Go | ⭐278 | Machine Genome is an open identity and provenance protocol for models, agents, h |
+| 5 | [eli-labz/Agent-Execution-Partnership](https://github.com/eli-labz/Agent-Execution-Partnership) | Python | ⭐233 | Agent Execution Partnership AEE is an open-source control plane that ensures eve |
+| 6 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | Python | ⭐220 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 7 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | — | ⭐196 | xhs-virtual-product |
+| 8 | [rjx18/codor](https://github.com/rjx18/codor) | TypeScript | ⭐185 |  |
+| 9 | [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser) | JavaScript | ⭐185 | 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA |
+| 10 | [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) | JavaScript | ⭐126 | External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migra |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-21](records/2026-07-21.md) | Blaizzy/nativ | 401 |
 | [2026-07-20](records/2026-07-20.md) | lopopolo/harness-engineering | 623 |
 | [2026-07-19](records/2026-07-19.md) | nethical6/conversation-steganography | 750 |
 | [2026-07-18](records/2026-07-18.md) | tandpfun/wardrobe | 954 |
