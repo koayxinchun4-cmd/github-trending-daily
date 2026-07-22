@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-21
+## Latest: 2026-07-22
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | Swift | ⭐401 | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from  |
-| 2 | [KinetiNode/claude-fable-5-system-prompt-clean](https://github.com/KinetiNode/claude-fable-5-system-prompt-clean) | — | ⭐294 | he optimized, token-efficient version of the leaked Claude Fable 5 / Mythos 5 sy |
-| 3 | [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | TypeScript | ⭐279 | AI video skill for Claude Code & Codex — cinematic product videos with Remotion: |
-| 4 | [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) | Go | ⭐278 | Machine Genome is an open identity and provenance protocol for models, agents, h |
-| 5 | [eli-labz/Agent-Execution-Partnership](https://github.com/eli-labz/Agent-Execution-Partnership) | Python | ⭐233 | Agent Execution Partnership AEE is an open-source control plane that ensures eve |
-| 6 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | Python | ⭐220 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
-| 7 | [chenjin-cmd/xhs-virtual-product](https://github.com/chenjin-cmd/xhs-virtual-product) | — | ⭐196 | xhs-virtual-product |
-| 8 | [rjx18/codor](https://github.com/rjx18/codor) | TypeScript | ⭐185 |  |
-| 9 | [lyu0805/OpenBrowser](https://github.com/lyu0805/OpenBrowser) | JavaScript | ⭐185 | 本地指纹浏览器 · 多环境隔离 · 代理 / 指纹 / 同步 / RPA |
-| 10 | [duolahypercho/codex-router](https://github.com/duolahypercho/codex-router) | JavaScript | ⭐126 | External-model router for Codex with guided Kimi OAuth/API, DeepSeek, safe migra |
+| 1 | [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | Swift | ⭐682 | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from  |
+| 2 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | Python | ⭐426 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| 3 | [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | TypeScript | ⭐342 | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two |
+| 4 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | JavaScript | ⭐300 | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar |
+| 5 | [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) | Go | ⭐284 | Machine Genome is an open identity and provenance protocol for models, agents, h |
+| 6 | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | JavaScript | ⭐284 | Orchestrate AI agents to find real vulnerabilities in code. |
+| 7 | [chartup-solana-volume-bot/solanavolumebot](https://github.com/chartup-solana-volume-bot/solanavolumebot) | — | ⭐280 | Top-rated Solana volume bot and developer tools for DEX liquidity, maker activit |
+| 8 | [pireel/pireel](https://github.com/pireel/pireel) | TypeScript | ⭐255 | Open-source, backend-free AI video editor for talking-head video — storyboarding |
+| 9 | [eli-labz/Agent-Execution-Partnership](https://github.com/eli-labz/Agent-Execution-Partnership) | Python | ⭐251 | Agent Execution Partnership AEE is an open-source control plane that ensures eve |
+| 10 | [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch) | Swift | ⭐235 | The open-source alternative to vibe-island |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-22](records/2026-07-22.md) | Blaizzy/nativ | 682 |
 | [2026-07-21](records/2026-07-21.md) | Blaizzy/nativ | 401 |
 | [2026-07-20](records/2026-07-20.md) | lopopolo/harness-engineering | 623 |
 | [2026-07-19](records/2026-07-19.md) | nethical6/conversation-steganography | 750 |
