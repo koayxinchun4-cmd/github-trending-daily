@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-22
+## Latest: 2026-07-23
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | Swift | ⭐682 | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from  |
-| 2 | [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | Python | ⭐426 | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
-| 3 | [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | TypeScript | ⭐342 | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two |
-| 4 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | JavaScript | ⭐300 | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar |
-| 5 | [paxlabs-inc/machine-genome](https://github.com/paxlabs-inc/machine-genome) | Go | ⭐284 | Machine Genome is an open identity and provenance protocol for models, agents, h |
-| 6 | [Kritt-ai/open-kritt](https://github.com/Kritt-ai/open-kritt) | JavaScript | ⭐284 | Orchestrate AI agents to find real vulnerabilities in code. |
-| 7 | [chartup-solana-volume-bot/solanavolumebot](https://github.com/chartup-solana-volume-bot/solanavolumebot) | — | ⭐280 | Top-rated Solana volume bot and developer tools for DEX liquidity, maker activit |
-| 8 | [pireel/pireel](https://github.com/pireel/pireel) | TypeScript | ⭐255 | Open-source, backend-free AI video editor for talking-head video — storyboarding |
-| 9 | [eli-labz/Agent-Execution-Partnership](https://github.com/eli-labz/Agent-Execution-Partnership) | Python | ⭐251 | Agent Execution Partnership AEE is an open-source control plane that ensures eve |
-| 10 | [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch) | Swift | ⭐235 | The open-source alternative to vibe-island |
+| 1 | [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | TypeScript | ⭐722 | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two |
+| 2 | [0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker) | TypeScript | ⭐504 | Get notified when big trades happen on Hyperliquid. |
+| 3 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | JavaScript | ⭐483 | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar |
+| 4 | [AdelanSupport/adelan-support](https://github.com/AdelanSupport/adelan-support) | Python | ⭐312 |  |
+| 5 | [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch) | Swift | ⭐253 | The open-source alternative to vibe-island |
+| 6 | [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc) | Python | ⭐185 | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0 |
+| 7 | [0xwilliamortiz/andrej-karpathy-skills](https://github.com/0xwilliamortiz/andrej-karpathy-skills) | — | ⭐167 | Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field no |
+| 8 | [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) | Kotlin | ⭐158 | Open-source, multi-platform harness for AI agents — a native, multi-threaded ope |
+| 9 | [tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1) | Python | ⭐147 | Community benchmarks and scripts for running Poolside Laguna S 2.1 |
+| 10 | [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) | TypeScript | ⭐144 | 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-23](records/2026-07-23.md) | Jakubantalik/thinking-orbs | 722 |
 | [2026-07-22](records/2026-07-22.md) | Blaizzy/nativ | 682 |
 | [2026-07-21](records/2026-07-21.md) | Blaizzy/nativ | 401 |
 | [2026-07-20](records/2026-07-20.md) | lopopolo/harness-engineering | 623 |
