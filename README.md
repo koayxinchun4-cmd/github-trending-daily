@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-23
+## Latest: 2026-07-24
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | TypeScript | ⭐722 | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two |
-| 2 | [0xhype/hyperliquid-tracker](https://github.com/0xhype/hyperliquid-tracker) | TypeScript | ⭐504 | Get notified when big trades happen on Hyperliquid. |
-| 3 | [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | JavaScript | ⭐483 | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar |
-| 4 | [AdelanSupport/adelan-support](https://github.com/AdelanSupport/adelan-support) | Python | ⭐312 |  |
-| 5 | [realfishsam/agent-notch](https://github.com/realfishsam/agent-notch) | Swift | ⭐253 | The open-source alternative to vibe-island |
-| 6 | [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc) | Python | ⭐185 | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0 |
-| 7 | [0xwilliamortiz/andrej-karpathy-skills](https://github.com/0xwilliamortiz/andrej-karpathy-skills) | — | ⭐167 | Behavioral guardrails for Claude Code, distilled from Andrej Karpathy's field no |
-| 8 | [risa-labs-inc/BossConsole](https://github.com/risa-labs-inc/BossConsole) | Kotlin | ⭐158 | Open-source, multi-platform harness for AI agents — a native, multi-threaded ope |
-| 9 | [tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1) | Python | ⭐147 | Community benchmarks and scripts for running Poolside Laguna S 2.1 |
-| 10 | [hahhforest/pi-textbook](https://github.com/hahhforest/pi-textbook) | TypeScript | ⭐144 | 《动手学 Pi》：沿 15 个真实 checkpoint 从零构建 Pi-style Agent |
+| 1 | [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc) | Python | ⭐362 | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0 |
+| 2 | [yokel1121/muyang-flat-animation](https://github.com/yokel1121/muyang-flat-animation) | Python | ⭐177 | 将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材 |
+| 3 | [RongleCat/grok-app](https://github.com/RongleCat/grok-app) | TypeScript | ⭐174 | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (T |
+| 4 | [finna/Finn-loop](https://github.com/finna/Finn-loop) | JavaScript | ⭐172 | The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, revi |
+| 5 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Python | ⭐170 |  |
+| 6 | [davidmokos/expo-glass-tabs](https://github.com/davidmokos/expo-glass-tabs) | TypeScript | ⭐162 | Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding high |
+| 7 | [NextWeb4/official-document-ai-assistant](https://github.com/NextWeb4/official-document-ai-assistant) | Python | ⭐160 | Local official-document review, formatting repair, and compliant export desktop  |
+| 8 | [tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1) | Python | ⭐142 | Community benchmarks and scripts for running Poolside Laguna S 2.1 |
+| 9 | [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) | Rust | ⭐136 | Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter |
+| 10 | [dboudreau00/Conformiti](https://github.com/dboudreau00/Conformiti) | Python | ⭐114 | A GRC Compliance tool for SaaS products to manage the entire lifecycle of securi |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-24](records/2026-07-24.md) | berabuddies/redis-poc | 362 |
 | [2026-07-23](records/2026-07-23.md) | Jakubantalik/thinking-orbs | 722 |
 | [2026-07-22](records/2026-07-22.md) | Blaizzy/nativ | 682 |
 | [2026-07-21](records/2026-07-21.md) | Blaizzy/nativ | 401 |
