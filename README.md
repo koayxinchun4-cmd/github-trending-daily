@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-24
+## Latest: 2026-07-25
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [berabuddies/redis-poc](https://github.com/berabuddies/redis-poc) | Python | ⭐362 | RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0 |
-| 2 | [yokel1121/muyang-flat-animation](https://github.com/yokel1121/muyang-flat-animation) | Python | ⭐177 | 将中文观点转成纸上钢笔线稿与彩铅风格的知识讲解动画素材 |
-| 3 | [RongleCat/grok-app](https://github.com/RongleCat/grok-app) | TypeScript | ⭐174 | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (T |
-| 4 | [finna/Finn-loop](https://github.com/finna/Finn-loop) | JavaScript | ⭐172 | The Finn-loop: a 3-skill AI software factory for Claude Code — spec, build, revi |
-| 5 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Python | ⭐170 |  |
-| 6 | [davidmokos/expo-glass-tabs](https://github.com/davidmokos/expo-glass-tabs) | TypeScript | ⭐162 | Floating liquid-glass tab bar for Expo Router — minimize-on-scroll, sliding high |
-| 7 | [NextWeb4/official-document-ai-assistant](https://github.com/NextWeb4/official-document-ai-assistant) | Python | ⭐160 | Local official-document review, formatting repair, and compliant export desktop  |
-| 8 | [tanishq-dubey/macos-laguna-s2.1](https://github.com/tanishq-dubey/macos-laguna-s2.1) | Python | ⭐142 | Community benchmarks and scripts for running Poolside Laguna S 2.1 |
-| 9 | [steelbrain/metal2vulkan](https://github.com/steelbrain/metal2vulkan) | Rust | ⭐136 | Translate Metal AIR / LLVM IR to Vulkan SPIR-V with a native Rust emitter |
-| 10 | [dboudreau00/Conformiti](https://github.com/dboudreau00/Conformiti) | Python | ⭐114 | A GRC Compliance tool for SaaS products to manage the entire lifecycle of securi |
+| 1 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Python | ⭐565 |  |
+| 2 | [melloworchid8rr6g/TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot) | JavaScript | ⭐313 | Telegram bot that catches Polymarket whale trades in real time and lets you copy |
+| 3 | [RongleCat/grok-app](https://github.com/RongleCat/grok-app) | TypeScript | ⭐251 | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (T |
+| 4 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | Python | ⭐248 | Local-first Agent Work Intelligence for coding agents: usage truth, recorded wor |
+| 5 | [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121) | Python | ⭐131 | Certighost POC |
+| 6 | [daimon3332/OutlookRegister](https://github.com/daimon3332/OutlookRegister) | Python | ⭐123 |  |
+| 7 | [dboudreau00/Conformiti](https://github.com/dboudreau00/Conformiti) | Python | ⭐122 | A GRC Compliance tool for SaaS products to manage the entire lifecycle of securi |
+| 8 | [CWS6206/EasySystemCleaner](https://github.com/CWS6206/EasySystemCleaner) | C# | ⭐122 | EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows  |
+| 9 | [sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax) | Python | ⭐119 |  |
+| 10 | [rrrjqy66/BlackHoleTrash](https://github.com/rrrjqy66/BlackHoleTrash) | Rust | ⭐112 | A compact Windows black-hole Recycle Bin with real-time gravitational lensing |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-25](records/2026-07-25.md) | slvDev/esp32-ai | 565 |
 | [2026-07-24](records/2026-07-24.md) | berabuddies/redis-poc | 362 |
 | [2026-07-23](records/2026-07-23.md) | Jakubantalik/thinking-orbs | 722 |
 | [2026-07-22](records/2026-07-22.md) | Blaizzy/nativ | 682 |
