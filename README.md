@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-25
+## Latest: 2026-07-26
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | Python | ⭐565 |  |
-| 2 | [melloworchid8rr6g/TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot) | JavaScript | ⭐313 | Telegram bot that catches Polymarket whale trades in real time and lets you copy |
-| 3 | [RongleCat/grok-app](https://github.com/RongleCat/grok-app) | TypeScript | ⭐251 | Desktop workbench for Grok Build CLI — sessions, projects, media, automations (T |
-| 4 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | Python | ⭐248 | Local-first Agent Work Intelligence for coding agents: usage truth, recorded wor |
-| 5 | [aniqfakhrul/CVE-2026-54121](https://github.com/aniqfakhrul/CVE-2026-54121) | Python | ⭐131 | Certighost POC |
-| 6 | [daimon3332/OutlookRegister](https://github.com/daimon3332/OutlookRegister) | Python | ⭐123 |  |
-| 7 | [dboudreau00/Conformiti](https://github.com/dboudreau00/Conformiti) | Python | ⭐122 | A GRC Compliance tool for SaaS products to manage the entire lifecycle of securi |
-| 8 | [CWS6206/EasySystemCleaner](https://github.com/CWS6206/EasySystemCleaner) | C# | ⭐122 | EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows  |
-| 9 | [sunny-glow/Auto-BenchMax](https://github.com/sunny-glow/Auto-BenchMax) | Python | ⭐119 |  |
-| 10 | [rrrjqy66/BlackHoleTrash](https://github.com/rrrjqy66/BlackHoleTrash) | Rust | ⭐112 | A compact Windows black-hole Recycle Bin with real-time gravitational lensing |
+| 1 | [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | Python | ⭐723 | An AI copywriter that uses real copywriting skills + real marketing knowledge wi |
+| 2 | [melloworchid8rr6g/TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot) | JavaScript | ⭐390 | Telegram bot that catches Polymarket whale trades in real time and lets you copy |
+| 3 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | Python | ⭐341 | Local-first Agent Work Intelligence for coding agents: usage truth, recorded wor |
+| 4 | [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | JavaScript | ⭐338 | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| 5 | [rustyharbor308774/Ethereum-bot](https://github.com/rustyharbor308774/Ethereum-bot) | Solidity | ⭐313 | The bot detects a large swap in the mempool → buys earlier with priority gas → p |
+| 6 | [anton-hq96g4/Meccha-Medusa](https://github.com/anton-hq96g4/Meccha-Medusa) | — | ⭐233 | Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint |
+| 7 | [NextWeb4/gw](https://github.com/NextWeb4/gw) | HTML | ⭐158 | HxHwang Gw 公文事务与写作管理系统 |
+| 8 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | JavaScript | ⭐153 | Polymarket whale trades in real time |
+| 9 | [jazzzooo/buz](https://github.com/jazzzooo/buz) | Zig | ⭐138 | A fork of Bun based on modern Zig |
+| 10 | [CWS6206/EasySystemCleaner](https://github.com/CWS6206/EasySystemCleaner) | C# | ⭐122 | EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-26](records/2026-07-26.md) | mikiarlo3/ai-copywriter | 723 |
 | [2026-07-25](records/2026-07-25.md) | slvDev/esp32-ai | 565 |
 | [2026-07-24](records/2026-07-24.md) | berabuddies/redis-poc | 362 |
 | [2026-07-23](records/2026-07-23.md) | Jakubantalik/thinking-orbs | 722 |
