@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-26
+## Latest: 2026-07-27
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | Python | ⭐723 | An AI copywriter that uses real copywriting skills + real marketing knowledge wi |
-| 2 | [melloworchid8rr6g/TG-Polymarket-bot](https://github.com/melloworchid8rr6g/TG-Polymarket-bot) | JavaScript | ⭐390 | Telegram bot that catches Polymarket whale trades in real time and lets you copy |
-| 3 | [mikehasa/agentacct](https://github.com/mikehasa/agentacct) | Python | ⭐341 | Local-first Agent Work Intelligence for coding agents: usage truth, recorded wor |
-| 4 | [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | JavaScript | ⭐338 | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| 5 | [rustyharbor308774/Ethereum-bot](https://github.com/rustyharbor308774/Ethereum-bot) | Solidity | ⭐313 | The bot detects a large swap in the mempool → buys earlier with priority gas → p |
-| 6 | [anton-hq96g4/Meccha-Medusa](https://github.com/anton-hq96g4/Meccha-Medusa) | — | ⭐233 | Meccha Chameleon: ESP · Aimbot · Fly Hack · Teleport · God Mode · Infinite Paint |
-| 7 | [NextWeb4/gw](https://github.com/NextWeb4/gw) | HTML | ⭐158 | HxHwang Gw 公文事务与写作管理系统 |
-| 8 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | JavaScript | ⭐153 | Polymarket whale trades in real time |
-| 9 | [jazzzooo/buz](https://github.com/jazzzooo/buz) | Zig | ⭐138 | A fork of Bun based on modern Zig |
-| 10 | [CWS6206/EasySystemCleaner](https://github.com/CWS6206/EasySystemCleaner) | C# | ⭐122 | EasySystemCleaner Portable, original Windows 11 cleaning utility. Clean Windows  |
+| 1 | [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | JavaScript | ⭐846 | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| 2 | [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) | Python | ⭐498 | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. |
+| 3 | [rustyharbor308774/Ethereum-bot](https://github.com/rustyharbor308774/Ethereum-bot) | Solidity | ⭐358 | The bot detects a large swap in the mempool → buys earlier with priority gas → p |
+| 4 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | TypeScript | ⭐176 | runs anywhere. uses anything |
+| 5 | [dotneet/image-to-3d](https://github.com/dotneet/image-to-3d) | Python | ⭐165 |  |
+| 6 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | TypeScript | ⭐159 | An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript a |
+| 7 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | JavaScript | ⭐154 | Polymarket whale trades in real time |
+| 8 | [dboudreau00/NocTORnal](https://github.com/dboudreau00/NocTORnal) | Python | ⭐154 | NocTORnal is a full-stack, Cybercrime specific investigative toolset from case t |
+| 9 | [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) | Python | ⭐137 |  |
+| 10 | [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6) | Python | ⭐136 | NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-27](records/2026-07-27.md) | mshumer/Claude-of-Duty | 846 |
 | [2026-07-26](records/2026-07-26.md) | mikiarlo3/ai-copywriter | 723 |
 | [2026-07-25](records/2026-07-25.md) | slvDev/esp32-ai | 565 |
 | [2026-07-24](records/2026-07-24.md) | berabuddies/redis-poc | 362 |
