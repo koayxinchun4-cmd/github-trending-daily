@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-27
+## Latest: 2026-07-28
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | JavaScript | ⭐846 | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| 2 | [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) | Python | ⭐498 | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. |
-| 3 | [rustyharbor308774/Ethereum-bot](https://github.com/rustyharbor308774/Ethereum-bot) | Solidity | ⭐358 | The bot detects a large swap in the mempool → buys earlier with priority gas → p |
-| 4 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | TypeScript | ⭐176 | runs anywhere. uses anything |
-| 5 | [dotneet/image-to-3d](https://github.com/dotneet/image-to-3d) | Python | ⭐165 |  |
-| 6 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | TypeScript | ⭐159 | An open-source Dynamic Workflow runtime that keeps orchestration in TypeScript a |
-| 7 | [dunefalcon1qrj/Telegram-Bot](https://github.com/dunefalcon1qrj/Telegram-Bot) | JavaScript | ⭐154 | Polymarket whale trades in real time |
-| 8 | [dboudreau00/NocTORnal](https://github.com/dboudreau00/NocTORnal) | Python | ⭐154 | NocTORnal is a full-stack, Cybercrime specific investigative toolset from case t |
-| 9 | [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) | Python | ⭐137 |  |
-| 10 | [lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6](https://github.com/lingbol088-spec/5.6-JAILBREAK-NERV-codex-instruct-5.6) | Python | ⭐136 | NERV-BREAK-5.6 — GPT-5.6 破甲框架。三层纵深防御：上下文重构让拒绝无法触发，23条篡改规则实时消除拒绝保持对话不中断，文件路由绕过云端审 |
+| 1 | [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | — | ⭐2797 | Open Frontier Intelligence |
+| 2 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | TypeScript | ⭐577 | runs anywhere. uses anything |
+| 3 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | TypeScript | ⭐304 | An open-source graph engineering runtime that keeps orchestration in TypeScript  |
+| 4 | [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) | Python | ⭐257 | An archive of public Claude and Grok conversations, exported from their share li |
+| 5 | [wassgha/rescript](https://github.com/wassgha/rescript) | TypeScript | ⭐224 | 🎬 Open source, transcript-based video/audio editor that lives in the browser. |
+| 6 | [dotneet/image-to-3d](https://github.com/dotneet/image-to-3d) | Python | ⭐185 |  |
+| 7 | [dboudreau00/NocTORnal](https://github.com/dboudreau00/NocTORnal) | Python | ⭐172 | NocTORnal is a full-stack, Cybercrime specific investigative toolset from case t |
+| 8 | [sii-research/tau-0-vla](https://github.com/sii-research/tau-0-vla) | Python | ⭐147 | This repo is the official implementation of  "τ0-VLA: a Hierarchical Robot Found |
+| 9 | [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu) | Rust | ⭐142 | reims-vgpu is an experimental virtual GPU for macOS guests |
+| 10 | [bytec-ai/book-video-factory](https://github.com/bytec-ai/book-video-factory) | Python | ⭐122 | 通用、可移植的多账号图书短视频生产 Skill |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-28](records/2026-07-28.md) | MoonshotAI/Kimi-K3 | 2797 |
 | [2026-07-27](records/2026-07-27.md) | mshumer/Claude-of-Duty | 846 |
 | [2026-07-26](records/2026-07-26.md) | mikiarlo3/ai-copywriter | 723 |
 | [2026-07-25](records/2026-07-25.md) | slvDev/esp32-ai | 565 |
