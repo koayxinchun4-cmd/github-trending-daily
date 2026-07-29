@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-28
+## Latest: 2026-07-29
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | — | ⭐2797 | Open Frontier Intelligence |
-| 2 | [0xwilliamortiz/openclaude-improved](https://github.com/0xwilliamortiz/openclaude-improved) | TypeScript | ⭐577 | runs anywhere. uses anything |
-| 3 | [deerwork-ai/deer-workflow](https://github.com/deerwork-ai/deer-workflow) | TypeScript | ⭐304 | An open-source graph engineering runtime that keeps orchestration in TypeScript  |
-| 4 | [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) | Python | ⭐257 | An archive of public Claude and Grok conversations, exported from their share li |
-| 5 | [wassgha/rescript](https://github.com/wassgha/rescript) | TypeScript | ⭐224 | 🎬 Open source, transcript-based video/audio editor that lives in the browser. |
-| 6 | [dotneet/image-to-3d](https://github.com/dotneet/image-to-3d) | Python | ⭐185 |  |
-| 7 | [dboudreau00/NocTORnal](https://github.com/dboudreau00/NocTORnal) | Python | ⭐172 | NocTORnal is a full-stack, Cybercrime specific investigative toolset from case t |
-| 8 | [sii-research/tau-0-vla](https://github.com/sii-research/tau-0-vla) | Python | ⭐147 | This repo is the official implementation of  "τ0-VLA: a Hierarchical Robot Found |
-| 9 | [steelbrain/reims-vgpu](https://github.com/steelbrain/reims-vgpu) | Rust | ⭐142 | reims-vgpu is an experimental virtual GPU for macOS guests |
-| 10 | [bytec-ai/book-video-factory](https://github.com/bytec-ai/book-video-factory) | Python | ⭐122 | 通用、可移植的多账号图书短视频生产 Skill |
+| 1 | [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | — | ⭐3812 | Open Frontier Intelligence |
+| 2 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | JavaScript | ⭐476 | Makes your AI agent think like the laziest senior dev in the room. The best code |
+| 3 | [achimala/TheLongSilence](https://github.com/achimala/TheLongSilence) | JavaScript | ⭐263 | A space exploration game built by Claude Opus 5 |
+| 4 | [xikhar/persona](https://github.com/xikhar/persona) | JavaScript | ⭐235 | Bringing real-time voice to life. |
+| 5 | [gavamedia/deltafin](https://github.com/gavamedia/deltafin) | Python | ⭐229 | Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon  |
+| 6 | [PipeNetwork/kimi-k3-mlx](https://github.com/PipeNetwork/kimi-k3-mlx) | Python | ⭐184 | MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP |
+| 7 | [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | JavaScript | ⭐151 | A realtime voice runtime that keeps Agents talking, working, and present.  Real- |
+| 8 | [AmazingAng/old-coder](https://github.com/AmazingAng/old-coder) | Python | ⭐150 | An old coder's strategy for the agent era: don't read the code — make it run the |
+| 9 | [bytec-ai/book-video-factory](https://github.com/bytec-ai/book-video-factory) | Python | ⭐148 | 通用、可移植的多账号图书短视频生产 Skill |
+| 10 | [ChrisMack32/Locus](https://github.com/ChrisMack32/Locus) | Swift | ⭐146 | Free open-source iPhone location teleport (MIT) |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-29](records/2026-07-29.md) | MoonshotAI/Kimi-K3 | 3812 |
 | [2026-07-28](records/2026-07-28.md) | MoonshotAI/Kimi-K3 | 2797 |
 | [2026-07-27](records/2026-07-27.md) | mshumer/Claude-of-Duty | 846 |
 | [2026-07-26](records/2026-07-26.md) | mikiarlo3/ai-copywriter | 723 |
