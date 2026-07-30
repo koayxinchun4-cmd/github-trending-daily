@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-29
+## Latest: 2026-07-30
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | — | ⭐3812 | Open Frontier Intelligence |
-| 2 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | JavaScript | ⭐476 | Makes your AI agent think like the laziest senior dev in the room. The best code |
-| 3 | [achimala/TheLongSilence](https://github.com/achimala/TheLongSilence) | JavaScript | ⭐263 | A space exploration game built by Claude Opus 5 |
-| 4 | [xikhar/persona](https://github.com/xikhar/persona) | JavaScript | ⭐235 | Bringing real-time voice to life. |
-| 5 | [gavamedia/deltafin](https://github.com/gavamedia/deltafin) | Python | ⭐229 | Run Kimi K3, a 2.8T-parameter Mixture-of-Experts LLM, on a single Apple Silicon  |
-| 6 | [PipeNetwork/kimi-k3-mlx](https://github.com/PipeNetwork/kimi-k3-mlx) | Python | ⭐184 | MLX port of moonshotai/Kimi-K3 (2.78T multimodal MoE): streaming converter, REAP |
-| 7 | [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | JavaScript | ⭐151 | A realtime voice runtime that keeps Agents talking, working, and present.  Real- |
-| 8 | [AmazingAng/old-coder](https://github.com/AmazingAng/old-coder) | Python | ⭐150 | An old coder's strategy for the agent era: don't read the code — make it run the |
-| 9 | [bytec-ai/book-video-factory](https://github.com/bytec-ai/book-video-factory) | Python | ⭐148 | 通用、可移植的多账号图书短视频生产 Skill |
-| 10 | [ChrisMack32/Locus](https://github.com/ChrisMack32/Locus) | Swift | ⭐146 | Free open-source iPhone location teleport (MIT) |
+| 1 | [xikhar/persona](https://github.com/xikhar/persona) | JavaScript | ⭐624 | Bringing real-time voice to life. |
+| 2 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | JavaScript | ⭐555 | Makes your AI agent think like the laziest senior dev in the room. The best code |
+| 3 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | TypeScript | ⭐499 | Open-source, self-hosted revenue-first analytics for founders: web analytics, Se |
+| 4 | [gavamedia/deltafin](https://github.com/gavamedia/deltafin) | Python | ⭐394 | Run full Kimi K3 on a single device. And an OpenAI-compatible API server for loc |
+| 5 | [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo) | JavaScript | ⭐249 | A real-time procedural snow rendering demo built with WebGPU, Babylon.js and han |
+| 6 | [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) | Python | ⭐232 | Grok register engine (Camoufox) + live web monitor panel |
+| 7 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | C | ⭐228 |  |
+| 8 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | ⭐213 |  |
+| 9 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐200 | sub2api-guardian |
+| 10 | [0xwilliamortiz/FlashKDA](https://github.com/0xwilliamortiz/FlashKDA) | Cuda | ⭐192 | FlashKDA: memory-efficient KDA kernels for training and decode |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-30](records/2026-07-30.md) | xikhar/persona | 624 |
 | [2026-07-29](records/2026-07-29.md) | MoonshotAI/Kimi-K3 | 3812 |
 | [2026-07-28](records/2026-07-28.md) | MoonshotAI/Kimi-K3 | 2797 |
 | [2026-07-27](records/2026-07-27.md) | mshumer/Claude-of-Duty | 846 |
