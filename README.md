@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-30
+## Latest: 2026-07-31
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [xikhar/persona](https://github.com/xikhar/persona) | JavaScript | ⭐624 | Bringing real-time voice to life. |
-| 2 | [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | JavaScript | ⭐555 | Makes your AI agent think like the laziest senior dev in the room. The best code |
-| 3 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | TypeScript | ⭐499 | Open-source, self-hosted revenue-first analytics for founders: web analytics, Se |
-| 4 | [gavamedia/deltafin](https://github.com/gavamedia/deltafin) | Python | ⭐394 | Run full Kimi K3 on a single device. And an OpenAI-compatible API server for loc |
-| 5 | [Noniv/snowflow_demo](https://github.com/Noniv/snowflow_demo) | JavaScript | ⭐249 | A real-time procedural snow rendering demo built with WebGPU, Babylon.js and han |
-| 6 | [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) | Python | ⭐232 | Grok register engine (Camoufox) + live web monitor panel |
-| 7 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | C | ⭐228 |  |
-| 8 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | ⭐213 |  |
-| 9 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐200 | sub2api-guardian |
-| 10 | [0xwilliamortiz/FlashKDA](https://github.com/0xwilliamortiz/FlashKDA) | Cuda | ⭐192 | FlashKDA: memory-efficient KDA kernels for training and decode |
+| 1 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | TypeScript | ⭐720 |  |
+| 2 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | TypeScript | ⭐506 | Open-source, self-hosted revenue-first analytics for founders: web analytics, Se |
+| 3 | [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | — | ⭐442 | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
+| 4 | [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) | Python | ⭐298 | Grok register engine (Camoufox) + live web monitor panel |
+| 5 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | C | ⭐284 |  |
+| 6 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | ⭐240 |  |
+| 7 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐218 | sub2api-guardian |
+| 8 | [0xwilliamortiz/FlashKDA](https://github.com/0xwilliamortiz/FlashKDA) | Cuda | ⭐193 | FlashKDA: memory-efficient KDA kernels for training and decode |
+| 9 | [Kenton-GMI/sakura-crossing](https://github.com/Kenton-GMI/sakura-crossing) | JavaScript | ⭐184 | An explorable Japanese suburban railway-crossing neighbourhood on a small planet |
+| 10 | [ddoemonn/interior](https://github.com/ddoemonn/interior) | TypeScript | ⭐179 | micro-interactions for react, built for the half-second after a click |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-07-31](records/2026-07-31.md) | bashalarmistalt/decimen-optical-transfer | 720 |
 | [2026-07-30](records/2026-07-30.md) | xikhar/persona | 624 |
 | [2026-07-29](records/2026-07-29.md) | MoonshotAI/Kimi-K3 | 3812 |
 | [2026-07-28](records/2026-07-28.md) | MoonshotAI/Kimi-K3 | 2797 |
