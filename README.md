@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-07-31
+## Latest: 2026-08-01
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | TypeScript | ⭐720 |  |
-| 2 | [talivia-group/talivia](https://github.com/talivia-group/talivia) | TypeScript | ⭐506 | Open-source, self-hosted revenue-first analytics for founders: web analytics, Se |
-| 3 | [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | — | ⭐442 | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
-| 4 | [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) | Python | ⭐298 | Grok register engine (Camoufox) + live web monitor panel |
-| 5 | [Infatoshi/netherite](https://github.com/Infatoshi/netherite) | C | ⭐284 |  |
-| 6 | [elayadesign/ai-design-skills](https://github.com/elayadesign/ai-design-skills) | — | ⭐240 |  |
-| 7 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐218 | sub2api-guardian |
-| 8 | [0xwilliamortiz/FlashKDA](https://github.com/0xwilliamortiz/FlashKDA) | Cuda | ⭐193 | FlashKDA: memory-efficient KDA kernels for training and decode |
-| 9 | [Kenton-GMI/sakura-crossing](https://github.com/Kenton-GMI/sakura-crossing) | JavaScript | ⭐184 | An explorable Japanese suburban railway-crossing neighbourhood on a small planet |
-| 10 | [ddoemonn/interior](https://github.com/ddoemonn/interior) | TypeScript | ⭐179 | micro-interactions for react, built for the half-second after a click |
+| 1 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | TypeScript | ⭐2560 |  |
+| 2 | [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | — | ⭐633 | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
+| 3 | [WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | — | ⭐532 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
+| 4 | [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) | JavaScript | ⭐402 | Your agent reads the rules. This checks whether it followed them. |
+| 5 | [ddoemonn/interior](https://github.com/ddoemonn/interior) | TypeScript | ⭐354 | micro-interactions for react, built for the half-second after a click |
+| 6 | [Packets/tew](https://github.com/Packets/tew) | — | ⭐341 |  |
+| 7 | [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) | TypeScript | ⭐283 |  |
+| 8 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐219 | sub2api-guardian |
+| 9 | [0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat) | Python | ⭐165 | Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红 |
+| 10 | [ZihangDong/toolknit-desktop](https://github.com/ZihangDong/toolknit-desktop) | JavaScript | ⭐163 | 多功能工具箱 · 桌面端开源版 / 音视频/图片/PDF/AI 一站式处理 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-01](records/2026-08-01.md) | bashalarmistalt/decimen-optical-transfer | 2560 |
 | [2026-07-31](records/2026-07-31.md) | bashalarmistalt/decimen-optical-transfer | 720 |
 | [2026-07-30](records/2026-07-30.md) | xikhar/persona | 624 |
 | [2026-07-29](records/2026-07-29.md) | MoonshotAI/Kimi-K3 | 3812 |
