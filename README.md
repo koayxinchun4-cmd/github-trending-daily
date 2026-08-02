@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-01
+## Latest: 2026-08-02
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | TypeScript | ⭐2560 |  |
-| 2 | [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | — | ⭐633 | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
-| 3 | [WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | — | ⭐532 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
-| 4 | [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) | JavaScript | ⭐402 | Your agent reads the rules. This checks whether it followed them. |
-| 5 | [ddoemonn/interior](https://github.com/ddoemonn/interior) | TypeScript | ⭐354 | micro-interactions for react, built for the half-second after a click |
-| 6 | [Packets/tew](https://github.com/Packets/tew) | — | ⭐341 |  |
-| 7 | [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) | TypeScript | ⭐283 |  |
-| 8 | [codermyxiaoc/sub2api-guardian](https://github.com/codermyxiaoc/sub2api-guardian) | Go | ⭐219 | sub2api-guardian |
-| 9 | [0rangec3t/Black-cat](https://github.com/0rangec3t/Black-cat) | Python | ⭐165 | Claude Code RedTeam Skill — Hypothesis-Driven Cognitive Architecture。一个假设-证据驱动的红 |
-| 10 | [ZihangDong/toolknit-desktop](https://github.com/ZihangDong/toolknit-desktop) | JavaScript | ⭐163 | 多功能工具箱 · 桌面端开源版 / 音视频/图片/PDF/AI 一站式处理 |
+| 1 | [trycompai/crm](https://github.com/trycompai/crm) | TypeScript | ⭐1139 |  |
+| 2 | [WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | — | ⭐532 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
+| 3 | [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) | JavaScript | ⭐408 | Your agent reads the rules. This checks whether it followed them. |
+| 4 | [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | Shell | ⭐343 | Codex-native architect orchestration with Luna and Terra implementation lanes an |
+| 5 | [Packets/tew](https://github.com/Packets/tew) | — | ⭐341 |  |
+| 6 | [s1dashu/animated-voiceover](https://github.com/s1dashu/animated-voiceover) | — | ⭐338 | Create animated voiceover videos with reusable scripting, visual direction, voic |
+| 7 | [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) | TypeScript | ⭐333 |  |
+| 8 | [x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi) | JavaScript | ⭐280 |  |
+| 9 | [openai/ten-proofs](https://github.com/openai/ten-proofs) | Lean | ⭐268 | Lean certificates accompanying proofs in mathematics and theoretical computer sc |
+| 10 | [elder-plinius/GL4SS](https://github.com/elder-plinius/GL4SS) | TypeScript | ⭐212 | the looking glass — spatiotemporal image + video engine |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-02](records/2026-08-02.md) | trycompai/crm | 1139 |
 | [2026-08-01](records/2026-08-01.md) | bashalarmistalt/decimen-optical-transfer | 2560 |
 | [2026-07-31](records/2026-07-31.md) | bashalarmistalt/decimen-optical-transfer | 720 |
 | [2026-07-30](records/2026-07-30.md) | xikhar/persona | 624 |
