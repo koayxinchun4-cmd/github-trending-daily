@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-02
+## Latest: 2026-08-03
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [trycompai/crm](https://github.com/trycompai/crm) | TypeScript | ⭐1139 |  |
-| 2 | [WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | — | ⭐532 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
-| 3 | [0xwilliamortiz/ratchet](https://github.com/0xwilliamortiz/ratchet) | JavaScript | ⭐408 | Your agent reads the rules. This checks whether it followed them. |
-| 4 | [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | Shell | ⭐343 | Codex-native architect orchestration with Luna and Terra implementation lanes an |
-| 5 | [Packets/tew](https://github.com/Packets/tew) | — | ⭐341 |  |
-| 6 | [s1dashu/animated-voiceover](https://github.com/s1dashu/animated-voiceover) | — | ⭐338 | Create animated voiceover videos with reusable scripting, visual direction, voic |
-| 7 | [deedy/qr-data-transfer](https://github.com/deedy/qr-data-transfer) | TypeScript | ⭐333 |  |
-| 8 | [x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi) | JavaScript | ⭐280 |  |
-| 9 | [openai/ten-proofs](https://github.com/openai/ten-proofs) | Lean | ⭐268 | Lean certificates accompanying proofs in mathematics and theoretical computer sc |
-| 10 | [elder-plinius/GL4SS](https://github.com/elder-plinius/GL4SS) | TypeScript | ⭐212 | the looking glass — spatiotemporal image + video engine |
+| 1 | [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | Shell | ⭐848 | Codex-native architect orchestration with Luna and Terra implementation lanes an |
+| 2 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | ⭐657 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o |
+| 3 | [0xwilliamortiz/humanizer-cli](https://github.com/0xwilliamortiz/humanizer-cli) | JavaScript | ⭐542 | 33 ways to spot AI-written text, right in your terminal. Before/after examples,  |
+| 4 | [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | TypeScript | ⭐533 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
+| 5 | [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | HTML | ⭐442 | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
+| 6 | [x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi) | JavaScript | ⭐439 |  |
+| 7 | [openai/ten-proofs](https://github.com/openai/ten-proofs) | Lean | ⭐394 | Lean certificates accompanying proofs in mathematics and theoretical computer sc |
+| 8 | [MengTo/complete-shelf](https://github.com/MengTo/complete-shelf) | HTML | ⭐268 | An original single-file Three.js library of seven interactive clothbound hardcov |
+| 9 | [WilonityBooster/Wilonity-GameFPS-Booster](https://github.com/WilonityBooster/Wilonity-GameFPS-Booster) | — | ⭐253 | GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag |
+| 10 | [Anionex/codex-vision-proxy](https://github.com/Anionex/codex-vision-proxy) | Python | ⭐235 | 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-o |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-03](records/2026-08-03.md) | DannyMac180/sol-advisor | 848 |
 | [2026-08-02](records/2026-08-02.md) | trycompai/crm | 1139 |
 | [2026-08-01](records/2026-08-01.md) | bashalarmistalt/decimen-optical-transfer | 2560 |
 | [2026-07-31](records/2026-07-31.md) | bashalarmistalt/decimen-optical-transfer | 720 |
