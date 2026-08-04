@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-03
+## Latest: 2026-08-04
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | Shell | ⭐848 | Codex-native architect orchestration with Luna and Terra implementation lanes an |
-| 2 | [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | C | ⭐657 | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o |
-| 3 | [0xwilliamortiz/humanizer-cli](https://github.com/0xwilliamortiz/humanizer-cli) | JavaScript | ⭐542 | 33 ways to spot AI-written text, right in your terminal. Before/after examples,  |
-| 4 | [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | TypeScript | ⭐533 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
-| 5 | [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | HTML | ⭐442 | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
-| 6 | [x4gKing/3x-ui-multi](https://github.com/x4gKing/3x-ui-multi) | JavaScript | ⭐439 |  |
-| 7 | [openai/ten-proofs](https://github.com/openai/ten-proofs) | Lean | ⭐394 | Lean certificates accompanying proofs in mathematics and theoretical computer sc |
-| 8 | [MengTo/complete-shelf](https://github.com/MengTo/complete-shelf) | HTML | ⭐268 | An original single-file Three.js library of seven interactive clothbound hardcov |
-| 9 | [WilonityBooster/Wilonity-GameFPS-Booster](https://github.com/WilonityBooster/Wilonity-GameFPS-Booster) | — | ⭐253 | GameFPS Booster – ultimate FPS optimizer for gamers. Boost FPS, reduce input lag |
-| 10 | [Anionex/codex-vision-proxy](https://github.com/Anionex/codex-vision-proxy) | Python | ⭐235 | 让纯文本模型在 Codex 中无障碍调用内置看图工具（view_image）的方案，附为纯文本 LLM 设计的视觉工具包&skill ｜  Let text-o |
+| 1 | [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | TypeScript | ⭐945 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
+| 2 | [MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes) | — | ⭐289 | A curated collection of machine learning and AI lecture notes from the world's l |
+| 3 | [disler/super-simple-software-factory](https://github.com/disler/super-simple-software-factory) | Python | ⭐272 | Repeatable agents-plus-code workflows, packaged as one skill, stamped into any r |
+| 4 | [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) | HTML | ⭐254 | A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization.  |
+| 5 | [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai) | JavaScript | ⭐245 |  |
+| 6 | [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) | Shell | ⭐228 | Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages. |
+| 7 | [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | Python | ⭐228 | Audit, diagnose, research, plan, implement, experiment on, and verify website SE |
+| 8 | [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) | Swift | ⭐220 |  |
+| 9 | [magicrew/doc7](https://github.com/magicrew/doc7) | Go | ⭐220 | Turn documents into AI-ready Markdown with visual understanding |
+| 10 | [alexan0618/zkky](https://github.com/alexan0618/zkky) | Python | ⭐179 | 直卡开源 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-04](records/2026-08-04.md) | thebuggeddev/anatomy | 945 |
 | [2026-08-03](records/2026-08-03.md) | DannyMac180/sol-advisor | 848 |
 | [2026-08-02](records/2026-08-02.md) | trycompai/crm | 1139 |
 | [2026-08-01](records/2026-08-01.md) | bashalarmistalt/decimen-optical-transfer | 2560 |
