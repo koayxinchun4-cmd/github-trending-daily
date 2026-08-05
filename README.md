@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-04
+## Latest: 2026-08-05
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | TypeScript | ⭐945 | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
-| 2 | [MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes) | — | ⭐289 | A curated collection of machine learning and AI lecture notes from the world's l |
-| 3 | [disler/super-simple-software-factory](https://github.com/disler/super-simple-software-factory) | Python | ⭐272 | Repeatable agents-plus-code workflows, packaged as one skill, stamped into any r |
-| 4 | [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) | HTML | ⭐254 | A 10-week, 30-minutes-a-day roadmap for LLM inference serving and optimization.  |
-| 5 | [sophiamyang/finger-frame-effect-ai](https://github.com/sophiamyang/finger-frame-effect-ai) | JavaScript | ⭐245 |  |
-| 6 | [kaomei/stickman-video-director](https://github.com/kaomei/stickman-video-director) | Shell | ⭐228 | Turn copy into rich one-minute Gemini Omni Flash stickman video prompt packages. |
-| 7 | [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | Python | ⭐228 | Audit, diagnose, research, plan, implement, experiment on, and verify website SE |
-| 8 | [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) | Swift | ⭐220 |  |
-| 9 | [magicrew/doc7](https://github.com/magicrew/doc7) | Go | ⭐220 | Turn documents into AI-ready Markdown with visual understanding |
-| 10 | [alexan0618/zkky](https://github.com/alexan0618/zkky) | Python | ⭐179 | 直卡开源 |
+| 1 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | Rust | ⭐2734 | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
+| 2 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐727 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| 3 | [MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes) | — | ⭐415 | A curated collection of machine learning and AI lecture notes from the world's l |
+| 4 | [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) | Swift | ⭐377 |  |
+| 5 | [HaidarJbeily7/cargo-frisk](https://github.com/HaidarJbeily7/cargo-frisk) | Rust | ⭐358 |  |
+| 6 | [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) | Swift | ⭐352 | A native macOS app for managing virtual iPhones - browse, create, and boot iOS r |
+| 7 | [Packets/Vanta](https://github.com/Packets/Vanta) | Solidity | ⭐344 | A two-faction battle royale. Own what you earn. The $VANTA war begins 2026.  |
+| 8 | [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | Objective-C | ⭐343 | People have dreamed of running macOS on iPad for more than a decade. Today, that |
+| 9 | [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | Python | ⭐303 | Audit, diagnose, research, plan, implement, experiment on, and verify website SE |
+| 10 | [alexan0618/zkky](https://github.com/alexan0618/zkky) | Python | ⭐257 | 直卡开源 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-05](records/2026-08-05.md) | firecrawl/anydoc | 2734 |
 | [2026-08-04](records/2026-08-04.md) | thebuggeddev/anatomy | 945 |
 | [2026-08-03](records/2026-08-03.md) | DannyMac180/sol-advisor | 848 |
 | [2026-08-02](records/2026-08-02.md) | trycompai/crm | 1139 |
