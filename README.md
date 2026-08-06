@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-05
+## Latest: 2026-08-06
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | Rust | ⭐2734 | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean  |
-| 2 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐727 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| 3 | [MarcosSete/awesome-free-ai-course-notes](https://github.com/MarcosSete/awesome-free-ai-course-notes) | — | ⭐415 | A curated collection of machine learning and AI lecture notes from the world's l |
-| 4 | [leonickson1/Swiftlet](https://github.com/leonickson1/Swiftlet) | Swift | ⭐377 |  |
-| 5 | [HaidarJbeily7/cargo-frisk](https://github.com/HaidarJbeily7/cargo-frisk) | Rust | ⭐358 |  |
-| 6 | [zqxwce/vphone-ws](https://github.com/zqxwce/vphone-ws) | Swift | ⭐352 | A native macOS app for managing virtual iPhones - browse, create, and boot iOS r |
-| 7 | [Packets/Vanta](https://github.com/Packets/Vanta) | Solidity | ⭐344 | A two-faction battle royale. Own what you earn. The $VANTA war begins 2026.  |
-| 8 | [nfzerox/VirtualMacOniPad](https://github.com/nfzerox/VirtualMacOniPad) | Objective-C | ⭐343 | People have dreamed of running macOS on iPad for more than a decade. Today, that |
-| 9 | [joeseesun/qiaomu-seo](https://github.com/joeseesun/qiaomu-seo) | Python | ⭐303 | Audit, diagnose, research, plan, implement, experiment on, and verify website SE |
-| 10 | [alexan0618/zkky](https://github.com/alexan0618/zkky) | Python | ⭐257 | 直卡开源 |
+| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐1415 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| 2 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | Python | ⭐1024 | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S |
+| 3 | [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | — | ⭐651 |  |
+| 4 | [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | Shell | ⭐544 | Find agentic growth hacking skills for Claude, ChatGPT, Manus / by enso.bot |
+| 5 | [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) | — | ⭐389 | FuXi is a fast, self-contained AI developer terminal |
+| 6 | [criptogus/HermesOffice](https://github.com/criptogus/HermesOffice) | TypeScript | ⭐370 | HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with n |
+| 7 | [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) | Python | ⭐359 | MAGI-2-preview: Scaling Video Generation Models Efficiently |
+| 8 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | Python | ⭐337 | claude-red is a curated library of offensive security skills designed for the Cl |
+| 9 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Python | ⭐311 | The long-horizon computer-use harness. Run AI agents across desktop apps and the |
+| 10 | [tamesenseiangular/blooketauto-soft](https://github.com/tamesenseiangular/blooketauto-soft) | JavaScript | ⭐219 | BEST MENU FOR BLOOKET IN 2026 / WORKING / UNDETECTED |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-06](records/2026-08-06.md) | KKKKhazix/human-writing | 1415 |
 | [2026-08-05](records/2026-08-05.md) | firecrawl/anydoc | 2734 |
 | [2026-08-04](records/2026-08-04.md) | thebuggeddev/anatomy | 945 |
 | [2026-08-03](records/2026-08-03.md) | DannyMac180/sol-advisor | 848 |
