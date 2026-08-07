@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-06
+## Latest: 2026-08-07
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐1415 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| 2 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | Python | ⭐1024 | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S |
-| 3 | [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | — | ⭐651 |  |
-| 4 | [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | Shell | ⭐544 | Find agentic growth hacking skills for Claude, ChatGPT, Manus / by enso.bot |
-| 5 | [fuxicodex/Fuxi](https://github.com/fuxicodex/Fuxi) | — | ⭐389 | FuXi is a fast, self-contained AI developer terminal |
-| 6 | [criptogus/HermesOffice](https://github.com/criptogus/HermesOffice) | TypeScript | ⭐370 | HermesOffice — AI-native office suite forked from GenOffice (Apache-2.0), with n |
-| 7 | [SandAI-org/MAGI-2-preview](https://github.com/SandAI-org/MAGI-2-preview) | Python | ⭐359 | MAGI-2-preview: Scaling Video Generation Models Efficiently |
-| 8 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | Python | ⭐337 | claude-red is a curated library of offensive security skills designed for the Cl |
-| 9 | [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) | Python | ⭐311 | The long-horizon computer-use harness. Run AI agents across desktop apps and the |
-| 10 | [tamesenseiangular/blooketauto-soft](https://github.com/tamesenseiangular/blooketauto-soft) | JavaScript | ⭐219 | BEST MENU FOR BLOOKET IN 2026 / WORKING / UNDETECTED |
+| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐1770 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| 2 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | — | ⭐1582 | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S |
+| 3 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | JavaScript | ⭐452 | claude-red is a curated library of offensive security skills designed for the Cl |
+| 4 | [Larryvrh/ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo) | Python | ⭐200 |  |
+| 5 | [T8mars/comfyui-minimax-h3-audio-T8](https://github.com/T8mars/comfyui-minimax-h3-audio-T8) | Python | ⭐196 |  |
+| 6 | [pengchujin/tower](https://github.com/pengchujin/tower) | Swift | ⭐192 | 塔台 — 原生 SwiftUI iOS App，在本机管理机场订阅与自有节点，生成 Surge / Clash / Shadowrocket / Loon /  |
+| 7 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | Python | ⭐146 | Curated collection of modular agent skills for LLM-based agents |
+| 8 | [mika50000/gpt-link](https://github.com/mika50000/gpt-link) | Python | ⭐139 | Standalone ChatGPT Session/accessToken link extractor |
+| 9 | [BreezeSolicitorMap/NodeTopicss](https://github.com/BreezeSolicitorMap/NodeTopicss) | JavaScript | ⭐136 | Nodejs boilerplate for vertical and horizontal scallability |
+| 10 | [nkxx188/ComfyUI-MiniMaxH3-Easy](https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy) | JavaScript | ⭐135 | The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-07](records/2026-08-07.md) | KKKKhazix/human-writing | 1770 |
 | [2026-08-06](records/2026-08-06.md) | KKKKhazix/human-writing | 1415 |
 | [2026-08-05](records/2026-08-05.md) | firecrawl/anydoc | 2734 |
 | [2026-08-04](records/2026-08-04.md) | thebuggeddev/anatomy | 945 |
