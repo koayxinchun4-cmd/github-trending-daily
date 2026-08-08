@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-07
+## Latest: 2026-08-08
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | Python | ⭐1770 | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| 2 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | — | ⭐1582 | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S |
-| 3 | [0xwilliamortiz/claude-red](https://github.com/0xwilliamortiz/claude-red) | JavaScript | ⭐452 | claude-red is a curated library of offensive security skills designed for the Cl |
-| 4 | [Larryvrh/ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo) | Python | ⭐200 |  |
-| 5 | [T8mars/comfyui-minimax-h3-audio-T8](https://github.com/T8mars/comfyui-minimax-h3-audio-T8) | Python | ⭐196 |  |
-| 6 | [pengchujin/tower](https://github.com/pengchujin/tower) | Swift | ⭐192 | 塔台 — 原生 SwiftUI iOS App，在本机管理机场订阅与自有节点，生成 Surge / Clash / Shadowrocket / Loon /  |
-| 7 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | Python | ⭐146 | Curated collection of modular agent skills for LLM-based agents |
-| 8 | [mika50000/gpt-link](https://github.com/mika50000/gpt-link) | Python | ⭐139 | Standalone ChatGPT Session/accessToken link extractor |
-| 9 | [BreezeSolicitorMap/NodeTopicss](https://github.com/BreezeSolicitorMap/NodeTopicss) | JavaScript | ⭐136 | Nodejs boilerplate for vertical and horizontal scallability |
-| 10 | [nkxx188/ComfyUI-MiniMaxH3-Easy](https://github.com/nkxx188/ComfyUI-MiniMaxH3-Easy) | JavaScript | ⭐135 | The easiest way to use MiniMax H3. One compact workflow for T2V, I2V, first/last |
+| 1 | [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | C | ⭐383 | Racing to the bottom of CPU performance |
+| 2 | [Larryvrh/ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo) | Python | ⭐262 |  |
+| 3 | [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | JavaScript | ⭐207 | 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人 |
+| 4 | [context-labs/i-need-h200s](https://github.com/context-labs/i-need-h200s) | — | ⭐183 | i took one of our h200 nodes, star this repo and its yours 😉 |
+| 5 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | Python | ⭐146 | Curated collection of modular agent skills for LLM-based agents |
+| 6 | [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) | Shell | ⭐139 | setup guide for deepseek-flash-0731 on two dgx-spark from scratch |
+| 7 | [BreezeSolicitorMap/NodeTopicss](https://github.com/BreezeSolicitorMap/NodeTopicss) | JavaScript | ⭐136 | Nodejs boilerplate for vertical and horizontal scallability |
+| 8 | [ARMSX2/ARMSX3](https://github.com/ARMSX2/ARMSX3) | C++ | ⭐133 | Proof of concept port of RPCS3 for Android  |
+| 9 | [bozhouDev/x-growth-handbook](https://github.com/bozhouDev/x-growth-handbook) | — | ⭐121 | X（Twitter）账号从注册、定位、冷启动到互动增长的操作手册 |
+| 10 | [RidgeRookPattern/comix-autoclipper](https://github.com/RidgeRookPattern/comix-autoclipper) | Python | ⭐121 | Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-08](records/2026-08-08.md) | xoreaxeaxeax/asm-hall-of-shame | 383 |
 | [2026-08-07](records/2026-08-07.md) | KKKKhazix/human-writing | 1770 |
 | [2026-08-06](records/2026-08-06.md) | KKKKhazix/human-writing | 1415 |
 | [2026-08-05](records/2026-08-05.md) | firecrawl/anydoc | 2734 |
