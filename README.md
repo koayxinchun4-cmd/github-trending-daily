@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-08
+## Latest: 2026-08-09
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [xoreaxeaxeax/asm-hall-of-shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | C | ⭐383 | Racing to the bottom of CPU performance |
-| 2 | [Larryvrh/ComfyUI-MiniMax-H3-Turbo](https://github.com/Larryvrh/ComfyUI-MiniMax-H3-Turbo) | Python | ⭐262 |  |
-| 3 | [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | JavaScript | ⭐207 | 给 AI 编码 agent 用的 skill 集合，Claude Code 和 codex 都能跑。novel-characters：把小说拆成角色设定集——人 |
-| 4 | [context-labs/i-need-h200s](https://github.com/context-labs/i-need-h200s) | — | ⭐183 | i took one of our h200 nodes, star this repo and its yours 😉 |
-| 5 | [oliverb-io1902e8/agent-skills-collection](https://github.com/oliverb-io1902e8/agent-skills-collection) | Python | ⭐146 | Curated collection of modular agent skills for LLM-based agents |
-| 6 | [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) | Shell | ⭐139 | setup guide for deepseek-flash-0731 on two dgx-spark from scratch |
-| 7 | [BreezeSolicitorMap/NodeTopicss](https://github.com/BreezeSolicitorMap/NodeTopicss) | JavaScript | ⭐136 | Nodejs boilerplate for vertical and horizontal scallability |
-| 8 | [ARMSX2/ARMSX3](https://github.com/ARMSX2/ARMSX3) | C++ | ⭐133 | Proof of concept port of RPCS3 for Android  |
-| 9 | [bozhouDev/x-growth-handbook](https://github.com/bozhouDev/x-growth-handbook) | — | ⭐121 | X（Twitter）账号从注册、定位、冷启动到互动增长的操作手册 |
-| 10 | [RidgeRookPattern/comix-autoclipper](https://github.com/RidgeRookPattern/comix-autoclipper) | Python | ⭐121 | Best Manga Downloader 2026: Fast GUI & CLI Comix Tool with PDF CBZ Export |
+| 1 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | Python | ⭐408 | let your agent control your phone |
+| 2 | [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | Python | ⭐371 | Create smooth, responsive interactive web animations. |
+| 3 | [MengTo/kage](https://github.com/MengTo/kage) | HTML | ⭐350 | An interactive five-chapter night walk through a Kyoto mountain temple, rendered |
+| 4 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | Python | ⭐166 | Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous |
+| 5 | [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) | Python | ⭐165 | Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac |
+| 6 | [Appllama/top-welcome-screens](https://github.com/Appllama/top-welcome-screens) | TypeScript | ⭐162 | How top iOS apps say hello / 10 animated welcome screens inspired by top-earning |
+| 7 | [Samin100/codex-ios-assistant](https://github.com/Samin100/codex-ios-assistant) | Python | ⭐158 | Control and inspect an iPhone from Codex through iMessage and Shortcuts |
+| 8 | [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman) | JavaScript | ⭐156 |  |
+| 9 | [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) | Shell | ⭐148 | setup guide for deepseek-flash-0731 on two dgx-spark from scratch |
+| 10 | [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town) | GDScript | ⭐141 | 我的AI小镇 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-09](records/2026-08-09.md) | ShawnPana/phone-harness | 408 |
 | [2026-08-08](records/2026-08-08.md) | xoreaxeaxeax/asm-hall-of-shame | 383 |
 | [2026-08-07](records/2026-08-07.md) | KKKKhazix/human-writing | 1770 |
 | [2026-08-06](records/2026-08-06.md) | KKKKhazix/human-writing | 1415 |
