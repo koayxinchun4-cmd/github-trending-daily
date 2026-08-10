@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-09
+## Latest: 2026-08-10
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | Python | ⭐408 | let your agent control your phone |
-| 2 | [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | Python | ⭐371 | Create smooth, responsive interactive web animations. |
-| 3 | [MengTo/kage](https://github.com/MengTo/kage) | HTML | ⭐350 | An interactive five-chapter night walk through a Kyoto mountain temple, rendered |
-| 4 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | Python | ⭐166 | Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous |
-| 5 | [NikoDemon80/ComfyUI-H3-Motion-Context](https://github.com/NikoDemon80/ComfyUI-H3-Motion-Context) | Python | ⭐165 | Clip chaining for MiniMax H3 in ComfyUI - motion and audio genuinely continue ac |
-| 6 | [Appllama/top-welcome-screens](https://github.com/Appllama/top-welcome-screens) | TypeScript | ⭐162 | How top iOS apps say hello / 10 animated welcome screens inspired by top-earning |
-| 7 | [Samin100/codex-ios-assistant](https://github.com/Samin100/codex-ios-assistant) | Python | ⭐158 | Control and inspect an iPhone from Codex through iMessage and Shortcuts |
-| 8 | [aashaexo/soundshuman](https://github.com/aashaexo/soundshuman) | JavaScript | ⭐156 |  |
-| 9 | [maliubiao/dgx-spark-2-deepseek-flash-0731](https://github.com/maliubiao/dgx-spark-2-deepseek-flash-0731) | Shell | ⭐148 | setup guide for deepseek-flash-0731 on two dgx-spark from scratch |
-| 10 | [mewamew/my_ai_town](https://github.com/mewamew/my_ai_town) | GDScript | ⭐141 | 我的AI小镇 |
+| 1 | [MengTo/kage](https://github.com/MengTo/kage) | HTML | ⭐711 | An interactive five-chapter night walk through a Kyoto mountain temple, rendered |
+| 2 | [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | Shell | ⭐352 | Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the |
+| 3 | [Appllama/top-welcome-screens](https://github.com/Appllama/top-welcome-screens) | TypeScript | ⭐325 | How top iOS apps say hello / 10 animated welcome screens inspired by top-earning |
+| 4 | [Kylin010/tcpfit](https://github.com/Kylin010/tcpfit) | Shell | ⭐213 | 按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点 |
+| 5 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | Python | ⭐170 | Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous |
+| 6 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | TypeScript | ⭐166 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
+| 7 | [jmarshall23/tech5](https://github.com/jmarshall23/tech5) | C++ | ⭐153 | Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO |
+| 8 | [JayJokerr/arknights-pixel-autofill](https://github.com/JayJokerr/arknights-pixel-autofill) | Python | ⭐146 | 明日方舟 24×24 像素画转换、手动编辑与自动填色工具 |
+| 9 | [liyue-aigc/xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) | — | ⭐135 | Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megas |
+| 10 | [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Go | ⭐134 | Vocat is an open-source web control panel and engineering toolkit for Quectel EC |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-10](records/2026-08-10.md) | MengTo/kage | 711 |
 | [2026-08-09](records/2026-08-09.md) | ShawnPana/phone-harness | 408 |
 | [2026-08-08](records/2026-08-08.md) | xoreaxeaxeax/asm-hall-of-shame | 383 |
 | [2026-08-07](records/2026-08-07.md) | KKKKhazix/human-writing | 1770 |
