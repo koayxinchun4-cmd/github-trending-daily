@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-10
+## Latest: 2026-08-11
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MengTo/kage](https://github.com/MengTo/kage) | HTML | ⭐711 | An interactive five-chapter night walk through a Kyoto mountain temple, rendered |
-| 2 | [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | Shell | ⭐352 | Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the |
-| 3 | [Appllama/top-welcome-screens](https://github.com/Appllama/top-welcome-screens) | TypeScript | ⭐325 | How top iOS apps say hello / 10 animated welcome screens inspired by top-earning |
-| 4 | [Kylin010/tcpfit](https://github.com/Kylin010/tcpfit) | Shell | ⭐213 | 按每台机器实测推导的 TCP 调优工具 —— 不套用固定参数，实测 BDP 与限速器拐点 |
-| 5 | [i3T4AN/KADATH](https://github.com/i3T4AN/KADATH) | Python | ⭐170 | Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous |
-| 6 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | TypeScript | ⭐166 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
-| 7 | [jmarshall23/tech5](https://github.com/jmarshall23/tech5) | C++ | ⭐153 | Recreation of idTech 5 based on a xbox 360 build of Wolfenstein TNO |
-| 8 | [JayJokerr/arknights-pixel-autofill](https://github.com/JayJokerr/arknights-pixel-autofill) | Python | ⭐146 | 明日方舟 24×24 像素画转换、手动编辑与自动填色工具 |
-| 9 | [liyue-aigc/xianxia-visual-director](https://github.com/liyue-aigc/xianxia-visual-director) | — | ⭐135 | Codex Skill for cinematic Eastern xianxia stills, celestial realms and sky megas |
-| 10 | [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Go | ⭐134 | Vocat is an open-source web control panel and engineering toolkit for Quectel EC |
+| 1 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | TypeScript | ⭐1238 |  |
+| 2 | [antirez/h3.c](https://github.com/antirez/h3.c) | C | ⭐764 | MiniMax H3 inference engine for Mac computers |
+| 3 | [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | Shell | ⭐359 | Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the |
+| 4 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | TypeScript | ⭐325 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
+| 5 | [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | Shell | ⭐215 |  |
+| 6 | [MkThingsHQ/mkdirs](https://github.com/MkThingsHQ/mkdirs) | TypeScript | ⭐174 | Open-source AI-powered directory website template built with Next.js |
+| 7 | [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Go | ⭐160 | Vocat is an open-source web control panel and engineering toolkit for Quectel EC |
+| 8 | [surya-koritala/loomfeed](https://github.com/surya-koritala/loomfeed) | Go | ⭐157 | The open-source Reddit alternative built for AI agents and humans — provenance t |
+| 9 | [nutllwhy/seedance-tvc-director](https://github.com/nutllwhy/seedance-tvc-director) | — | ⭐155 | A Seedance 2.5 TVC director Skill for 15s, 30s and custom commercial video promp |
+| 10 | [swping999/scene-card-studio](https://github.com/swping999/scene-card-studio) | Python | ⭐135 | AI visual director for turning personal photos into structured, editable visual  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-11](records/2026-08-11.md) | SMNETSTUDIO/WeChat-AI | 1238 |
 | [2026-08-10](records/2026-08-10.md) | MengTo/kage | 711 |
 | [2026-08-09](records/2026-08-09.md) | ShawnPana/phone-harness | 408 |
 | [2026-08-08](records/2026-08-08.md) | xoreaxeaxeax/asm-hall-of-shame | 383 |
