@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-11
+## Latest: 2026-08-12
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | TypeScript | ⭐1238 |  |
-| 2 | [antirez/h3.c](https://github.com/antirez/h3.c) | C | ⭐764 | MiniMax H3 inference engine for Mac computers |
-| 3 | [Sateezg/codex-bridge](https://github.com/Sateezg/codex-bridge) | Shell | ⭐359 | Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the |
-| 4 | [SaladDay/pi-from-scratch](https://github.com/SaladDay/pi-from-scratch) | TypeScript | ⭐325 | 600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent |
-| 5 | [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | Shell | ⭐215 |  |
-| 6 | [MkThingsHQ/mkdirs](https://github.com/MkThingsHQ/mkdirs) | TypeScript | ⭐174 | Open-source AI-powered directory website template built with Next.js |
-| 7 | [MengMengCode/VoCat](https://github.com/MengMengCode/VoCat) | Go | ⭐160 | Vocat is an open-source web control panel and engineering toolkit for Quectel EC |
-| 8 | [surya-koritala/loomfeed](https://github.com/surya-koritala/loomfeed) | Go | ⭐157 | The open-source Reddit alternative built for AI agents and humans — provenance t |
-| 9 | [nutllwhy/seedance-tvc-director](https://github.com/nutllwhy/seedance-tvc-director) | — | ⭐155 | A Seedance 2.5 TVC director Skill for 15s, 30s and custom commercial video promp |
-| 10 | [swping999/scene-card-studio](https://github.com/swping999/scene-card-studio) | Python | ⭐135 | AI visual director for turning personal photos into structured, editable visual  |
+| 1 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | TypeScript | ⭐1490 |  |
+| 2 | [sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music) | TypeScript | ⭐837 | A lightweight, ad‑free client for streaming music from YouTube Music. No subscri |
+| 3 | [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) | TypeScript | ⭐498 | A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react,  |
+| 4 | [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | Shell | ⭐470 |  |
+| 5 | [ayi-ai/nie-grassroots-logic](https://github.com/ayi-ai/nie-grassroots-logic) | HTML | ⭐299 | 聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文） |
+| 6 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | ⭐268 |  |
+| 7 | [0xnyn/airship](https://github.com/0xnyn/airship) | TypeScript | ⭐267 | Figma like visual editor built for Claude Code, Codex and OpenCode |
+| 8 | [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) | C++ | ⭐219 | Windows Defender 0day vulnerability |
+| 9 | [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife) | TypeScript | ⭐199 |  |
+| 10 | [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) | Objective-C | ⭐183 | FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-12](records/2026-08-12.md) | SMNETSTUDIO/WeChat-AI | 1490 |
 | [2026-08-11](records/2026-08-11.md) | SMNETSTUDIO/WeChat-AI | 1238 |
 | [2026-08-10](records/2026-08-10.md) | MengTo/kage | 711 |
 | [2026-08-09](records/2026-08-09.md) | ShawnPana/phone-harness | 408 |
