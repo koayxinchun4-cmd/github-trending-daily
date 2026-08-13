@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-12
+## Latest: 2026-08-13
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | TypeScript | ⭐1490 |  |
-| 2 | [sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music) | TypeScript | ⭐837 | A lightweight, ad‑free client for streaming music from YouTube Music. No subscri |
-| 3 | [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) | TypeScript | ⭐498 | A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react,  |
-| 4 | [gvzdv/claudish-to-english](https://github.com/gvzdv/claudish-to-english) | Shell | ⭐470 |  |
-| 5 | [ayi-ai/nie-grassroots-logic](https://github.com/ayi-ai/nie-grassroots-logic) | HTML | ⭐299 | 聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文） |
-| 6 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | ⭐268 |  |
-| 7 | [0xnyn/airship](https://github.com/0xnyn/airship) | TypeScript | ⭐267 | Figma like visual editor built for Claude Code, Codex and OpenCode |
-| 8 | [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) | C++ | ⭐219 | Windows Defender 0day vulnerability |
-| 9 | [TheRealYT/git-knife](https://github.com/TheRealYT/git-knife) | TypeScript | ⭐199 |  |
-| 10 | [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) | Objective-C | ⭐183 | FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4 |
+| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Python | ⭐3481 | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit |
+| 2 | [sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music) | TypeScript | ⭐853 | A lightweight, ad‑free client for streaming music from YouTube Music. No subscri |
+| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | ⭐700 |  |
+| 4 | [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) | TypeScript | ⭐613 | A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react,  |
+| 5 | [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | TypeScript | ⭐482 | Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript pa |
+| 6 | [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) | C++ | ⭐452 | Windows Defender 0day vulnerability |
+| 7 | [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) | HTML | ⭐429 | 简历包装 |
+| 8 | [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) | JavaScript | ⭐274 | 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。 |
+| 9 | [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) | Swift | ⭐256 | iOS 27 MobileGestalt editor |
+| 10 | [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) | Objective-C | ⭐223 | FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-13](records/2026-08-13.md) | guillaumemeyer/watermarks-remover | 3481 |
 | [2026-08-12](records/2026-08-12.md) | SMNETSTUDIO/WeChat-AI | 1490 |
 | [2026-08-11](records/2026-08-11.md) | SMNETSTUDIO/WeChat-AI | 1238 |
 | [2026-08-10](records/2026-08-10.md) | MengTo/kage | 711 |
