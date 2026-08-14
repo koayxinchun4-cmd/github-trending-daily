@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-13
+## Latest: 2026-08-14
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | Python | ⭐3481 | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit |
-| 2 | [sohaibdevv/youtube-music](https://github.com/sohaibdevv/youtube-music) | TypeScript | ⭐853 | A lightweight, ad‑free client for streaming music from YouTube Music. No subscri |
-| 3 | [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot) | TypeScript | ⭐700 |  |
-| 4 | [shadcn-ui/chatbot-template](https://github.com/shadcn-ui/chatbot-template) | TypeScript | ⭐613 | A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react,  |
-| 5 | [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | TypeScript | ⭐482 | Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript pa |
-| 6 | [MSNightmare/ShieldBreak](https://github.com/MSNightmare/ShieldBreak) | C++ | ⭐452 | Windows Defender 0day vulnerability |
-| 7 | [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) | HTML | ⭐429 | 简历包装 |
-| 8 | [RadishXN/run-abroad](https://github.com/RadishXN/run-abroad) | JavaScript | ⭐274 | 填 10 项基本信息，从 71 条签证 / 移民路径里筛出适合你的，并告诉你还差什么。纯静态、零依赖、无后端。 |
-| 9 | [frs0n/GestaltEdit](https://github.com/frs0n/GestaltEdit) | Swift | ⭐256 | iOS 27 MobileGestalt editor |
-| 10 | [0xjohnnydev/FilzaSlop](https://github.com/0xjohnnydev/FilzaSlop) | Objective-C | ⭐223 | FilzaJailedDS fork with container access for iOS 18, iOS 26, and iOS 27 beta 1–4 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | ⭐81778 | DeepSeek Harness: Everything is a Plugin. |
+| 2 | [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | TypeScript | ⭐1403 | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g |
+| 3 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | C | ⭐1271 | Unlocking _everything_ on the CPU with DRAM scrambling |
+| 4 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | Python | ⭐1050 | Turn any technical book PDF into a Claude Code skill — ready to study, reference |
+| 5 | [cordiverse/paper](https://github.com/cordiverse/paper) | — | ⭐1038 | A Programming Paradigm for Spatiotemporal Composability |
+| 6 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | TypeScript | ⭐671 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流 |
+| 7 | [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) | HTML | ⭐644 | 简历包装 |
+| 8 | [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | TypeScript | ⭐632 | Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript pa |
+| 9 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | HTML | ⭐514 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 10 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | TypeScript | ⭐425 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-14](records/2026-08-14.md) | deepseek-ai/deepseek-harness | 81778 |
 | [2026-08-13](records/2026-08-13.md) | guillaumemeyer/watermarks-remover | 3481 |
 | [2026-08-12](records/2026-08-12.md) | SMNETSTUDIO/WeChat-AI | 1490 |
 | [2026-08-11](records/2026-08-11.md) | SMNETSTUDIO/WeChat-AI | 1238 |
