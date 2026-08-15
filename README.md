@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-14
+## Latest: 2026-08-15
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | ⭐81778 | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | TypeScript | ⭐1403 | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g |
-| 3 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | C | ⭐1271 | Unlocking _everything_ on the CPU with DRAM scrambling |
-| 4 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | Python | ⭐1050 | Turn any technical book PDF into a Claude Code skill — ready to study, reference |
-| 5 | [cordiverse/paper](https://github.com/cordiverse/paper) | — | ⭐1038 | A Programming Paradigm for Spatiotemporal Composability |
-| 6 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | TypeScript | ⭐671 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流 |
-| 7 | [Hisn00w/ASu-skills](https://github.com/Hisn00w/ASu-skills) | HTML | ⭐644 | 简历包装 |
-| 8 | [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) | TypeScript | ⭐632 | Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript pa |
-| 9 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | HTML | ⭐514 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| 10 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | TypeScript | ⭐425 | 基于官方 DeepSeek Harness 打造的 Electron 桌面端，深度适配 macOS 和 Windows，提供最佳的，开箱即用的体验。 |
+| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | ⭐104178 | DeepSeek Harness: Everything is a Plugin. |
+| 2 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | TypeScript | ⭐3520 | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 |
+| 3 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Python | ⭐1949 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| 4 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | C | ⭐1605 | Unlocking _everything_ on the CPU with DRAM scrambling |
+| 5 | [cordiverse/paper](https://github.com/cordiverse/paper) | — | ⭐1440 | A Programming Paradigm for Spatiotemporal Composability |
+| 6 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | JavaScript | ⭐1306 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard |
+| 7 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | Python | ⭐1086 | Turn any technical book PDF into a Claude Code skill — ready to study, reference |
+| 8 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | TypeScript | ⭐1034 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流 |
+| 9 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | TypeScript | ⭐737 | DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0 |
+| 10 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | HTML | ⭐663 | DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-15](records/2026-08-15.md) | deepseek-ai/deepseek-harness | 104178 |
 | [2026-08-14](records/2026-08-14.md) | deepseek-ai/deepseek-harness | 81778 |
 | [2026-08-13](records/2026-08-13.md) | guillaumemeyer/watermarks-remover | 3481 |
 | [2026-08-12](records/2026-08-12.md) | SMNETSTUDIO/WeChat-AI | 1490 |
