@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-15
+## Latest: 2026-08-16
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | TypeScript | ⭐104178 | DeepSeek Harness: Everything is a Plugin. |
-| 2 | [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | TypeScript | ⭐3520 | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 |
-| 3 | [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | Python | ⭐1949 | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| 4 | [xoreaxeaxeax/skitter-creek-bath-salts](https://github.com/xoreaxeaxeax/skitter-creek-bath-salts) | C | ⭐1605 | Unlocking _everything_ on the CPU with DRAM scrambling |
-| 5 | [cordiverse/paper](https://github.com/cordiverse/paper) | — | ⭐1440 | A Programming Paradigm for Spatiotemporal Composability |
-| 6 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | JavaScript | ⭐1306 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard |
-| 7 | [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | Python | ⭐1086 | Turn any technical book PDF into a Claude Code skill — ready to study, reference |
-| 8 | [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) | TypeScript | ⭐1034 | 解决DSH 官方尚无终端 TUI 痛点的补位之作，献给偏爱cli的各位极客：Claude Code 风格全屏交互终端插件——像素鲸鱼顶栏、实时工作状态行、思考流 |
-| 9 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | TypeScript | ⭐737 | DSH Web 鲸鱼娘皮肤系列(深海女仆工坊 maid-atelier)——CC BY-NC-SA 4.0 |
-| 10 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | HTML | ⭐663 | DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML |
+| 1 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | JavaScript | ⭐2567 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard |
+| 2 | [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | PowerShell | ⭐2249 | dsh-routing-suite — injector + router-standard kit: install the runtime injector |
+| 3 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | HTML | ⭐824 | DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML |
+| 4 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | TypeScript | ⭐405 | The plugin market inside DeepSeek Harness — browse, search, one-click install ·  |
+| 5 | [zouyuxuan122/Deepseek-Harness-EAC](https://github.com/zouyuxuan122/Deepseek-Harness-EAC) | JavaScript | ⭐390 | DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CL |
+| 6 | [SheberDavid/v4-flash-godmode-opencode-go](https://github.com/SheberDavid/v4-flash-godmode-opencode-go) | JavaScript | ⭐380 | V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh age |
+| 7 | [turtle2209/Bigfish](https://github.com/turtle2209/Bigfish) | JavaScript | ⭐226 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。 |
+| 8 | [hairyf/deepseek-harness-desktop](https://github.com/hairyf/deepseek-harness-desktop) | Rust | ⭐213 | DeepSeek Harness Tauri 桌面版 / Only 5mb, zero environment setup. Windows / macOS / |
+| 9 | [N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent) | — | ⭐210 | Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示) |
+| 10 | [sjc88661/multi-agent-discuss](https://github.com/sjc88661/multi-agent-discuss) | TypeScript | ⭐200 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-16](records/2026-08-16.md) | xiaobright/dsh-anchored-standard | 2567 |
 | [2026-08-15](records/2026-08-15.md) | deepseek-ai/deepseek-harness | 104178 |
 | [2026-08-14](records/2026-08-14.md) | deepseek-ai/deepseek-harness | 81778 |
 | [2026-08-13](records/2026-08-13.md) | guillaumemeyer/watermarks-remover | 3481 |
