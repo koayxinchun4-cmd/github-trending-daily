@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-16
+## Latest: 2026-08-17
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | JavaScript | ⭐2567 | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard |
-| 2 | [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | PowerShell | ⭐2249 | dsh-routing-suite — injector + router-standard kit: install the runtime injector |
-| 3 | [alchaincyf/deepseek-harness-orange-book](https://github.com/alchaincyf/deepseek-harness-orange-book) | HTML | ⭐824 | DeepSeek Harness橙皮书《从开机到拆开》：完整系统提示词、129行启动清单、三份原始会话日志——官方文档没有的一手实测。PDF/EPUB/HTML |
-| 4 | [dsh-market/dsh-market](https://github.com/dsh-market/dsh-market) | TypeScript | ⭐405 | The plugin market inside DeepSeek Harness — browse, search, one-click install ·  |
-| 5 | [zouyuxuan122/Deepseek-Harness-EAC](https://github.com/zouyuxuan122/Deepseek-Harness-EAC) | JavaScript | ⭐390 | DeepSeek Harness (dsh) Windows / Linux desktop client - bundled Node.js + dsh CL |
-| 6 | [SheberDavid/v4-flash-godmode-opencode-go](https://github.com/SheberDavid/v4-flash-godmode-opencode-go) | JavaScript | ⭐380 | V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh age |
-| 7 | [turtle2209/Bigfish](https://github.com/turtle2209/Bigfish) | JavaScript | ⭐226 | Bigfish —— DeepSeek Harness 的第三方桌面端，内置 Node 运行时，双击即用，附带桌面萌宠。 |
-| 8 | [hairyf/deepseek-harness-desktop](https://github.com/hairyf/deepseek-harness-desktop) | Rust | ⭐213 | DeepSeek Harness Tauri 桌面版 / Only 5mb, zero environment setup. Windows / macOS / |
-| 9 | [N-allpass/modex-mh-agent](https://github.com/N-allpass/modex-mh-agent) | — | ⭐210 | Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示) |
-| 10 | [sjc88661/multi-agent-discuss](https://github.com/sjc88661/multi-agent-discuss) | TypeScript | ⭐200 |  |
+| 1 | [SheberDavid/v4-flash-godmode-opencode-go](https://github.com/SheberDavid/v4-flash-godmode-opencode-go) | JavaScript | ⭐511 | V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh age |
+| 2 | [Yousuf-developer/Viscose-carousel](https://github.com/Yousuf-developer/Viscose-carousel) | JavaScript | ⭐243 | A wheel of work that never quite sets. Cards fuse as they meet, and draw into th |
+| 3 | [Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver) | Python | ⭐228 | ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine +  |
+| 4 | [morsyxbt/nft-public-mint](https://github.com/morsyxbt/nft-public-mint) | TypeScript | ⭐221 | CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea t |
+| 5 | [fufankeji/deepseek-harness-studio](https://github.com/fufankeji/deepseek-harness-studio) | TypeScript | ⭐206 | DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉 |
+| 6 | [Streamdririddle/expressvpn-panel-2026](https://github.com/Streamdririddle/expressvpn-panel-2026) | HTML | ⭐200 | Windows companion panel and docs for ExpressVPN setup, server browsing, and conn |
+| 7 | [opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830) | Python | ⭐175 | CVE-2026-9830 Proof of Concept |
+| 8 | [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) | Go | ⭐173 |  |
+| 9 | [RopemakerEnd/ds4windows-lab-2026](https://github.com/RopemakerEnd/ds4windows-lab-2026) | HTML | ⭐172 | Portable DS4Windows companion toolkit with setup guides, profile notes, and Wind |
+| 10 | [antinomie-lab/dsh-explore](https://github.com/antinomie-lab/dsh-explore) | Vue | ⭐162 | Into the Unknown. —— 探索未至之境。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-17](records/2026-08-17.md) | SheberDavid/v4-flash-godmode-opencode-go | 511 |
 | [2026-08-16](records/2026-08-16.md) | xiaobright/dsh-anchored-standard | 2567 |
 | [2026-08-15](records/2026-08-15.md) | deepseek-ai/deepseek-harness | 104178 |
 | [2026-08-14](records/2026-08-14.md) | deepseek-ai/deepseek-harness | 81778 |
