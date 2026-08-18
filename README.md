@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-17
+## Latest: 2026-08-18
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [SheberDavid/v4-flash-godmode-opencode-go](https://github.com/SheberDavid/v4-flash-godmode-opencode-go) | JavaScript | ⭐511 | V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh age |
-| 2 | [Yousuf-developer/Viscose-carousel](https://github.com/Yousuf-developer/Viscose-carousel) | JavaScript | ⭐243 | A wheel of work that never quite sets. Cards fuse as they meet, and draw into th |
-| 3 | [Nervercc/gpt_nerver](https://github.com/Nervercc/gpt_nerver) | Python | ⭐228 | ChatGPT Plus automation toolkit: PyQt6 desktop + JSON-RPC registration engine +  |
-| 4 | [morsyxbt/nft-public-mint](https://github.com/morsyxbt/nft-public-mint) | TypeScript | ⭐221 | CLI sniper for public SeaDrop NFT mints - builds calldata on-chain, no OpenSea t |
-| 5 | [fufankeji/deepseek-harness-studio](https://github.com/fufankeji/deepseek-harness-studio) | TypeScript | ⭐206 | DeepSeek Harness 零代码桌面端｜一键启动，支持 Windows 与 macOS；内置插件发现、热点插件推送、一键安装与管理、AI 智能推荐和视觉 |
-| 6 | [Streamdririddle/expressvpn-panel-2026](https://github.com/Streamdririddle/expressvpn-panel-2026) | HTML | ⭐200 | Windows companion panel and docs for ExpressVPN setup, server browsing, and conn |
-| 7 | [opaxial/CVE-2026-9830](https://github.com/opaxial/CVE-2026-9830) | Python | ⭐175 | CVE-2026-9830 Proof of Concept |
-| 8 | [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) | Go | ⭐173 |  |
-| 9 | [RopemakerEnd/ds4windows-lab-2026](https://github.com/RopemakerEnd/ds4windows-lab-2026) | HTML | ⭐172 | Portable DS4Windows companion toolkit with setup guides, profile notes, and Wind |
-| 10 | [antinomie-lab/dsh-explore](https://github.com/antinomie-lab/dsh-explore) | Vue | ⭐162 | Into the Unknown. —— 探索未至之境。 |
+| 1 | [yetone/cumora](https://github.com/yetone/cumora) | TypeScript | ⭐1975 | Where agent teams gather. Cross-platform team chat where AI agents are first-cla |
+| 2 | [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) | — | ⭐775 | DeepSeek V4 × J-Space capability realization report — benchmark evidence that J- |
+| 3 | [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) | Go | ⭐300 |  |
+| 4 | [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | Python | ⭐217 | The simplest, thinnest harness that gives an LLM complete freedom to control a M |
+| 5 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | — | ⭐179 | 智见 AI 蓝皮书：拆解 WorkBuddy 的提示词、记忆、插件、专家、Skill 与安全边界。 |
+| 6 | [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | Python | ⭐165 | Free open-source extractor for AI coding assistant chat histories. Supports Clau |
+| 7 | [RopemakerEnd/ds4windows-lab-2026](https://github.com/RopemakerEnd/ds4windows-lab-2026) | HTML | ⭐162 | Portable DS4Windows companion toolkit with setup guides, profile notes, and Wind |
+| 8 | [missuo/kumone](https://github.com/missuo/kumone) | Swift | ⭐153 | 雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI |
+| 9 | [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) | TypeScript | ⭐151 | Local-first open-source multi-profile fingerprint browser based on Chromium and  |
+| 10 | [BigPengSays/bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | — | ⭐146 | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-18](records/2026-08-18.md) | yetone/cumora | 1975 |
 | [2026-08-17](records/2026-08-17.md) | SheberDavid/v4-flash-godmode-opencode-go | 511 |
 | [2026-08-16](records/2026-08-16.md) | xiaobright/dsh-anchored-standard | 2567 |
 | [2026-08-15](records/2026-08-15.md) | deepseek-ai/deepseek-harness | 104178 |
