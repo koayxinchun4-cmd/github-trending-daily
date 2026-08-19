@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-18
+## Latest: 2026-08-19
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [yetone/cumora](https://github.com/yetone/cumora) | TypeScript | ⭐1975 | Where agent teams gather. Cross-platform team chat where AI agents are first-cla |
-| 2 | [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) | — | ⭐775 | DeepSeek V4 × J-Space capability realization report — benchmark evidence that J- |
-| 3 | [b-nnett/codex-subscription-router](https://github.com/b-nnett/codex-subscription-router) | Go | ⭐300 |  |
-| 4 | [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | Python | ⭐217 | The simplest, thinnest harness that gives an LLM complete freedom to control a M |
-| 5 | [zjp1997720/zhijian-ai-bluebook-workbuddy-harness](https://github.com/zjp1997720/zhijian-ai-bluebook-workbuddy-harness) | — | ⭐179 | 智见 AI 蓝皮书：拆解 WorkBuddy 的提示词、记忆、插件、专家、Skill 与安全边界。 |
-| 6 | [bawadou/ai-data-extractor](https://github.com/bawadou/ai-data-extractor) | Python | ⭐165 | Free open-source extractor for AI coding assistant chat histories. Supports Clau |
-| 7 | [RopemakerEnd/ds4windows-lab-2026](https://github.com/RopemakerEnd/ds4windows-lab-2026) | HTML | ⭐162 | Portable DS4Windows companion toolkit with setup guides, profile notes, and Wind |
-| 8 | [missuo/kumone](https://github.com/missuo/kumone) | Swift | ⭐153 | 雲の音 — Native macOS NetEase Cloud Music client built with SwiftUI |
-| 9 | [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) | TypeScript | ⭐151 | Local-first open-source multi-profile fingerprint browser based on Chromium and  |
-| 10 | [BigPengSays/bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | — | ⭐146 | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 |
+| 1 | [yetone/cumora](https://github.com/yetone/cumora) | TypeScript | ⭐2562 | Where agent teams gather. Cross-platform team chat where AI agents are first-cla |
+| 2 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | — | ⭐1442 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP |
+| 3 | [cinderline/northcinder](https://github.com/cinderline/northcinder) | JavaScript | ⭐1160 | Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, si |
+| 4 | [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | Python | ⭐459 | The simplest, thinnest harness that gives an LLM complete freedom to control a M |
+| 5 | [SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip) | Python | ⭐459 | An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one trans |
+| 6 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | Swift | ⭐326 | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation |
+| 7 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | Python | ⭐284 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne |
+| 8 | [BigPengSays/bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | — | ⭐220 | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 |
+| 9 | [MengTo/sylva](https://github.com/MengTo/sylva) | HTML | ⭐219 | An interactive Three.js landscape study with a procedural, pointer-responsive mo |
+| 10 | [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) | TypeScript | ⭐206 | Local-first open-source multi-profile fingerprint browser based on Chromium and  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-19](records/2026-08-19.md) | yetone/cumora | 2562 |
 | [2026-08-18](records/2026-08-18.md) | yetone/cumora | 1975 |
 | [2026-08-17](records/2026-08-17.md) | SheberDavid/v4-flash-godmode-opencode-go | 511 |
 | [2026-08-16](records/2026-08-16.md) | xiaobright/dsh-anchored-standard | 2567 |
