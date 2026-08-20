@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-19
+## Latest: 2026-08-20
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [yetone/cumora](https://github.com/yetone/cumora) | TypeScript | ⭐2562 | Where agent teams gather. Cross-platform team chat where AI agents are first-cla |
-| 2 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | — | ⭐1442 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP |
-| 3 | [cinderline/northcinder](https://github.com/cinderline/northcinder) | JavaScript | ⭐1160 | Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, si |
-| 4 | [browser-use/macos-harness](https://github.com/browser-use/macos-harness) | Python | ⭐459 | The simplest, thinnest harness that gives an LLM complete freedom to control a M |
-| 5 | [SigmanticAI/apex-inference-chip](https://github.com/SigmanticAI/apex-inference-chip) | Python | ⭐459 | An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one trans |
-| 6 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | Swift | ⭐326 | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation |
-| 7 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | Python | ⭐284 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne |
-| 8 | [BigPengSays/bigpeng-hot-gzh](https://github.com/BigPengSays/bigpeng-hot-gzh) | — | ⭐220 | 从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。 |
-| 9 | [MengTo/sylva](https://github.com/MengTo/sylva) | HTML | ⭐219 | An interactive Three.js landscape study with a procedural, pointer-responsive mo |
-| 10 | [DFarm6/Prism-Browser-Community](https://github.com/DFarm6/Prism-Browser-Community) | TypeScript | ⭐206 | Local-first open-source multi-profile fingerprint browser based on Chromium and  |
+| 1 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | — | ⭐2588 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP |
+| 2 | [Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover) | Python | ⭐915 | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical |
+| 3 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | Python | ⭐677 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne |
+| 4 | [vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel) | JavaScript | ⭐633 | Install Command：npm install |
+| 5 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | Swift | ⭐542 | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation |
+| 6 | [missuo/herdrm](https://github.com/missuo/herdrm) | Swift | ⭐516 | Native macOS console for herdr — all your coding agents and their live terminals |
+| 7 | [MengTo/sylva](https://github.com/MengTo/sylva) | HTML | ⭐270 | An interactive Three.js landscape study with a procedural, pointer-responsive mo |
+| 8 | [iAmCorey/Wake](https://github.com/iAmCorey/Wake) | Rust | ⭐234 | Every coding-agent session on your Mac in one place — browse, search, resume. Ru |
+| 9 | [zyrexdz/cyberleek-leak-research](https://github.com/zyrexdz/cyberleek-leak-research) | — | ⭐217 | Full breakdown of the August 2026 GTA 6 gameplay leaks, technical checks, dark w |
+| 10 | [amitshekhariitbhu/llm-inference-engineering](https://github.com/amitshekhariitbhu/llm-inference-engineering) | Markdown | ⭐195 | Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, an |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-20](records/2026-08-20.md) | s1dashu/ip-as-logo-skill | 2588 |
 | [2026-08-19](records/2026-08-19.md) | yetone/cumora | 2562 |
 | [2026-08-18](records/2026-08-18.md) | yetone/cumora | 1975 |
 | [2026-08-17](records/2026-08-17.md) | SheberDavid/v4-flash-godmode-opencode-go | 511 |
