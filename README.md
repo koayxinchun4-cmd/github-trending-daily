@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-20
+## Latest: 2026-08-21
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | — | ⭐2588 | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP |
-| 2 | [Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover) | Python | ⭐915 | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical |
-| 3 | [wang2122/sprix-sage-router](https://github.com/wang2122/sprix-sage-router) | Python | ⭐677 | Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent ne |
-| 4 | [vvxw/deploy-vercel](https://github.com/vvxw/deploy-vercel) | JavaScript | ⭐633 | Install Command：npm install |
-| 5 | [DenisSergeevitch/desktop-fly](https://github.com/DenisSergeevitch/desktop-fly) | Swift | ⭐542 | A 3D fruit fly living on your macOS desktop, driven by a live spiking simulation |
-| 6 | [missuo/herdrm](https://github.com/missuo/herdrm) | Swift | ⭐516 | Native macOS console for herdr — all your coding agents and their live terminals |
-| 7 | [MengTo/sylva](https://github.com/MengTo/sylva) | HTML | ⭐270 | An interactive Three.js landscape study with a procedural, pointer-responsive mo |
-| 8 | [iAmCorey/Wake](https://github.com/iAmCorey/Wake) | Rust | ⭐234 | Every coding-agent session on your Mac in one place — browse, search, resume. Ru |
-| 9 | [zyrexdz/cyberleek-leak-research](https://github.com/zyrexdz/cyberleek-leak-research) | — | ⭐217 | Full breakdown of the August 2026 GTA 6 gameplay leaks, technical checks, dark w |
-| 10 | [amitshekhariitbhu/llm-inference-engineering](https://github.com/amitshekhariitbhu/llm-inference-engineering) | Markdown | ⭐195 | Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, an |
+| 1 | [Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover) | Python | ⭐928 | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical |
+| 2 | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth) | Python | ⭐801 | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea |
+| 3 | [Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap) | Python | ⭐608 | Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dic |
+| 4 | [missuo/herdrm](https://github.com/missuo/herdrm) | Swift | ⭐579 | Native macOS console for herdr — all your coding agents and their live terminals |
+| 5 | [lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC) | Python | ⭐339 | A cPanel and WHM authentication bypassing tool |
+| 6 | [xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli) | Python | ⭐328 | GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat  |
+| 7 | [jaime0815/WeChatWatcher](https://github.com/jaime0815/WeChatWatcher) | Python | ⭐207 | 读取微信本地文件，把消息按 会话（人/群）— 时间 — 类型（文字/图片/视频/文件/…） 结构化组织，并通过文件变化监听实现新消息的秒级增量解析 |
+| 8 | [s0lness/awesome-esp32](https://github.com/s0lness/awesome-esp32) | — | ⭐193 | Hand-picked ESP32 projects worth building, copying, or watching run |
+| 9 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | Python | ⭐180 | Provider-neutral Codex Skill for producing verified AI presenter videos from a s |
+| 10 | [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | TypeScript | ⭐136 | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-21](records/2026-08-21.md) | Leutenegger/watermarks-remover | 928 |
 | [2026-08-20](records/2026-08-20.md) | s1dashu/ip-as-logo-skill | 2588 |
 | [2026-08-19](records/2026-08-19.md) | yetone/cumora | 2562 |
 | [2026-08-18](records/2026-08-18.md) | yetone/cumora | 1975 |
