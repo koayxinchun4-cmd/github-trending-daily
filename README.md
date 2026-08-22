@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-21
+## Latest: 2026-08-22
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Leutenegger/watermarks-remover](https://github.com/Leutenegger/watermarks-remover) | Python | ⭐928 | Remove multi-vendor AI provenance traces: Unicode text sanitization, statistical |
-| 2 | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth) | Python | ⭐801 | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea |
+| 1 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | ⭐920 | Open-source ThreeUI Community catalog with live interactive components and compl |
+| 2 | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth) | Python | ⭐803 | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea |
 | 3 | [Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap) | Python | ⭐608 | Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dic |
-| 4 | [missuo/herdrm](https://github.com/missuo/herdrm) | Swift | ⭐579 | Native macOS console for herdr — all your coding agents and their live terminals |
-| 5 | [lanicer/cve-2026-41940-PoC](https://github.com/lanicer/cve-2026-41940-PoC) | Python | ⭐339 | A cPanel and WHM authentication bypassing tool |
-| 6 | [xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli) | Python | ⭐328 | GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat  |
-| 7 | [jaime0815/WeChatWatcher](https://github.com/jaime0815/WeChatWatcher) | Python | ⭐207 | 读取微信本地文件，把消息按 会话（人/群）— 时间 — 类型（文字/图片/视频/文件/…） 结构化组织，并通过文件变化监听实现新消息的秒级增量解析 |
-| 8 | [s0lness/awesome-esp32](https://github.com/s0lness/awesome-esp32) | — | ⭐193 | Hand-picked ESP32 projects worth building, copying, or watching run |
-| 9 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | Python | ⭐180 | Provider-neutral Codex Skill for producing verified AI presenter videos from a s |
-| 10 | [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | TypeScript | ⭐136 | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone |
+| 4 | [Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english) | Shell | ⭐579 | Claude Code plugin that rewrites each assistant message into plain language on s |
+| 5 | [xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli) | Python | ⭐407 | GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat  |
+| 6 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | Python | ⭐255 | Provider-neutral Codex Skill for producing verified AI presenter videos from a s |
+| 7 | [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz) | — | ⭐126 | A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remo |
+| 8 | [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) | TypeScript | ⭐111 | The Open Analytics design language as an agent skill: component recipes with typ |
+| 9 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | Python | ⭐110 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
+| 10 | [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark) | Python | ⭐108 | DeepSeek v4 Flash EXL3 on one DGX Spark |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-22](records/2026-08-22.md) | MengTo/threeui | 920 |
 | [2026-08-21](records/2026-08-21.md) | Leutenegger/watermarks-remover | 928 |
 | [2026-08-20](records/2026-08-20.md) | s1dashu/ip-as-logo-skill | 2588 |
 | [2026-08-19](records/2026-08-19.md) | yetone/cumora | 2562 |
