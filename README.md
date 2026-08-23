@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-22
+## Latest: 2026-08-23
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | ⭐920 | Open-source ThreeUI Community catalog with live interactive components and compl |
+| 1 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | ⭐2238 | Open-source ThreeUI Community catalog with live interactive components and compl |
 | 2 | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth) | Python | ⭐803 | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea |
-| 3 | [Leutenegger/coldcard-airgap](https://github.com/Leutenegger/coldcard-airgap) | Python | ⭐608 | Offline utilities for Coldcard hardware wallet users: PSBT inspection, BIP39/dic |
-| 4 | [Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english) | Shell | ⭐579 | Claude Code plugin that rewrites each assistant message into plain language on s |
-| 5 | [xdreizein666/getcontact-cli](https://github.com/xdreizein666/getcontact-cli) | Python | ⭐407 | GetContact CLI adalah project Python untuk melakukan lookup nomor telepon lewat  |
-| 6 | [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | Python | ⭐255 | Provider-neutral Codex Skill for producing verified AI presenter videos from a s |
-| 7 | [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz) | — | ⭐126 | A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remo |
-| 8 | [OpenLabs-so/oa-design](https://github.com/OpenLabs-so/oa-design) | TypeScript | ⭐111 | The Open Analytics design language as an agent skill: component recipes with typ |
-| 9 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | Python | ⭐110 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
-| 10 | [MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark](https://github.com/MiaAI-Lab/DeepSeek-v4-Flash-One-DGX-Spark) | Python | ⭐108 | DeepSeek v4 Flash EXL3 on one DGX Spark |
+| 3 | [Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english) | Shell | ⭐581 | Claude Code plugin that rewrites each assistant message into plain language on s |
+| 4 | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | JavaScript | ⭐257 | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin |
+| 5 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | Python | ⭐211 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
+| 6 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Zig | ⭐209 | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha |
+| 7 | [aj-2-c-2-a/undress-designses](https://github.com/aj-2-c-2-a/undress-designses) | — | ⭐188 |  |
+| 8 | [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz) | — | ⭐181 | A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remo |
+| 9 | [Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent) | TypeScript | ⭐166 |  |
+| 10 | [ChenShuo2004/cs-board](https://github.com/ChenShuo2004/cs-board) | Python | ⭐149 | 将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-23](records/2026-08-23.md) | MengTo/threeui | 2238 |
 | [2026-08-22](records/2026-08-22.md) | MengTo/threeui | 920 |
 | [2026-08-21](records/2026-08-21.md) | Leutenegger/watermarks-remover | 928 |
 | [2026-08-20](records/2026-08-20.md) | s1dashu/ip-as-logo-skill | 2588 |
