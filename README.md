@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-23
+## Latest: 2026-08-24
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [MengTo/threeui](https://github.com/MengTo/threeui) | HTML | ⭐2238 | Open-source ThreeUI Community catalog with live interactive components and compl |
-| 2 | [Leutenegger/vanity-eth](https://github.com/Leutenegger/vanity-eth) | Python | ⭐803 | Offline vanity address generator for Bitcoin and Ethereum. CPU multi-process sea |
-| 3 | [Leutenegger/claudish-to-english](https://github.com/Leutenegger/claudish-to-english) | Shell | ⭐581 | Claude Code plugin that rewrites each assistant message into plain language on s |
-| 4 | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | JavaScript | ⭐257 | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin |
-| 5 | [LB623/no-negative-echo](https://github.com/LB623/no-negative-echo) | Python | ⭐211 | 让 Codex 根据最终结果生成标题、注释、commit 和 PR，减少被否决方案在交付中的残留。 |
-| 6 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Zig | ⭐209 | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha |
-| 7 | [aj-2-c-2-a/undress-designses](https://github.com/aj-2-c-2-a/undress-designses) | — | ⭐188 |  |
-| 8 | [adnanakil/nobuzz](https://github.com/adnanakil/nobuzz) | — | ⭐181 | A Claude Code skill (/debuzz) that pipes Claude's answers through Gemini to remo |
-| 9 | [Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent) | TypeScript | ⭐166 |  |
-| 10 | [ChenShuo2004/cs-board](https://github.com/ChenShuo2004/cs-board) | Python | ⭐149 | 将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。 |
+| 1 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Zig | ⭐1055 | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha |
+| 2 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | Python | ⭐761 | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite  |
+| 3 | [tobi/walgit](https://github.com/tobi/walgit) | Rust | ⭐608 |  |
+| 4 | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | JavaScript | ⭐542 | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin |
+| 5 | [Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent) | TypeScript | ⭐511 | AI agent that builds a live biosecurity world around any target. |
+| 6 | [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | TypeScript | ⭐415 | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m |
+| 7 | [localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp) | C++ | ⭐352 | NVIDIA Kimodo ported to C++/GGML |
+| 8 | [kgoedecke/doop](https://github.com/kgoedecke/doop) | TypeScript | ⭐223 | The open-source alternative to Paper.design. A multiplayer design canvas where h |
+| 9 | [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) | Python | ⭐218 | 1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다 |
+| 10 | [josiah-nelson/eidos](https://github.com/josiah-nelson/eidos) | Rust | ⭐164 | Windows-first filesystem catalog, content indexer, storage analyzer, and search  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-24](records/2026-08-24.md) | duty1g/x64dbg-mcp-server | 1055 |
 | [2026-08-23](records/2026-08-23.md) | MengTo/threeui | 2238 |
 | [2026-08-22](records/2026-08-22.md) | MengTo/threeui | 920 |
 | [2026-08-21](records/2026-08-21.md) | Leutenegger/watermarks-remover | 928 |
