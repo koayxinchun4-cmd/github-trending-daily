@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-24
+## Latest: 2026-08-25
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | Zig | ⭐1055 | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha |
-| 2 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | Python | ⭐761 | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite  |
-| 3 | [tobi/walgit](https://github.com/tobi/walgit) | Rust | ⭐608 |  |
-| 4 | [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | JavaScript | ⭐542 | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin |
-| 5 | [Forsy-AI/biosecurity-agent](https://github.com/Forsy-AI/biosecurity-agent) | TypeScript | ⭐511 | AI agent that builds a live biosecurity world around any target. |
-| 6 | [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | TypeScript | ⭐415 | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m |
-| 7 | [localai-org/kimodo.cpp](https://github.com/localai-org/kimodo.cpp) | C++ | ⭐352 | NVIDIA Kimodo ported to C++/GGML |
-| 8 | [kgoedecke/doop](https://github.com/kgoedecke/doop) | TypeScript | ⭐223 | The open-source alternative to Paper.design. A multiplayer design canvas where h |
-| 9 | [bam-bam-2/solo-skills](https://github.com/bam-bam-2/solo-skills) | Python | ⭐218 | 1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다 |
-| 10 | [josiah-nelson/eidos](https://github.com/josiah-nelson/eidos) | Rust | ⭐164 | Windows-first filesystem catalog, content indexer, storage analyzer, and search  |
+| 1 | [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | TypeScript | ⭐2212 | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m |
+| 2 | [tobi/walgit](https://github.com/tobi/walgit) | Rust | ⭐1267 |  |
+| 3 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | Python | ⭐785 | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite  |
+| 4 | [rome-os/rome](https://github.com/rome-os/rome) | TypeScript | ⭐305 | Rome is the agentic OS. |
+| 5 | [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | Astro | ⭐289 | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
+| 6 | [fzakaria/selfdb](https://github.com/fzakaria/selfdb) | Python | ⭐269 |  |
+| 7 | [MediatorAxle/How-To-Fish-Trainer](https://github.com/MediatorAxle/How-To-Fish-Trainer) | C++ | ⭐250 | How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds s |
+| 8 | [alchaincyf/huashu-excel](https://github.com/alchaincyf/huashu-excel) | Python | ⭐219 | 数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 open |
+| 9 | [TarunTomar122/better-voice](https://github.com/TarunTomar122/better-voice) | Swift | ⭐198 | Voice dictation with the screen context you point at. |
+| 10 | [truespar/sentio](https://github.com/truespar/sentio) | Rust | ⭐188 | Email inbox API for AI agents. Give every agent its own real email address, rece |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-25](records/2026-08-25.md) | b-nnett/grok-bot-0.18-reconstructed | 2212 |
 | [2026-08-24](records/2026-08-24.md) | duty1g/x64dbg-mcp-server | 1055 |
 | [2026-08-23](records/2026-08-23.md) | MengTo/threeui | 2238 |
 | [2026-08-22](records/2026-08-22.md) | MengTo/threeui | 920 |
