@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-25
+## Latest: 2026-08-26
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | TypeScript | ⭐2212 | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m |
-| 2 | [tobi/walgit](https://github.com/tobi/walgit) | Rust | ⭐1267 |  |
-| 3 | [ShadowAqueduct/watermark-remover](https://github.com/ShadowAqueduct/watermark-remover) | Python | ⭐785 | Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite  |
-| 4 | [rome-os/rome](https://github.com/rome-os/rome) | TypeScript | ⭐305 | Rome is the agentic OS. |
-| 5 | [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | Astro | ⭐289 | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
-| 6 | [fzakaria/selfdb](https://github.com/fzakaria/selfdb) | Python | ⭐269 |  |
-| 7 | [MediatorAxle/How-To-Fish-Trainer](https://github.com/MediatorAxle/How-To-Fish-Trainer) | C++ | ⭐250 | How to Fish trainer for PC — infinite money and ammo, never lose a fish, birds s |
-| 8 | [alchaincyf/huashu-excel](https://github.com/alchaincyf/huashu-excel) | Python | ⭐219 | 数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 open |
-| 9 | [TarunTomar122/better-voice](https://github.com/TarunTomar122/better-voice) | Swift | ⭐198 | Voice dictation with the screen context you point at. |
-| 10 | [truespar/sentio](https://github.com/truespar/sentio) | Rust | ⭐188 | Email inbox API for AI agents. Give every agent its own real email address, rece |
+| 1 | [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | Astro | ⭐609 | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
+| 2 | [amosblomqvist/learn](https://github.com/amosblomqvist/learn) | TypeScript | ⭐315 | My AI learning system. |
+| 3 | [yding-git/personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy) | — | ⭐280 | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hyster |
+| 4 | [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) | Python | ⭐280 | Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖） |
+| 5 | [lvgalvao/projeto-dados-ia-databricks](https://github.com/lvgalvao/projeto-dados-ia-databricks) | Python | ⭐200 |  |
+| 6 | [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) | Python | ⭐183 | 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser  |
+| 7 | [czm15053/linuxdo-idea-ui](https://github.com/czm15053/linuxdo-idea-ui) | JavaScript | ⭐157 | 油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据 |
+| 8 | [yizhiyanhua-ai/fireworks-open-eli5](https://github.com/yizhiyanhua-ai/fireworks-open-eli5) | JavaScript | ⭐155 | Evidence-aware interactive visual explainers for Codex and Claude Code. |
+| 9 | [dragthelake/ambient-context](https://github.com/dragthelake/ambient-context) | Rust | ⭐121 | A menu bar app that keeps a written record of what you worked on. |
+| 10 | [Straniero44/wenai](https://github.com/Straniero44/wenai) | — | ⭐121 | An intimate AI companion skill for OpenClaw — fall in love with your AI girlfrie |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-26](records/2026-08-26.md) | bryllim/workout-guide | 609 |
 | [2026-08-25](records/2026-08-25.md) | b-nnett/grok-bot-0.18-reconstructed | 2212 |
 | [2026-08-24](records/2026-08-24.md) | duty1g/x64dbg-mcp-server | 1055 |
 | [2026-08-23](records/2026-08-23.md) | MengTo/threeui | 2238 |
