@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-26
+## Latest: 2026-08-27
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | Astro | ⭐609 | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
-| 2 | [amosblomqvist/learn](https://github.com/amosblomqvist/learn) | TypeScript | ⭐315 | My AI learning system. |
-| 3 | [yding-git/personal-edge-proxy](https://github.com/yding-git/personal-edge-proxy) | — | ⭐280 | A practical multi-inbound, multi-outbound personal proxy setup with Xray, Hyster |
-| 4 | [lxf746/outlook-auto-register](https://github.com/lxf746/outlook-auto-register) | Python | ⭐280 | Microsoft Outlook Fluent Web API 协议注册工具（纯协议，无浏览器依赖） |
-| 5 | [lvgalvao/projeto-dados-ia-databricks](https://github.com/lvgalvao/projeto-dados-ia-databricks) | Python | ⭐200 |  |
-| 6 | [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) | Python | ⭐183 | 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser  |
-| 7 | [czm15053/linuxdo-idea-ui](https://github.com/czm15053/linuxdo-idea-ui) | JavaScript | ⭐157 | 油猴脚本：将 linux.do 换成 JetBrains / Darcula 风格外观，只换皮不碰数据 |
-| 8 | [yizhiyanhua-ai/fireworks-open-eli5](https://github.com/yizhiyanhua-ai/fireworks-open-eli5) | JavaScript | ⭐155 | Evidence-aware interactive visual explainers for Codex and Claude Code. |
-| 9 | [dragthelake/ambient-context](https://github.com/dragthelake/ambient-context) | Rust | ⭐121 | A menu bar app that keeps a written record of what you worked on. |
-| 10 | [Straniero44/wenai](https://github.com/Straniero44/wenai) | — | ⭐121 | An intimate AI companion skill for OpenClaw — fall in love with your AI girlfrie |
+| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐944 |  |
+| 2 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | TypeScript | ⭐791 | A studio for image and video generation — one prompt bar, each model’s own setti |
+| 3 | [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | Python | ⭐461 | WeMM-Embedding is a family of universal multimodal embedding models by the WeCha |
+| 4 | [dmitryd-ops1996m6/Wilonity](https://github.com/dmitryd-ops1996m6/Wilonity) | — | ⭐402 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
+| 5 | [gtlhuyidan-sketch/life-ipo](https://github.com/gtlhuyidan-sketch/life-ipo) | TypeScript | ⭐281 | 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。 |
+| 6 | [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) | Python | ⭐281 | 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser  |
+| 7 | [s0xDk/refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill) | CSS | ⭐261 | A Claude Code skill that applies the concrete design rules from the book Refacto |
+| 8 | [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | — | ⭐197 | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO |
+| 9 | [mouredev/hello-sdd](https://github.com/mouredev/hello-sdd) | Python | ⭐191 | Curso de SDD (Spec-Driven Development) desde cero |
+| 10 | [POUND0423/AI-drama-pound](https://github.com/POUND0423/AI-drama-pound) | — | ⭐185 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-27](records/2026-08-27.md) | HEJustinSun/my-girlfriend-jingtian-latex | 944 |
 | [2026-08-26](records/2026-08-26.md) | bryllim/workout-guide | 609 |
 | [2026-08-25](records/2026-08-25.md) | b-nnett/grok-bot-0.18-reconstructed | 2212 |
 | [2026-08-24](records/2026-08-24.md) | duty1g/x64dbg-mcp-server | 1055 |
