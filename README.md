@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-27
+## Latest: 2026-08-28
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐944 |  |
-| 2 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | TypeScript | ⭐791 | A studio for image and video generation — one prompt bar, each model’s own setti |
-| 3 | [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding) | Python | ⭐461 | WeMM-Embedding is a family of universal multimodal embedding models by the WeCha |
-| 4 | [dmitryd-ops1996m6/Wilonity](https://github.com/dmitryd-ops1996m6/Wilonity) | — | ⭐402 | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2 |
-| 5 | [gtlhuyidan-sketch/life-ipo](https://github.com/gtlhuyidan-sketch/life-ipo) | TypeScript | ⭐281 | 人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。 |
-| 6 | [oboroge0/hayamimi](https://github.com/oboroge0/hayamimi) | Python | ⭐281 | 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser  |
-| 7 | [s0xDk/refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill) | CSS | ⭐261 | A Claude Code skill that applies the concrete design rules from the book Refacto |
-| 8 | [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | — | ⭐197 | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO |
-| 9 | [mouredev/hello-sdd](https://github.com/mouredev/hello-sdd) | Python | ⭐191 | Curso de SDD (Spec-Driven Development) desde cero |
-| 10 | [POUND0423/AI-drama-pound](https://github.com/POUND0423/AI-drama-pound) | — | ⭐185 |  |
+| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐3660 |  |
+| 2 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | Python | ⭐1446 | Autonomous research system for measurable, computer-executable research. |
+| 3 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | TypeScript | ⭐959 | A studio for image and video generation — one prompt bar, each model’s own setti |
+| 4 | [POUND0423/AI-drama-pound](https://github.com/POUND0423/AI-drama-pound) | — | ⭐479 |  |
+| 5 | [s0xDk/refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill) | CSS | ⭐387 | A Claude Code skill that applies the concrete design rules from the book Refacto |
+| 6 | [crmne/fastpotify](https://github.com/crmne/fastpotify) | Rust | ⭐375 | Spotify, native and fast. One lightweight Rust app for your whole library, local |
+| 7 | [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | — | ⭐314 | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO |
+| 8 | [KKKKhazix/sun-style-writing](https://github.com/KKKKhazix/sun-style-writing) | — | ⭐300 | 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法 |
+| 9 | [mouredev/hello-sdd](https://github.com/mouredev/hello-sdd) | Python | ⭐282 | Curso de SDD (Spec-Driven Development) desde cero |
+| 10 | [CHENG-LIANG1/real-company-interview-ai-coding-projects](https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects) | — | ⭐228 | 三个匿名化真实 AI Coding 面试项目题与一套通用解题方法 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-28](records/2026-08-28.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3660 |
 | [2026-08-27](records/2026-08-27.md) | HEJustinSun/my-girlfriend-jingtian-latex | 944 |
 | [2026-08-26](records/2026-08-26.md) | bryllim/workout-guide | 609 |
 | [2026-08-25](records/2026-08-25.md) | b-nnett/grok-bot-0.18-reconstructed | 2212 |
