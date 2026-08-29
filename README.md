@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-28
+## Latest: 2026-08-29
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐3660 |  |
-| 2 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | Python | ⭐1446 | Autonomous research system for measurable, computer-executable research. |
-| 3 | [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | TypeScript | ⭐959 | A studio for image and video generation — one prompt bar, each model’s own setti |
-| 4 | [POUND0423/AI-drama-pound](https://github.com/POUND0423/AI-drama-pound) | — | ⭐479 |  |
-| 5 | [s0xDk/refactoring-ui-skill](https://github.com/s0xDk/refactoring-ui-skill) | CSS | ⭐387 | A Claude Code skill that applies the concrete design rules from the book Refacto |
-| 6 | [crmne/fastpotify](https://github.com/crmne/fastpotify) | Rust | ⭐375 | Spotify, native and fast. One lightweight Rust app for your whole library, local |
-| 7 | [leopard627/fire-your-seo-agency](https://github.com/leopard627/fire-your-seo-agency) | — | ⭐314 | Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO |
-| 8 | [KKKKhazix/sun-style-writing](https://github.com/KKKKhazix/sun-style-writing) | — | ⭐300 | 从孙割19年白月光的痛彻心扉中蒸馏出来的无上心法 |
-| 9 | [mouredev/hello-sdd](https://github.com/mouredev/hello-sdd) | Python | ⭐282 | Curso de SDD (Spec-Driven Development) desde cero |
-| 10 | [CHENG-LIANG1/real-company-interview-ai-coding-projects](https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects) | — | ⭐228 | 三个匿名化真实 AI Coding 面试项目题与一套通用解题方法 |
+| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐3838 |  |
+| 2 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | Python | ⭐2878 | Autonomous research system for measurable, computer-executable research. |
+| 3 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | TypeScript | ⭐724 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the |
+| 4 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | Shell | ⭐563 | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrat |
+| 5 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | CSS | ⭐487 | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit |
+| 6 | [jprx/darwin-vm](https://github.com/jprx/darwin-vm) | Python | ⭐464 | Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si |
+| 7 | [crmne/fastpotify](https://github.com/crmne/fastpotify) | Rust | ⭐454 | Spotify, native and fast. One lightweight Rust app for your whole library, local |
+| 8 | [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | Python | ⭐440 |  |
+| 9 | [chrisgreg/boop](https://github.com/chrisgreg/boop) | Go | ⭐352 | A tiny, self-hosted notification inbox for developers. Something happened in one |
+| 10 | [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) | JavaScript | ⭐336 | Run any model in Grok Bot — one-command setup, model picker UI, evidence-based p |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-29](records/2026-08-29.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3838 |
 | [2026-08-28](records/2026-08-28.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3660 |
 | [2026-08-27](records/2026-08-27.md) | HEJustinSun/my-girlfriend-jingtian-latex | 944 |
 | [2026-08-26](records/2026-08-26.md) | bryllim/workout-guide | 609 |
