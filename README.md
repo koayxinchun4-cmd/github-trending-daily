@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-29
+## Latest: 2026-08-30
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | TeX | ⭐3838 |  |
-| 2 | [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | Python | ⭐2878 | Autonomous research system for measurable, computer-executable research. |
-| 3 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | TypeScript | ⭐724 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the |
-| 4 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | Shell | ⭐563 | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrat |
-| 5 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | CSS | ⭐487 | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit |
-| 6 | [jprx/darwin-vm](https://github.com/jprx/darwin-vm) | Python | ⭐464 | Run iOS/ macOS in Qemu. Virtual iPhone 17, 16, 15, 14, 13, 12 and M5-M1 Apple Si |
-| 7 | [crmne/fastpotify](https://github.com/crmne/fastpotify) | Rust | ⭐454 | Spotify, native and fast. One lightweight Rust app for your whole library, local |
-| 8 | [tradecatlabs/shulihuazixuecongshu](https://github.com/tradecatlabs/shulihuazixuecongshu) | Python | ⭐440 |  |
-| 9 | [chrisgreg/boop](https://github.com/chrisgreg/boop) | Go | ⭐352 | A tiny, self-hosted notification inbox for developers. Something happened in one |
-| 10 | [OnlyTerp/opengrok](https://github.com/OnlyTerp/opengrok) | JavaScript | ⭐336 | Run any model in Grok Bot — one-command setup, model picker UI, evidence-based p |
+| 1 | [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | TypeScript | ⭐1231 | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the |
+| 2 | [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | CSS | ⭐983 | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit |
+| 3 | [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | — | ⭐822 | De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity — narrat |
+| 4 | [chrisgreg/boop](https://github.com/chrisgreg/boop) | Go | ⭐542 | A tiny, self-hosted notification inbox for developers. Something happened in one |
+| 5 | [cbrock84/headcount](https://github.com/cbrock84/headcount) | Markdown | ⭐519 | An agent organization for Claude Code, structured as a company — 15+ departments |
+| 6 | [Leveetememorialize/gta-6-download-cyberleek](https://github.com/Leveetememorialize/gta-6-download-cyberleek) | C# | ⭐254 | GTA 6 Alpha build leaked by CyberLeek. Full playable build with Vice City map, g |
+| 7 | [MSNightmare/HardBreacher](https://github.com/MSNightmare/HardBreacher) | C | ⭐179 | Kaspersky Antivirus For Endpoint ZeroDay Elevation of Privileges Vulnerability |
+| 8 | [afifjaziminkamaruzuan-lgtm/mod-organizer-2-download](https://github.com/afifjaziminkamaruzuan-lgtm/mod-organizer-2-download) | — | ⭐150 | 'mod organizer 2 download' — Where to get MO2 safely, how instance profiles work |
+| 9 | [asasen2198/bcuninstaller-guide](https://github.com/asasen2198/bcuninstaller-guide) | — | ⭐150 | 'bulk crap uninstaller' — A practical guide to BCU plus companion scripts for ba |
+| 10 | [ogidy/game-booster-2026](https://github.com/ogidy/game-booster-2026) | — | ⭐150 | 'game booster 2026' — An open toolkit that does the few things 'game boosters' c |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-08-30](records/2026-08-30.md) | XiaoDuoYa/codex-with-chatgpt | 1231 |
 | [2026-08-29](records/2026-08-29.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3838 |
 | [2026-08-28](records/2026-08-28.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3660 |
 | [2026-08-27](records/2026-08-27.md) | HEJustinSun/my-girlfriend-jingtian-latex | 944 |
