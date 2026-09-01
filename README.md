@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-08-31
+## Latest: 2026-09-01
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool) | Python | ⭐550 | Coomer Tool |
-| 2 | [jlrouzies-fr/DLSS5-Feeder](https://github.com/jlrouzies-fr/DLSS5-Feeder) | C++ | ⭐374 | DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — f |
-| 3 | [siknet/FreePEP](https://github.com/siknet/FreePEP) | Python | ⭐166 | 人教社电子教材下载器 |
-| 4 | [Ryze-AI-Adgent/open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills) | Shell | ⭐154 | Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site  |
-| 5 | [Vuk97/forward-implementation-first](https://github.com/Vuk97/forward-implementation-first) | Shell | ⭐150 | Stop your coding agent from stalling real work on self-invented bookkeeping - re |
-| 6 | [Sac-Y/MiniMax-H3-Cloud](https://github.com/Sac-Y/MiniMax-H3-Cloud) | JavaScript | ⭐150 |  |
-| 7 | [slightbasebo/fragment-api-dev](https://github.com/slightbasebo/fragment-api-dev) | — | ⭐148 | Telegram Stars and Premium API with GRAM/USDT payments, Python SDK, REST example |
-| 8 | [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream) | Python | ⭐144 |  |
-| 9 | [aimen08/noty](https://github.com/aimen08/noty) | HTML | ⭐141 | Sticky notes that live at the edge of your screen. Native macOS, SwiftUI + AppKi |
-| 10 | [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs) | Rust | ⭐132 | Volatility 3 ported to Rust. Same output, much faster. |
+| 1 | [GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool) | Python | ⭐742 | Coomer Tool |
+| 2 | [siknet/FreePEP](https://github.com/siknet/FreePEP) | Python | ⭐273 | 人教社电子教材下载器 |
+| 3 | [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) | JavaScript | ⭐254 |  |
+| 4 | [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream) | Python | ⭐185 |  |
+| 5 | [mizorewww/course2md](https://github.com/mizorewww/course2md) | Rust | ⭐174 | Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrate |
+| 6 | [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game) | TypeScript | ⭐166 |  |
+| 7 | [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs) | Rust | ⭐153 | Volatility 3 ported to Rust. Same output, much faster. |
+| 8 | [slightbasebo/fragment-api-dev](https://github.com/slightbasebo/fragment-api-dev) | — | ⭐148 | Telegram Stars and Premium API with GRAM/USDT payments, Python SDK, REST example |
+| 9 | [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) | C | ⭐145 | GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability |
+| 10 | [profullstack/hqtui](https://github.com/profullstack/hqtui) | TypeScript | ⭐120 | High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-01](records/2026-09-01.md) | GangTailorUpgrade/CoomeRtool | 742 |
 | [2026-08-31](records/2026-08-31.md) | GangTailorUpgrade/CoomeRtool | 550 |
 | [2026-08-30](records/2026-08-30.md) | XiaoDuoYa/codex-with-chatgpt | 1231 |
 | [2026-08-29](records/2026-08-29.md) | HEJustinSun/my-girlfriend-jingtian-latex | 3838 |
