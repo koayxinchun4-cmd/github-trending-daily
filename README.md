@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-01
+## Latest: 2026-09-02
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [GangTailorUpgrade/CoomeRtool](https://github.com/GangTailorUpgrade/CoomeRtool) | Python | ⭐742 | Coomer Tool |
-| 2 | [siknet/FreePEP](https://github.com/siknet/FreePEP) | Python | ⭐273 | 人教社电子教材下载器 |
-| 3 | [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) | JavaScript | ⭐254 |  |
-| 4 | [reactor-team/infinite-livestream](https://github.com/reactor-team/infinite-livestream) | Python | ⭐185 |  |
-| 5 | [mizorewww/course2md](https://github.com/mizorewww/course2md) | Rust | ⭐174 | Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrate |
-| 6 | [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game) | TypeScript | ⭐166 |  |
-| 7 | [daffainfo/vol-rs](https://github.com/daffainfo/vol-rs) | Rust | ⭐153 | Volatility 3 ported to Rust. Same output, much faster. |
-| 8 | [slightbasebo/fragment-api-dev](https://github.com/slightbasebo/fragment-api-dev) | — | ⭐148 | Telegram Stars and Premium API with GRAM/USDT payments, Python SDK, REST example |
-| 9 | [MSNightmare/PrettyPrague](https://github.com/MSNightmare/PrettyPrague) | C | ⭐145 | GenDigital Avast Antivirus ZeroDay Elevation of Privileges Vulnerability |
-| 10 | [profullstack/hqtui](https://github.com/profullstack/hqtui) | TypeScript | ⭐120 | High Quality Terminal UI for TypeScript — btop-grade terminal dashboards with a  |
+| 1 | [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service) | Python | ⭐888 | Coomer Tool |
+| 2 | [2akouwu/codex-cli-portable-setup-kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) | Python | ⭐506 | Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary |
+| 3 | [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) | JavaScript | ⭐338 |  |
+| 4 | [siknet/FreePEP](https://github.com/siknet/FreePEP) | Python | ⭐305 | 人教社电子教材下载器 |
+| 5 | [mizorewww/course2md](https://github.com/mizorewww/course2md) | Rust | ⭐214 | Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrate |
+| 6 | [faisalkindi/DLSS5oneclick](https://github.com/faisalkindi/DLSS5oneclick) | Rust | ⭐208 | One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 ga |
+| 7 | [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game) | TypeScript | ⭐208 |  |
+| 8 | [tsouth89/omakade](https://github.com/tsouth89/omakade) | C++ | ⭐183 | A beautiful, local-first game library built for Omarchy. |
+| 9 | [dreamers-laboratory/agent-fleet-manager](https://github.com/dreamers-laboratory/agent-fleet-manager) | Python | ⭐168 | A general-purpose engine for large-scale, repeated information gathering by a fl |
+| 10 | [yilujian/easy-writing](https://github.com/yilujian/easy-writing) | Vue | ⭐160 | 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-02](records/2026-09-02.md) | GangTailorUpgrade/undress-service | 888 |
 | [2026-09-01](records/2026-09-01.md) | GangTailorUpgrade/CoomeRtool | 742 |
 | [2026-08-31](records/2026-08-31.md) | GangTailorUpgrade/CoomeRtool | 550 |
 | [2026-08-30](records/2026-08-30.md) | XiaoDuoYa/codex-with-chatgpt | 1231 |
