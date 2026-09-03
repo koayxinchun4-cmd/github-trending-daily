@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-02
+## Latest: 2026-09-03
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service) | Python | ⭐888 | Coomer Tool |
-| 2 | [2akouwu/codex-cli-portable-setup-kit](https://github.com/2akouwu/codex-cli-portable-setup-kit) | Python | ⭐506 | Autonomous Systems & Security Toolkit for OpenAI Codex CLI. Deterministic binary |
-| 3 | [subsy/skill-cabinet](https://github.com/subsy/skill-cabinet) | JavaScript | ⭐338 |  |
-| 4 | [siknet/FreePEP](https://github.com/siknet/FreePEP) | Python | ⭐305 | 人教社电子教材下载器 |
-| 5 | [mizorewww/course2md](https://github.com/mizorewww/course2md) | Rust | ⭐214 | Turn YouTube, Bilibili, or local course/meeting recordings into slide-illustrate |
-| 6 | [faisalkindi/DLSS5oneclick](https://github.com/faisalkindi/DLSS5oneclick) | Rust | ⭐208 | One-click setup of the leaked DLSS 5 neural-rendering build for any DX11/DX12 ga |
-| 7 | [blendi-remade/interdimensional-game](https://github.com/blendi-remade/interdimensional-game) | TypeScript | ⭐208 |  |
-| 8 | [tsouth89/omakade](https://github.com/tsouth89/omakade) | C++ | ⭐183 | A beautiful, local-first game library built for Omarchy. |
-| 9 | [dreamers-laboratory/agent-fleet-manager](https://github.com/dreamers-laboratory/agent-fleet-manager) | Python | ⭐168 | A general-purpose engine for large-scale, repeated information gathering by a fl |
-| 10 | [yilujian/easy-writing](https://github.com/yilujian/easy-writing) | Vue | ⭐160 | 易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。 |
+| 1 | [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | Python | ⭐1143 | Reference blueprint for building shopping and merchant agents with Claude. Examp |
+| 2 | [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) | JavaScript | ⭐282 | worlds via code, from fable 5.1 |
+| 3 | [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) | C | ⭐278 | Crowdstrike Falcon 0day Privilege Escalation Vulnerability |
+| 4 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | TypeScript | ⭐263 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi |
+| 5 | [dreamers-laboratory/image-to-3d-pipeline](https://github.com/dreamers-laboratory/image-to-3d-pipeline) | JavaScript | ⭐242 | Reconstruct 3D meshes from images with several open-source models and score whic |
+| 6 | [tsouth89/omakade](https://github.com/tsouth89/omakade) | C++ | ⭐211 | A beautiful, local-first game library built for Omarchy. |
+| 7 | [mahdidavoodi7/react-native-continued-task](https://github.com/mahdidavoodi7/react-native-continued-task) | TypeScript | ⭐181 | Background tasks that keep running after your app is backgrounded, for React Nat |
+| 8 | [LunarXuan/image-prompt-reverse](https://github.com/LunarXuan/image-prompt-reverse) | — | ⭐175 | High-fidelity AI image prompt reverse-engineering skill for Codex |
+| 9 | [kydlikebtc/awesome-grokbot](https://github.com/kydlikebtc/awesome-grokbot) | Python | ⭐170 | 440 live x.ai/bot shares for Grok Bot — every link status-checked, every row att |
+| 10 | [dreamers-laboratory/agent-fleet-manager](https://github.com/dreamers-laboratory/agent-fleet-manager) | Python | ⭐170 | A general-purpose engine for large-scale, repeated information gathering by a fl |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-03](records/2026-09-03.md) | anthropics/commerce-agents | 1143 |
 | [2026-09-02](records/2026-09-02.md) | GangTailorUpgrade/undress-service | 888 |
 | [2026-09-01](records/2026-09-01.md) | GangTailorUpgrade/CoomeRtool | 742 |
 | [2026-08-31](records/2026-08-31.md) | GangTailorUpgrade/CoomeRtool | 550 |
