@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-04
+## Latest: 2026-09-05
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | TypeScript | ⭐1002 | Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi |
-| 2 | [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) | C | ⭐470 | Crowdstrike Falcon 0day Privilege Escalation Vulnerability |
-| 3 | [codejunkie99/fable-orchestrator](https://github.com/codejunkie99/fable-orchestrator) | Shell | ⭐425 | Fable 5.1 orchestrates. GPT-5.6 Luna and DeepSeek V4 Flash implement. |
-| 4 | [PhiloLabs/fable51-worlds](https://github.com/PhiloLabs/fable51-worlds) | JavaScript | ⭐412 | worlds via code, from fable 5.1 |
-| 5 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | TypeScript | ⭐311 | Open-source AI brand visibility and competitor reports |
-| 6 | [nahrek/polyledger](https://github.com/nahrek/polyledger) | Python | ⭐306 | Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Pol |
-| 7 | [op7418/guizang-yingzao-skill](https://github.com/op7418/guizang-yingzao-skill) | Python | ⭐295 | 🏯 Claude Code / Codex skill — transform Chinese architecture, cultural places &  |
-| 8 | [dreamers-laboratory/image-to-3d-pipeline](https://github.com/dreamers-laboratory/image-to-3d-pipeline) | JavaScript | ⭐283 | Reconstruct 3D meshes from images with several open-source models and score whic |
-| 9 | [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | — | ⭐269 | Run DLSS 5 Neural Rendering on your AMD GPU. Magic! |
-| 10 | [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | JavaScript | ⭐256 | Take a photo of real objects, and paste them in Blender |
+| 1 | [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | — | ⭐568 | Run DLSS 5 Neural Rendering on your AMD GPU. Magic! |
+| 2 | [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | Lean | ⭐552 |  |
+| 3 | [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) | C | ⭐511 | Crowdstrike Falcon 0day Privilege Escalation Vulnerability |
+| 4 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | TypeScript | ⭐435 | Open-source AI brand visibility and competitor reports |
+| 5 | [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | JavaScript | ⭐391 | Take a photo of real objects, and paste them in Blender |
+| 6 | [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) | JavaScript | ⭐255 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowroc |
+| 7 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Python | ⭐252 |  |
+| 8 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Python | ⭐224 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc |
+| 9 | [0x6rss/instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) | Python | ⭐178 | Analyze the followers and following accounts that a private (hidden) Instagram a |
+| 10 | [R44VC0RP/superlocal](https://github.com/R44VC0RP/superlocal) | TypeScript | ⭐171 | An email client & provider gateway so you can build your best email experience.  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-05](records/2026-09-05.md) | danielblnc/DLSS-NR-on-AMD | 568 |
 | [2026-09-04](records/2026-09-04.md) | lnkiai/m3e-canvas | 1002 |
 | [2026-09-03](records/2026-09-03.md) | anthropics/commerce-agents | 1143 |
 | [2026-09-02](records/2026-09-02.md) | GangTailorUpgrade/undress-service | 888 |
