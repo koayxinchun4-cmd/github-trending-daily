@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-05
+## Latest: 2026-09-06
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [danielblnc/DLSS-NR-on-AMD](https://github.com/danielblnc/DLSS-NR-on-AMD) | — | ⭐568 | Run DLSS 5 Neural Rendering on your AMD GPU. Magic! |
-| 2 | [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | Lean | ⭐552 |  |
-| 3 | [MSNightmare/FalconFlank](https://github.com/MSNightmare/FalconFlank) | C | ⭐511 | Crowdstrike Falcon 0day Privilege Escalation Vulnerability |
-| 4 | [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | TypeScript | ⭐435 | Open-source AI brand visibility and competitor reports |
-| 5 | [ahujasid/camera-to-blender](https://github.com/ahujasid/camera-to-blender) | JavaScript | ⭐391 | Take a photo of real objects, and paste them in Blender |
-| 6 | [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) | JavaScript | ⭐255 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowroc |
-| 7 | [kajisho5/ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill) | Python | ⭐252 |  |
-| 8 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Python | ⭐224 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc |
-| 9 | [0x6rss/instagram-private-graph](https://github.com/0x6rss/instagram-private-graph) | Python | ⭐178 | Analyze the followers and following accounts that a private (hidden) Instagram a |
-| 10 | [R44VC0RP/superlocal](https://github.com/R44VC0RP/superlocal) | TypeScript | ⭐171 | An email client & provider gateway so you can build your best email experience.  |
+| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | TypeScript | ⭐901 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay |
+| 2 | [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | Lean | ⭐771 |  |
+| 3 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Python | ⭐557 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc |
+| 4 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | Python | ⭐491 | Free open-source project designed for turning youtube-viedos into viral short vi |
+| 5 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | Swift | ⭐435 | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav |
+| 6 | [burakgon/stop-stutter](https://github.com/burakgon/stop-stutter) | Swift | ⭐425 | Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, |
+| 7 | [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) | JavaScript | ⭐422 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowroc |
+| 8 | [byJoey/warp-masque-actions](https://github.com/byJoey/warp-masque-actions) | JavaScript | ⭐325 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact |
+| 9 | [Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens) | TypeScript | ⭐233 | Explore liquid-glass welcome screens with floating stickers and interactive swip |
+| 10 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | Go | ⭐214 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-06](records/2026-09-06.md) | ashemag/human-atlas | 901 |
 | [2026-09-05](records/2026-09-05.md) | danielblnc/DLSS-NR-on-AMD | 568 |
 | [2026-09-04](records/2026-09-04.md) | lnkiai/m3e-canvas | 1002 |
 | [2026-09-03](records/2026-09-03.md) | anthropics/commerce-agents | 1143 |
