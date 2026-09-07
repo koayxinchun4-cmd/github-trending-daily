@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-06
+## Latest: 2026-09-07
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | TypeScript | ⭐901 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay |
-| 2 | [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | Lean | ⭐771 |  |
-| 3 | [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | Python | ⭐557 | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc |
-| 4 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | Python | ⭐491 | Free open-source project designed for turning youtube-viedos into viral short vi |
-| 5 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | Swift | ⭐435 | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav |
-| 6 | [burakgon/stop-stutter](https://github.com/burakgon/stop-stutter) | Swift | ⭐425 | Smoother game streaming on Mac. Automatic AWDL boost for Moonlight, GeForce NOW, |
-| 7 | [KJGX66F/usque-custom-pro](https://github.com/KJGX66F/usque-custom-pro) | JavaScript | ⭐422 | 基于 Cloudflare WARP / MASQUE 的可视化注册、配置生成与多客户端转换工具。 生成、Clash/Mihomo 智能分流、Shadowroc |
-| 8 | [byJoey/warp-masque-actions](https://github.com/byJoey/warp-masque-actions) | JavaScript | ⭐325 | GitHub Actions 自动生成 Cloudflare WARP (MASQUE) 密钥与 mihomo 配置，产物只存 artifact |
-| 9 | [Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens) | TypeScript | ⭐233 | Explore liquid-glass welcome screens with floating stickers and interactive swip |
-| 10 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | Go | ⭐214 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi |
+| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | TypeScript | ⭐1800 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay |
+| 2 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | Python | ⭐1145 | Free open-source project designed for turning youtube-viedos into viral short vi |
+| 3 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | Swift | ⭐850 | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav |
+| 4 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | Python | ⭐661 | Turn the user's description or uploaded reference into a finished, editable Blen |
+| 5 | [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) | Swift | ⭐460 | See what is really inside macOS System Data and delete it, item by item, from th |
+| 6 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | Go | ⭐436 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi |
+| 7 | [yang0/handraw-style](https://github.com/yang0/handraw-style) | HTML | ⭐326 | 手绘风格编号画廊与双语提示词 Skill |
+| 8 | [34306/vphone-web](https://github.com/34306/vphone-web) | HTML | ⭐299 | vphone-cli but you can use your mac as a host and control it over the web |
+| 9 | [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) | Python | ⭐277 | Use Astra as orchestrator and Luna as implementor |
+| 10 | [Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens) | TypeScript | ⭐260 | Explore liquid-glass welcome screens with floating stickers and interactive swip |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-07](records/2026-09-07.md) | ashemag/human-atlas | 1800 |
 | [2026-09-06](records/2026-09-06.md) | ashemag/human-atlas | 901 |
 | [2026-09-05](records/2026-09-05.md) | danielblnc/DLSS-NR-on-AMD | 568 |
 | [2026-09-04](records/2026-09-04.md) | lnkiai/m3e-canvas | 1002 |
