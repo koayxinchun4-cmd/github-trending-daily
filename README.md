@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-07
+## Latest: 2026-09-08
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | TypeScript | ⭐1800 | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay |
-| 2 | [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | Python | ⭐1145 | Free open-source project designed for turning youtube-viedos into viral short vi |
-| 3 | [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | Swift | ⭐850 | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav |
-| 4 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | Python | ⭐661 | Turn the user's description or uploaded reference into a finished, editable Blen |
-| 5 | [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) | Swift | ⭐460 | See what is really inside macOS System Data and delete it, item by item, from th |
-| 6 | [okf-memory/okf-agent-memory](https://github.com/okf-memory/okf-agent-memory) | Go | ⭐436 | Git-native persistent memory for AI coding agents. Implements Google OKF v0.2 wi |
-| 7 | [yang0/handraw-style](https://github.com/yang0/handraw-style) | HTML | ⭐326 | 手绘风格编号画廊与双语提示词 Skill |
-| 8 | [34306/vphone-web](https://github.com/34306/vphone-web) | HTML | ⭐299 | vphone-cli but you can use your mac as a host and control it over the web |
-| 9 | [donvito/codex-astra-luna-orchestrator](https://github.com/donvito/codex-astra-luna-orchestrator) | Python | ⭐277 | Use Astra as orchestrator and Luna as implementor |
-| 10 | [Appllama/liquid-glass-screens](https://github.com/Appllama/liquid-glass-screens) | TypeScript | ⭐260 | Explore liquid-glass welcome screens with floating stickers and interactive swip |
+| 1 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | Python | ⭐1046 | Turn the user's description or uploaded reference into a finished, editable Blen |
+| 2 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | — | ⭐370 |  |
+| 3 | [achimala/dream-loop](https://github.com/achimala/dream-loop) | — | ⭐316 | Agent skill for impressive 3D visuals using Blender + image gen + subagent criti |
+| 4 | [biusberline/cloudflare-turnstile-solver](https://github.com/biusberline/cloudflare-turnstile-solver) | Python | ⭐295 | A small Python library and CLI for working with Cloudflare Turnstile on your own |
+| 5 | [Sophomoresty/turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass) | Python | ⭐254 | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) |
+| 6 | [kunchenguid/kun](https://github.com/kunchenguid/kun) | — | ⭐250 | Think and build like a principal engineer. Leverage Kun's experience, knowledge, |
+| 7 | [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) | — | ⭐225 | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 // 仅学习用途 |
+| 8 | [alchaincyf/huashu-mac-use](https://github.com/alchaincyf/huashu-mac-use) | Swift | ⭐214 | 让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer |
+| 9 | [OpenWAM-Official/OpenWAM](https://github.com/OpenWAM-Official/OpenWAM) | Python | ⭐172 | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systemati |
+| 10 | [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra) | Python | ⭐152 | Change SNES games with AI while you play them. |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-08](records/2026-09-08.md) | EverettFish/holo-card-studio | 1046 |
 | [2026-09-07](records/2026-09-07.md) | ashemag/human-atlas | 1800 |
 | [2026-09-06](records/2026-09-06.md) | ashemag/human-atlas | 901 |
 | [2026-09-05](records/2026-09-05.md) | danielblnc/DLSS-NR-on-AMD | 568 |
