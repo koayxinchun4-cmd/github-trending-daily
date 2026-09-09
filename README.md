@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-08
+## Latest: 2026-09-09
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | Python | ⭐1046 | Turn the user's description or uploaded reference into a finished, editable Blen |
-| 2 | [jtydhr88/screenwriting-skills](https://github.com/jtydhr88/screenwriting-skills) | — | ⭐370 |  |
-| 3 | [achimala/dream-loop](https://github.com/achimala/dream-loop) | — | ⭐316 | Agent skill for impressive 3D visuals using Blender + image gen + subagent criti |
-| 4 | [biusberline/cloudflare-turnstile-solver](https://github.com/biusberline/cloudflare-turnstile-solver) | Python | ⭐295 | A small Python library and CLI for working with Cloudflare Turnstile on your own |
-| 5 | [Sophomoresty/turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass) | Python | ⭐254 | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) |
-| 6 | [kunchenguid/kun](https://github.com/kunchenguid/kun) | — | ⭐250 | Think and build like a principal engineer. Leverage Kun's experience, knowledge, |
-| 7 | [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) | — | ⭐225 | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 // 仅学习用途 |
-| 8 | [alchaincyf/huashu-mac-use](https://github.com/alchaincyf/huashu-mac-use) | Swift | ⭐214 | 让任何 agent 操控 Mac 上没有 API 的原生 app，读后台、写不打扰、每步留取证 · Agent Skill for macOS computer |
-| 9 | [OpenWAM-Official/OpenWAM](https://github.com/OpenWAM-Official/OpenWAM) | Python | ⭐172 | Official repository for "OpenWAM: An Open, Modular Exploration Towards Systemati |
-| 10 | [ScottStevenson/SuperAstra](https://github.com/ScottStevenson/SuperAstra) | Python | ⭐152 | Change SNES games with AI while you play them. |
+| 1 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | Lean | ⭐1372 | Lean certificates accompanying Navier-Stokes and Euler results |
+| 2 | [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | Python | ⭐1208 | Turn the user's description or uploaded reference into a finished, editable Blen |
+| 3 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | Python | ⭐418 | Express yourself in meetings (with memes, of course). |
+| 4 | [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | — | ⭐415 | Here is a dlssg for RTX30 Series GPU  |
+| 5 | [achimala/dream-loop](https://github.com/achimala/dream-loop) | — | ⭐413 | Agent skill for impressive 3D visuals using Blender + image gen + subagent criti |
+| 6 | [Sophomoresty/turnstile-bypass](https://github.com/Sophomoresty/turnstile-bypass) | Python | ⭐376 | Cross-platform Cloudflare Turnstile solver (macOS, Windows, Linux) |
+| 7 | [lfzk550/fanzha-ai-proxy](https://github.com/lfzk550/fanzha-ai-proxy) | — | ⭐367 | 国家反诈AI API 转 OpenAI 兼容格式反向代理服务 // 仅学习用途 |
+| 8 | [henryzawadzki6542/cloudflare-turnstile-bypass](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass) | Python | ⭐367 | Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turns |
+| 9 | [com-phantom/Phantom-Wallet-Desktop](https://github.com/com-phantom/Phantom-Wallet-Desktop) | HTML | ⭐245 | Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop c |
+| 10 | [LBEILC/RhineLabUI](https://github.com/LBEILC/RhineLabUI) | TypeScript | ⭐236 | Rhine Lab archive interface built with TypeScript and Three.js |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-09](records/2026-09-09.md) | openai/NavierStokesAndEuler | 1372 |
 | [2026-09-08](records/2026-09-08.md) | EverettFish/holo-card-studio | 1046 |
 | [2026-09-07](records/2026-09-07.md) | ashemag/human-atlas | 1800 |
 | [2026-09-06](records/2026-09-06.md) | ashemag/human-atlas | 901 |
