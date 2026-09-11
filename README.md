@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-10
+## Latest: 2026-09-11
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | Lean | ⭐1648 | Lean certificates accompanying Navier-Stokes and Euler results |
-| 2 | [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | Python | ⭐603 |  |
-| 3 | [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | Python | ⭐524 | Express yourself in meetings (with memes, of course). |
-| 4 | [com-phantom/Phantom-Wallet-Desktop](https://github.com/com-phantom/Phantom-Wallet-Desktop) | HTML | ⭐511 | Phantom Wallet Desktop app for Windows, macOS and Linux. A lightweight desktop c |
-| 5 | [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | TypeScript | ⭐504 | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a |
-| 6 | [truanayangi-com/truanayangi](https://github.com/truanayangi-com/truanayangi) | TypeScript | ⭐499 | Trưa Nay Ăn Gì — run locally with pnpm. Automatic cookie storage; no login, back |
-| 7 | [henryzawadzki6542/cloudflare-turnstile-bypass](https://github.com/henryzawadzki6542/cloudflare-turnstile-bypass) | Python | ⭐358 | Work with Cloudflare Turnstile in Python: find the sitekey, get a valid cf-turns |
-| 8 | [yureii1996/cek-probe-model](https://github.com/yureii1996/cek-probe-model) | Python | ⭐354 | Untuk cek model apakah maskingan atau bukan |
-| 9 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | JavaScript | ⭐326 | ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat vi |
-| 10 | [jnz/INSLIB](https://github.com/jnz/INSLIB) | C | ⭐267 | Open Source Inertial Navigation Library |
+| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐918 |  |
+| 2 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | C# | ⭐459 | IDM激活与状态维护工具 |
+| 3 | [mizzlelover/gongwen-gbt9704-skill](https://github.com/mizzlelover/gongwen-gbt9704-skill) | JavaScript | ⭐429 | 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX |
+| 4 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | Swift | ⭐417 | Wish you could bring the iPhone Duo effect to your MacBook? |
+| 5 | [yureii1996/cek-probe-model](https://github.com/yureii1996/cek-probe-model) | Python | ⭐354 | Untuk cek model apakah maskingan atau bukan |
+| 6 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | JavaScript | ⭐327 | ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat vi |
+| 7 | [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) | Python | ⭐295 | A Python library for running thousands of MuJoCo simulations in parallel on CPU |
+| 8 | [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) | Rust | ⭐284 |  |
+| 9 | [deepseek-ai/DeepSelect](https://github.com/deepseek-ai/DeepSelect) | Cuda | ⭐281 | DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers |
+| 10 | [nftechie/stonkfly](https://github.com/nftechie/stonkfly) | Python | ⭐233 | A full retained fly-connectome simulation with experimental memory and guarded C |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-11](records/2026-09-11.md) | Faizpi/bank-sampah | 918 |
 | [2026-09-10](records/2026-09-10.md) | openai/NavierStokesAndEuler | 1648 |
 | [2026-09-09](records/2026-09-09.md) | openai/NavierStokesAndEuler | 1372 |
 | [2026-09-08](records/2026-09-08.md) | EverettFish/holo-card-studio | 1046 |
