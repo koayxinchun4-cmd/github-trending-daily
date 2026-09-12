@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-11
+## Latest: 2026-09-12
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐918 |  |
-| 2 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | C# | ⭐459 | IDM激活与状态维护工具 |
-| 3 | [mizzlelover/gongwen-gbt9704-skill](https://github.com/mizzlelover/gongwen-gbt9704-skill) | JavaScript | ⭐429 | 跨平台中文公文排版 Skill，生成参照 GB/T 9704-2012 的可编辑 DOCX |
-| 4 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | Swift | ⭐417 | Wish you could bring the iPhone Duo effect to your MacBook? |
+| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐920 |  |
+| 2 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | Swift | ⭐625 | Wish you could bring the iPhone Duo effect to your MacBook? |
+| 3 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | C# | ⭐562 | IDM激活与状态维护工具 |
+| 4 | [nftechie/stonkfly](https://github.com/nftechie/stonkfly) | Python | ⭐358 | A full retained fly-connectome simulation with experimental memory and guarded C |
 | 5 | [yureii1996/cek-probe-model](https://github.com/yureii1996/cek-probe-model) | Python | ⭐354 | Untuk cek model apakah maskingan atau bukan |
-| 6 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | JavaScript | ⭐327 | ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat vi |
-| 7 | [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) | Python | ⭐295 | A Python library for running thousands of MuJoCo simulations in parallel on CPU |
-| 8 | [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) | Rust | ⭐284 |  |
-| 9 | [deepseek-ai/DeepSelect](https://github.com/deepseek-ai/DeepSelect) | Cuda | ⭐281 | DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers |
-| 10 | [nftechie/stonkfly](https://github.com/nftechie/stonkfly) | Python | ⭐233 | A full retained fly-connectome simulation with experimental memory and guarded C |
+| 6 | [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) | Python | ⭐347 | A Python library for running thousands of MuJoCo simulations in parallel on CPU |
+| 7 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | JavaScript | ⭐327 | ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat vi |
+| 8 | [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) | Rust | ⭐308 |  |
+| 9 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | Go | ⭐299 | the development environment for pros |
+| 10 | [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | JavaScript | ⭐248 | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-12](records/2026-09-12.md) | Faizpi/bank-sampah | 920 |
 | [2026-09-11](records/2026-09-11.md) | Faizpi/bank-sampah | 918 |
 | [2026-09-10](records/2026-09-10.md) | openai/NavierStokesAndEuler | 1648 |
 | [2026-09-09](records/2026-09-09.md) | openai/NavierStokesAndEuler | 1372 |
