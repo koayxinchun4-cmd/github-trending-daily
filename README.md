@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-12
+## Latest: 2026-09-13
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐920 |  |
-| 2 | [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | Swift | ⭐625 | Wish you could bring the iPhone Duo effect to your MacBook? |
-| 3 | [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | C# | ⭐562 | IDM激活与状态维护工具 |
-| 4 | [nftechie/stonkfly](https://github.com/nftechie/stonkfly) | Python | ⭐358 | A full retained fly-connectome simulation with experimental memory and guarded C |
-| 5 | [yureii1996/cek-probe-model](https://github.com/yureii1996/cek-probe-model) | Python | ⭐354 | Untuk cek model apakah maskingan atau bukan |
-| 6 | [kevinzakka/mjbatch](https://github.com/kevinzakka/mjbatch) | Python | ⭐347 | A Python library for running thousands of MuJoCo simulations in parallel on CPU |
-| 7 | [yudaprasetya007/routeVSCODE](https://github.com/yudaprasetya007/routeVSCODE) | JavaScript | ⭐327 | ⚡ Zero-reload dynamic AI model switcher & local proxy for VSCode Copilot Chat vi |
-| 8 | [deepseek-ai/deepseek-recipe](https://github.com/deepseek-ai/deepseek-recipe) | Rust | ⭐308 |  |
-| 9 | [unstablebuild/rune](https://github.com/unstablebuild/rune) | Go | ⭐299 | the development environment for pros |
-| 10 | [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | JavaScript | ⭐248 | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill |
+| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐646 |  |
+| 2 | [rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent) | JavaScript | ⭐627 |  |
+| 3 | [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | HTML | ⭐423 | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill |
+| 4 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | HTML | ⭐360 | Official Project Page for Recurrent Looped Transformer (RLT) |
+| 5 | [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK) | Python | ⭐342 |  |
+| 6 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | Python | ⭐264 | Free open-source extractor for AI coding assistant chat histories. Supports Clau |
+| 7 | [flybook-git/Main](https://github.com/flybook-git/Main) | — | ⭐237 | A full retained fly-connectome simulation with experimental memory and guarded C |
+| 8 | [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) | JavaScript | ⭐232 | Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具 |
+| 9 | [browser-use/life-recorder](https://github.com/browser-use/life-recorder) | Swift | ⭐209 |  |
+| 10 | [Chuloo/mural](https://github.com/Chuloo/mural) | Swift | ⭐187 | The language app you eventually delete. A native iPhone companion for learning t |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-13](records/2026-09-13.md) | Faizpi/bank-sampah | 646 |
 | [2026-09-12](records/2026-09-12.md) | Faizpi/bank-sampah | 920 |
 | [2026-09-11](records/2026-09-11.md) | Faizpi/bank-sampah | 918 |
 | [2026-09-10](records/2026-09-10.md) | openai/NavierStokesAndEuler | 1648 |
