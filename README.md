@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-13
+## Latest: 2026-09-14
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Faizpi/bank-sampah](https://github.com/Faizpi/bank-sampah) | PHP | ⭐646 |  |
-| 2 | [rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent) | JavaScript | ⭐627 |  |
-| 3 | [eternityspring/reelbench-skills](https://github.com/eternityspring/reelbench-skills) | HTML | ⭐423 | Learning notes and tooling skills for AI video - AI 视频相关的学习与工具 skill |
-| 4 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | HTML | ⭐360 | Official Project Page for Recurrent Looped Transformer (RLT) |
-| 5 | [DefiLeoo/YOINK](https://github.com/DefiLeoo/YOINK) | Python | ⭐342 |  |
-| 6 | [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | Python | ⭐264 | Free open-source extractor for AI coding assistant chat histories. Supports Clau |
-| 7 | [flybook-git/Main](https://github.com/flybook-git/Main) | — | ⭐237 | A full retained fly-connectome simulation with experimental memory and guarded C |
-| 8 | [nhovongoc0-max/meme-radar](https://github.com/nhovongoc0-max/meme-radar) | JavaScript | ⭐232 | Meme雷达开源版：本地只读、多链 Meme 候选扫描与人工复核工具 |
-| 9 | [browser-use/life-recorder](https://github.com/browser-use/life-recorder) | Swift | ⭐209 |  |
-| 10 | [Chuloo/mural](https://github.com/Chuloo/mural) | Swift | ⭐187 | The language app you eventually delete. A native iPhone companion for learning t |
+| 1 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | HTML | ⭐704 | Official Project Page for Recurrent Looped Transformer (RLT) |
+| 2 | [rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent) | JavaScript | ⭐633 |  |
+| 3 | [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | — | ⭐512 | GPT-6 Astra for embodied AI and robotics. |
+| 4 | [Chuloo/mural](https://github.com/Chuloo/mural) | Kotlin | ⭐379 | The language app you eventually delete. A native iPhone companion for learning t |
+| 5 | [Qiuner/birdview](https://github.com/Qiuner/birdview) | JavaScript | ⭐232 | Stop letting AI code blind. Map the architecture before every change with Birdvi |
+| 6 | [cobanov/awesome-fly](https://github.com/cobanov/awesome-fly) | — | ⭐224 | A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulat |
+| 7 | [anonymous-report-421/GPT-as-Policy](https://github.com/anonymous-report-421/GPT-as-Policy) | HTML | ⭐207 | GPT as Policy |
+| 8 | [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) | Python | ⭐170 | Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay,  |
+| 9 | [max99x/wutw-public](https://github.com/max99x/wutw-public) | GDScript | ⭐157 | Worlds Upon The Wind: a peaceful roguelite deckbuilder about resettling a shatte |
+| 10 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | Go | ⭐138 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 /  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-14](records/2026-09-14.md) | yifanzhang-pro/recurrent-looped-tranformer | 704 |
 | [2026-09-13](records/2026-09-13.md) | Faizpi/bank-sampah | 646 |
 | [2026-09-12](records/2026-09-12.md) | Faizpi/bank-sampah | 920 |
 | [2026-09-11](records/2026-09-11.md) | Faizpi/bank-sampah | 918 |
