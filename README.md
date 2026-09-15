@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-14
+## Latest: 2026-09-15
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | HTML | ⭐704 | Official Project Page for Recurrent Looped Transformer (RLT) |
-| 2 | [rizqinrr/viserys-agent](https://github.com/rizqinrr/viserys-agent) | JavaScript | ⭐633 |  |
-| 3 | [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | — | ⭐512 | GPT-6 Astra for embodied AI and robotics. |
-| 4 | [Chuloo/mural](https://github.com/Chuloo/mural) | Kotlin | ⭐379 | The language app you eventually delete. A native iPhone companion for learning t |
-| 5 | [Qiuner/birdview](https://github.com/Qiuner/birdview) | JavaScript | ⭐232 | Stop letting AI code blind. Map the architecture before every change with Birdvi |
-| 6 | [cobanov/awesome-fly](https://github.com/cobanov/awesome-fly) | — | ⭐224 | A curated list of fruit fly connectome projects: MaleCNS, FlyWire, brain simulat |
-| 7 | [anonymous-report-421/GPT-as-Policy](https://github.com/anonymous-report-421/GPT-as-Policy) | HTML | ⭐207 | GPT as Policy |
-| 8 | [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) | Python | ⭐170 | Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay,  |
-| 9 | [max99x/wutw-public](https://github.com/max99x/wutw-public) | GDScript | ⭐157 | Worlds Upon The Wind: a peaceful roguelite deckbuilder about resettling a shatte |
-| 10 | [linguo2625469/workbuddy2api-panel](https://github.com/linguo2625469/workbuddy2api-panel) | Go | ⭐138 | 把腾讯WorkBuddy账号变成 OpenAI 兼容 API 的多账号网关，同时自动完成任务中心全部任务，附 Web 管理面板（账号池可视化 / 积分任务 /  |
+| 1 | [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) | Python | ⭐450 | A mascot that watches the cursor and blinks when you poke it |
+| 2 | [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | — | ⭐440 | If you think AI sucks, star the repo. |
+| 3 | [anonymous-report-421/GPT-as-Policy](https://github.com/anonymous-report-421/GPT-as-Policy) | HTML | ⭐309 | GPT as Policy |
+| 4 | [Speedstu/CUDA-for-AMD-Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) | PowerShell | ⭐171 | Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP. |
+| 5 | [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) | Python | ⭐168 | Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay,  |
+| 6 | [999sian/melee-pc](https://github.com/999sian/melee-pc) | C | ⭐157 | Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/me |
+| 7 | [kazdenc/regen-icons](https://github.com/kazdenc/regen-icons) | JavaScript | ⭐147 |  |
+| 8 | [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) | Python | ⭐140 | DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks |
+| 9 | [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) | Python | ⭐131 | A training-free multi-agent framework for recursive self-improvement in new envi |
+| 10 | [FSECDEV/Threat-Intelligence-Hackers-Forums](https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums) | — | ⭐130 | A directory of hacker forums |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-15](records/2026-09-15.md) | nilbuild/page-mascot | 450 |
 | [2026-09-14](records/2026-09-14.md) | yifanzhang-pro/recurrent-looped-tranformer | 704 |
 | [2026-09-13](records/2026-09-13.md) | Faizpi/bank-sampah | 646 |
 | [2026-09-12](records/2026-09-12.md) | Faizpi/bank-sampah | 920 |
