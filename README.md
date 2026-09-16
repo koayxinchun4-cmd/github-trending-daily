@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-15
+## Latest: 2026-09-16
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) | Python | ⭐450 | A mascot that watches the cursor and blinks when you poke it |
-| 2 | [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | — | ⭐440 | If you think AI sucks, star the repo. |
-| 3 | [anonymous-report-421/GPT-as-Policy](https://github.com/anonymous-report-421/GPT-as-Policy) | HTML | ⭐309 | GPT as Policy |
-| 4 | [Speedstu/CUDA-for-AMD-Windows](https://github.com/Speedstu/CUDA-for-AMD-Windows) | PowerShell | ⭐171 | Run CUDA-targeted Windows applications on AMD GPUs with ZLUDA + ROCm/HIP. |
-| 5 | [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) | Python | ⭐168 | Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay,  |
-| 6 | [999sian/melee-pc](https://github.com/999sian/melee-pc) | C | ⭐157 | Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/me |
-| 7 | [kazdenc/regen-icons](https://github.com/kazdenc/regen-icons) | JavaScript | ⭐147 |  |
-| 8 | [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) | Python | ⭐140 | DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks |
-| 9 | [AetherLabsAI/RSIAgent](https://github.com/AetherLabsAI/RSIAgent) | Python | ⭐131 | A training-free multi-agent framework for recursive self-improvement in new envi |
-| 10 | [FSECDEV/Threat-Intelligence-Hackers-Forums](https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums) | — | ⭐130 | A directory of hacker forums |
+| 1 | [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | Python | ⭐1035 | If you think AI sucks, star the repo. |
+| 2 | [nilbuild/page-mascot](https://github.com/nilbuild/page-mascot) | Python | ⭐588 | A mascot that watches the cursor and blinks when you poke it |
+| 3 | [letorig/video-generator-client](https://github.com/letorig/video-generator-client) | Python | ⭐516 | Async Python wrapper for Seedance, Kling, MiniMax and Wan video generation. Supp |
+| 4 | [saragordic/window-sweaters](https://github.com/saragordic/window-sweaters) | C | ⭐338 | A macOS menu-bar app that dresses your windows in knitted borders. |
+| 5 | [FSECDEV/Threat-Intelligence-Hackers-Forums](https://github.com/FSECDEV/Threat-Intelligence-Hackers-Forums) | — | ⭐261 | A directory of hacker forums |
+| 6 | [999sian/melee-pc](https://github.com/999sian/melee-pc) | C | ⭐251 | Native PC port of Super Smash Bros. Melee (NTSC-U 1.02), built from doldecomp/me |
+| 7 | [mpociot/claude-siri-ai](https://github.com/mpociot/claude-siri-ai) | Swift | ⭐176 | Experimental macOS 27 App Intents model delegation provider backed by Claude Cod |
+| 8 | [Matthew0822/ToolReplay](https://github.com/Matthew0822/ToolReplay) | Python | ⭐172 | Audit AI agent tool-call transcripts: hash-chain sealing, deterministic replay,  |
+| 9 | [opencoredev/bg0](https://github.com/opencoredev/bg0) | TypeScript | ⭐168 | Private, unlimited background removal that runs in your browser. |
+| 10 | [KillaBoi/BrokenPipe](https://github.com/KillaBoi/BrokenPipe) | C++ | ⭐160 | Steam Client Service Local Privilege Escalation Vulnerability |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-16](records/2026-09-16.md) | ai-sucks-butt/ai-sucks-butt | 1035 |
 | [2026-09-15](records/2026-09-15.md) | nilbuild/page-mascot | 450 |
 | [2026-09-14](records/2026-09-14.md) | yifanzhang-pro/recurrent-looped-tranformer | 704 |
 | [2026-09-13](records/2026-09-13.md) | Faizpi/bank-sampah | 646 |
