@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-19
+## Latest: 2026-09-20
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | TypeScript | ⭐3773 | Claude Code plugin that replaces the compaction summary with Jev decisions: ever |
-| 2 | [TianyuCodings/NanoJev](https://github.com/TianyuCodings/NanoJev) | Python | ⭐652 | A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end |
-| 3 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python | ⭐552 |  |
-| 4 | [yynxxxxx/gpt_sub_analysis](https://github.com/yynxxxxx/gpt_sub_analysis) | — | ⭐530 | Security analysis of the ChatGPT iOS subscription / entitlement flow (internal d |
-| 5 | [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC) | Python | ⭐520 | CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept |
-| 6 | [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored) | Python | ⭐439 | Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2  |
-| 7 | [thruwire/foreman](https://github.com/thruwire/foreman) | Python | ⭐331 | Software factory foreman based on TypeSafe's Jev model |
-| 8 | [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | Python | ⭐307 | tiny Jev-like model built on top of Qwen2.5-0.5B you can train and run on your M |
-| 9 | [AbdelStark/awesome-typesafe](https://github.com/AbdelStark/awesome-typesafe) | CSS | ⭐292 | A curated list of official resources and community projects for TypeSafe, System |
-| 10 | [dabit3/jev-experiments](https://github.com/dabit3/jev-experiments) | TypeScript | ⭐275 |  |
+| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python | ⭐2364 |  |
+| 2 | [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) | Python | ⭐839 | Local typed decisions, contrastive data curation, and model evaluation. |
+| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python | ⭐622 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M |
+| 4 | [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC) | Python | ⭐563 | CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept |
+| 5 | [githubnext/localjev](https://github.com/githubnext/localjev) | TypeScript | ⭐549 |  |
+| 6 | [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored) | Python | ⭐484 | Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2  |
+| 7 | [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) | — | ⭐465 | A curated list of tools  built for Jev — TypeSafe AI's System One model for type |
+| 8 | [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) | Go | ⭐436 | 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或 |
+| 9 | [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | JavaScript | ⭐428 |  |
+| 10 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python | ⭐425 | Suitable for Android APK reverse engineering analysis |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-20](records/2026-09-20.md) | NandhaKishorM/laya | 2364 |
 | [2026-09-19](records/2026-09-19.md) | tamaratran/fast-jev-compaction | 3773 |
 | [2026-09-18](records/2026-09-18.md) | browser-use/jev-ultrafast | 4114 |
 | [2026-09-17](records/2026-09-17.md) | browser-use/jev-ultrafast | 890 |
