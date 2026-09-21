@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-20
+## Latest: 2026-09-21
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | Python | ⭐2364 |  |
-| 2 | [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) | Python | ⭐839 | Local typed decisions, contrastive data curation, and model evaluation. |
-| 3 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python | ⭐622 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M |
-| 4 | [arvindear/wp2shell-PoC](https://github.com/arvindear/wp2shell-PoC) | Python | ⭐563 | CVE-2026-63030 & CVE-2026-60137 RCE chain proof-of-concept |
-| 5 | [githubnext/localjev](https://github.com/githubnext/localjev) | TypeScript | ⭐549 |  |
-| 6 | [Continuum-AI-Corp/OrcaBonsai-27B-Uncensored](https://github.com/Continuum-AI-Corp/OrcaBonsai-27B-Uncensored) | Python | ⭐484 | Runtime behavioral ablation for compressed LLMs. First target: Ternary Bonsai 2  |
-| 7 | [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) | — | ⭐465 | A curated list of tools  built for Jev — TypeSafe AI's System One model for type |
-| 8 | [gylive/ccodex-sleep-state](https://github.com/gylive/ccodex-sleep-state) | Go | ⭐436 | 尝试改善 Codex 降智、限流与连接体验。本地一键启动、网页配置修复，支持 Astra / Sol / Terra、订阅和代理；不保证取得指定 state 或 |
-| 9 | [Sac-Y/Jev-cu](https://github.com/Sac-Y/Jev-cu) | JavaScript | ⭐428 |  |
-| 10 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python | ⭐425 | Suitable for Android APK reverse engineering analysis |
+| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | TypeScript | ⭐5228 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| 2 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | Python | ⭐2975 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M |
+| 3 | [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) | Python | ⭐693 | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports,  |
+| 4 | [v-modal/awesome-jev-tools](https://github.com/v-modal/awesome-jev-tools) | — | ⭐607 | A curated list of tools  built for Jev — TypeSafe AI's System One model for type |
+| 5 | [pallavi-shekhar/ai-engineering-interview-questions-company-wise](https://github.com/pallavi-shekhar/ai-engineering-interview-questions-company-wise) | Markdown | ⭐587 | Your Cheat Sheet For AI Engineering Interviews at Top AI Companies - Questions a |
+| 6 | [newliver666/apk-reverse](https://github.com/newliver666/apk-reverse) | Python | ⭐540 | Suitable for Android APK reverse engineering analysis |
+| 7 | [Haleclipse/CometixCode](https://github.com/Haleclipse/CometixCode) | Rust | ⭐441 | An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, buil |
+| 8 | [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) | JavaScript | ⭐436 | Astra planner and JEV controller for Minecraft, with native recording, tested ro |
+| 9 | [Finderchangchang/jev-chat-JARVIS](https://github.com/Finderchangchang/jev-chat-JARVIS) | Kotlin | ⭐390 |  |
+| 10 | [JamesKInner/Covalent-MAS](https://github.com/JamesKInner/Covalent-MAS) | Python | ⭐336 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-21](records/2026-09-21.md) | zai-org/ZCode | 5228 |
 | [2026-09-20](records/2026-09-20.md) | NandhaKishorM/laya | 2364 |
 | [2026-09-19](records/2026-09-19.md) | tamaratran/fast-jev-compaction | 3773 |
 | [2026-09-18](records/2026-09-18.md) | browser-use/jev-ultrafast | 4114 |
