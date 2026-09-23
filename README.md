@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-22
+## Latest: 2026-09-23
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [zai-org/ZCode](https://github.com/zai-org/ZCode) | TypeScript | ⭐6162 | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| 2 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin | ⭐3112 | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| 3 | [rmalde/minecraft-agent](https://github.com/rmalde/minecraft-agent) | JavaScript | ⭐502 | Astra planner and JEV controller for Minecraft, with native recording, tested ro |
-| 4 | [Haleclipse/CometixCode](https://github.com/Haleclipse/CometixCode) | Rust | ⭐478 | An unofficial Rust reimplementation of Anthropic's Claude Code terminal UI, buil |
-| 5 | [wuyoscar/jev-skill](https://github.com/wuyoscar/jev-skill) | Python | ⭐410 | An awesome collection of Jev use cases, workflows, and agent skills. |
-| 6 | [mabdulre9/electrical-engineering](https://github.com/mabdulre9/electrical-engineering) | — | ⭐388 | 🎓 Path to a free self-taught education in Electrical Engineering |
-| 7 | [caxete/crypto-tax-calculator](https://github.com/caxete/crypto-tax-calculator) | Python | ⭐377 | A comprehensive crypto tax solution supporting leading wallets, exchanges, and b |
-| 8 | [minorun365/minorun-marp-skill](https://github.com/minorun365/minorun-marp-skill) | Python | ⭐350 | Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール |
-| 9 | [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | Python | ⭐312 | The open, local take on Jev: typed decisions from an LLM, without generating a s |
-| 10 | [kloxeld/xscrape](https://github.com/kloxeld/xscrape) | Python | ⭐256 | Async Python client for collecting public data from X (Twitter) - search, profil |
+| 1 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin | ⭐5039 | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| 2 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | Go | ⭐1500 | Async-first agent harness |
+| 3 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | Python | ⭐522 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System |
+| 4 | [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) | Swift | ⭐495 | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 |
+| 5 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐409 | claude-opus-5-5-demo |
+| 6 | [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) | Python | ⭐408 | 微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 |
+| 7 | [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | Python | ⭐377 | The open, local take on Jev: typed decisions from an LLM, without generating a s |
+| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | Go | ⭐374 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 9 | [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | Python | ⭐299 | Turn any LLM into a Jev-style decision model: typed decisions, real probabilitie |
+| 10 | [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) | Python | ⭐293 | 微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-23](records/2026-09-23.md) | jev-chat/jev-chat-jarvis | 5039 |
 | [2026-09-22](records/2026-09-22.md) | zai-org/ZCode | 6162 |
 | [2026-09-21](records/2026-09-21.md) | zai-org/ZCode | 5228 |
 | [2026-09-20](records/2026-09-20.md) | NandhaKishorM/laya | 2364 |
