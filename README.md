@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-23
+## Latest: 2026-09-24
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | Kotlin | ⭐5039 | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| 2 | [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | Go | ⭐1500 | Async-first agent harness |
-| 3 | [deepopen-com/deepopen](https://github.com/deepopen-com/deepopen) | Python | ⭐522 | 非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System |
-| 4 | [freestylefly/WeChatBridge](https://github.com/freestylefly/WeChatBridge) | Swift | ⭐495 | 微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具 |
-| 5 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐409 | claude-opus-5-5-demo |
-| 6 | [jev-chat/jev-chat-windows](https://github.com/jev-chat/jev-chat-windows) | Python | ⭐408 | 微信（Windows 4.x）旁挂的回复辅助：窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动 |
-| 7 | [Rizzo-AI-Academy/rizzo-flow](https://github.com/Rizzo-AI-Academy/rizzo-flow) | Python | ⭐377 | The open, local take on Jev: typed decisions from an LLM, without generating a s |
-| 8 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | Go | ⭐374 | Reference client daemon and verification worker for Kryvora Network nodes. |
-| 9 | [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev) | Python | ⭐299 | Turn any LLM into a Jev-style decision model: typed decisions, real probabilitie |
-| 10 | [jev-chat/jev-chat-jarvis-mac](https://github.com/jev-chat/jev-chat-jarvis-mac) | Python | ⭐293 | 微信消息意图识别悬浮窗（macOS）：看屏 + 本地小模型判断意图和风险，再按话术生成回复候选。纯只读、不注入微信。 |
+| 1 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐754 | claude-opus-5-5-demo |
+| 2 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | Go | ⭐647 | Reference client daemon and verification worker for Kryvora Network nodes. |
+| 3 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | TypeScript | ⭐590 | Take your agent-built product live: hosting, database, domain, email, payments — |
+| 4 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | JavaScript | ⭐566 | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| 5 | [anishfn/shapeshift](https://github.com/anishfn/shapeshift) | TypeScript | ⭐507 | An input that becomes what you mean: one text box that morphs into the right UI  |
+| 6 | [rgem227/knoweldge-base](https://github.com/rgem227/knoweldge-base) | Python | ⭐498 | Personal or team knowledge base, supports MCP API calls. |
+| 7 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python | ⭐488 |  |
+| 8 | [yetone/magpie](https://github.com/yetone/magpie) | Go | ⭐482 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
+| 9 | [samyost1/3dicon](https://github.com/samyost1/3dicon) | Python | ⭐317 | One prompt in, a looping animated 3D icon out — with real transparency. A Claude |
+| 10 | [zeldaboyzlix/corz-client](https://github.com/zeldaboyzlix/corz-client) | — | ⭐314 | A Minecraft 1.21.11 client focused on building tools, schematics, and DonutSMP u |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-24](records/2026-09-24.md) | riba2534/claude-opus-5-5-demo | 754 |
 | [2026-09-23](records/2026-09-23.md) | jev-chat/jev-chat-jarvis | 5039 |
 | [2026-09-22](records/2026-09-22.md) | zai-org/ZCode | 6162 |
 | [2026-09-21](records/2026-09-21.md) | zai-org/ZCode | 5228 |
