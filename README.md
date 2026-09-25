@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-24
+## Latest: 2026-09-25
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐754 | claude-opus-5-5-demo |
-| 2 | [kryvora-network/kryvora-node](https://github.com/kryvora-network/kryvora-node) | Go | ⭐647 | Reference client daemon and verification worker for Kryvora Network nodes. |
-| 3 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | TypeScript | ⭐590 | Take your agent-built product live: hosting, database, domain, email, payments — |
-| 4 | [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | JavaScript | ⭐566 | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
-| 5 | [anishfn/shapeshift](https://github.com/anishfn/shapeshift) | TypeScript | ⭐507 | An input that becomes what you mean: one text box that morphs into the right UI  |
-| 6 | [rgem227/knoweldge-base](https://github.com/rgem227/knoweldge-base) | Python | ⭐498 | Personal or team knowledge base, supports MCP API calls. |
-| 7 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python | ⭐488 |  |
-| 8 | [yetone/magpie](https://github.com/yetone/magpie) | Go | ⭐482 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
-| 9 | [samyost1/3dicon](https://github.com/samyost1/3dicon) | Python | ⭐317 | One prompt in, a looping animated 3D icon out — with real transparency. A Claude |
-| 10 | [zeldaboyzlix/corz-client](https://github.com/zeldaboyzlix/corz-client) | — | ⭐314 | A Minecraft 1.21.11 client focused on building tools, schematics, and DonutSMP u |
+| 1 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python | ⭐1081 |  |
+| 2 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | TypeScript | ⭐930 | Take your agent-built product live: hosting, database, domain, email, payments — |
+| 3 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐790 | claude-opus-5-5-demo |
+| 4 | [yetone/magpie](https://github.com/yetone/magpie) | Go | ⭐754 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
+| 5 | [tobi/disktree](https://github.com/tobi/disktree) | Rust | ⭐600 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU |
+| 6 | [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | JavaScript | ⭐555 | Coastal town built with Opus 5.5 |
+| 7 | [samyost1/3dicon](https://github.com/samyost1/3dicon) | Python | ⭐421 | One prompt in, a looping animated 3D icon out — with real transparency. A Claude |
+| 8 | [yukitorido/short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI) | Python | ⭐417 | AI video processing pipeline for generating vertical shorts using LLMs, Whisper  |
+| 9 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | HTML | ⭐389 | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
+| 10 | [asokurasu/text-humanizer](https://github.com/asokurasu/text-humanizer) | Python | ⭐372 | A completely free open-sourced project designed to humanize AI-generated text th |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-25](records/2026-09-25.md) | Contrastive-LM/CLM | 1081 |
 | [2026-09-24](records/2026-09-24.md) | riba2534/claude-opus-5-5-demo | 754 |
 | [2026-09-23](records/2026-09-23.md) | jev-chat/jev-chat-jarvis | 5039 |
 | [2026-09-22](records/2026-09-22.md) | zai-org/ZCode | 6162 |
