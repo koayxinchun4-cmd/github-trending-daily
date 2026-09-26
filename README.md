@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-25
+## Latest: 2026-09-26
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | Python | ⭐1081 |  |
-| 2 | [mikehasa/golive-skill](https://github.com/mikehasa/golive-skill) | TypeScript | ⭐930 | Take your agent-built product live: hosting, database, domain, email, payments — |
-| 3 | [riba2534/claude-opus-5-5-demo](https://github.com/riba2534/claude-opus-5-5-demo) | JavaScript | ⭐790 | claude-opus-5-5-demo |
-| 4 | [yetone/magpie](https://github.com/yetone/magpie) | Go | ⭐754 | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the |
-| 5 | [tobi/disktree](https://github.com/tobi/disktree) | Rust | ⭐600 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU |
-| 6 | [dgreenheck/tidewater](https://github.com/dgreenheck/tidewater) | JavaScript | ⭐555 | Coastal town built with Opus 5.5 |
-| 7 | [samyost1/3dicon](https://github.com/samyost1/3dicon) | Python | ⭐421 | One prompt in, a looping animated 3D icon out — with real transparency. A Claude |
-| 8 | [yukitorido/short-video-generator-AI](https://github.com/yukitorido/short-video-generator-AI) | Python | ⭐417 | AI video processing pipeline for generating vertical shorts using LLMs, Whisper  |
-| 9 | [852wa/JIZURA](https://github.com/852wa/JIZURA) | HTML | ⭐389 | 歌詞から文字PVを自動で組み立てるブラウザアプリ |
-| 10 | [asokurasu/text-humanizer](https://github.com/asokurasu/text-humanizer) | Python | ⭐372 | A completely free open-sourced project designed to humanize AI-generated text th |
+| 1 | [tobi/disktree](https://github.com/tobi/disktree) | Rust | ⭐1126 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU |
+| 2 | [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) | TypeScript | ⭐309 | Open-sourcing our company brain - A teammate in your Slack that remembers everyt |
+| 3 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | Markdown | ⭐288 | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Age |
+| 4 | [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) | Python | ⭐263 | Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface |
+| 5 | [leter/zh-tech-writing](https://github.com/leter/zh-tech-writing) | — | ⭐261 | 写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔 |
+| 6 | [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | Rust | ⭐259 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on |
+| 7 | [bridge-mind/bridgeclip](https://github.com/bridge-mind/bridgeclip) | TypeScript | ⭐240 | Open-source AI video clipping desktop app by BridgeMind |
+| 8 | [sopersone/cabbage-trading-machine](https://github.com/sopersone/cabbage-trading-machine) | Python | ⭐234 | Spot trading bot - RSI + EMA signals, backtest, paper and live trading via CCXT. |
+| 9 | [SpecterLouse/CapCut-Pro-macOS-Windows](https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows) | — | ⭐223 | Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS) |
+| 10 | [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) | — | ⭐223 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-26](records/2026-09-26.md) | tobi/disktree | 1126 |
 | [2026-09-25](records/2026-09-25.md) | Contrastive-LM/CLM | 1081 |
 | [2026-09-24](records/2026-09-24.md) | riba2534/claude-opus-5-5-demo | 754 |
 | [2026-09-23](records/2026-09-23.md) | jev-chat/jev-chat-jarvis | 5039 |
