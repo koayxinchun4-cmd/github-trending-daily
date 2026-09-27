@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-26
+## Latest: 2026-09-27
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [tobi/disktree](https://github.com/tobi/disktree) | Rust | ⭐1126 | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU |
-| 2 | [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) | TypeScript | ⭐309 | Open-sourcing our company brain - A teammate in your Slack that remembers everyt |
-| 3 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | Markdown | ⭐288 | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Age |
-| 4 | [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) | Python | ⭐263 | Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface |
-| 5 | [leter/zh-tech-writing](https://github.com/leter/zh-tech-writing) | — | ⭐261 | 写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔 |
-| 6 | [jankeesvw/omarchy-meeting-recorder](https://github.com/jankeesvw/omarchy-meeting-recorder) | Rust | ⭐259 | Record meetings on Omarchy: mic and computer audio as two tracks, transcribed on |
-| 7 | [bridge-mind/bridgeclip](https://github.com/bridge-mind/bridgeclip) | TypeScript | ⭐240 | Open-source AI video clipping desktop app by BridgeMind |
-| 8 | [sopersone/cabbage-trading-machine](https://github.com/sopersone/cabbage-trading-machine) | Python | ⭐234 | Spot trading bot - RSI + EMA signals, backtest, paper and live trading via CCXT. |
-| 9 | [SpecterLouse/CapCut-Pro-macOS-Windows](https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows) | — | ⭐223 | Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS) |
-| 10 | [LuwuDynamics/xgoduck_hardware](https://github.com/LuwuDynamics/xgoduck_hardware) | — | ⭐223 |  |
+| 1 | [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) | TypeScript | ⭐623 | Open-sourcing our company brain - A teammate in your Slack that remembers everyt |
+| 2 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python | ⭐455 | Motion films that never cut to the next slide: every beat grows out of the one b |
+| 3 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | TypeScript | ⭐447 | Find code by asking what it does. A CLI for coding agents that uses Jev to disco |
+| 4 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | Markdown | ⭐440 | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Age |
+| 5 | [SpecterLouse/CapCut-Pro-macOS-Windows](https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows) | — | ⭐438 | Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS) |
+| 6 | [markxplorer969/profile](https://github.com/markxplorer969/profile) | — | ⭐320 |  |
+| 7 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript | ⭐287 | 39 film styles, each a reusable style prompt plus a short film made entirely in  |
+| 8 | [Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill) | TypeScript | ⭐278 |  |
+| 9 | [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) | Python | ⭐264 | Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface |
+| 10 | [win4r/MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) | HTML | ⭐255 | muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, conne |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-27](records/2026-09-27.md) | supermemoryai/company-brain | 623 |
 | [2026-09-26](records/2026-09-26.md) | tobi/disktree | 1126 |
 | [2026-09-25](records/2026-09-25.md) | Contrastive-LM/CLM | 1081 |
 | [2026-09-24](records/2026-09-24.md) | riba2534/claude-opus-5-5-demo | 754 |
