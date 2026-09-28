@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-27
+## Latest: 2026-09-28
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [supermemoryai/company-brain](https://github.com/supermemoryai/company-brain) | TypeScript | ⭐623 | Open-sourcing our company brain - A teammate in your Slack that remembers everyt |
-| 2 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python | ⭐455 | Motion films that never cut to the next slide: every beat grows out of the one b |
-| 3 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | TypeScript | ⭐447 | Find code by asking what it does. A CLI for coding agents that uses Jev to disco |
-| 4 | [amitshekhariitbhu/ai-system-design](https://github.com/amitshekhariitbhu/ai-system-design) | Markdown | ⭐440 | AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Age |
-| 5 | [SpecterLouse/CapCut-Pro-macOS-Windows](https://github.com/SpecterLouse/CapCut-Pro-macOS-Windows) | — | ⭐438 | Capcut Pro Unlocked v2026.7 - Full Premium (Windows & MacOS) |
-| 6 | [markxplorer969/profile](https://github.com/markxplorer969/profile) | — | ⭐320 |  |
-| 7 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript | ⭐287 | 39 film styles, each a reusable style prompt plus a short film made entirely in  |
-| 8 | [Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill) | TypeScript | ⭐278 |  |
-| 9 | [jamespolyakov9829/captcha-api](https://github.com/jamespolyakov9829/captcha-api) | Python | ⭐264 | Captcha-solving API client - Cloudflare Challenge and Turnstile in one interface |
-| 10 | [win4r/MuseAI-Skills](https://github.com/win4r/MuseAI-Skills) | HTML | ⭐255 | muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, conne |
+| 1 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | TypeScript | ⭐1219 | Find code by asking what it does. A CLI for coding agents that uses Jev to disco |
+| 2 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python | ⭐710 | Motion films that never cut to the next slide: every beat grows out of the one b |
+| 3 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | — | ⭐652 | A growing collection of viral videos made with Claude Opus 5.5 and the prompts b |
+| 4 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript | ⭐498 | 39 film styles, each a reusable style prompt plus a short film made entirely in  |
+| 5 | [xikhar/spiderbench](https://github.com/xikhar/spiderbench) | JavaScript | ⭐368 |  |
+| 6 | [Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill) | TypeScript | ⭐351 |  |
+| 7 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML | ⭐329 | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age |
+| 8 | [jaydendavisnc/inkwave](https://github.com/jaydendavisnc/inkwave) | JavaScript | ⭐291 | Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build |
+| 9 | [AgentSystemLabs/agent-office](https://github.com/AgentSystemLabs/agent-office) | TypeScript | ⭐243 | A cartoon 3D office where your team hires Claude Code workers at desks, shares l |
+| 10 | [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | JavaScript | ⭐228 | Claude Design skill: animated before → after UX redesign, explained step by step |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-28](records/2026-09-28.md) | dzhng/jevgrep | 1219 |
 | [2026-09-27](records/2026-09-27.md) | supermemoryai/company-brain | 623 |
 | [2026-09-26](records/2026-09-26.md) | tobi/disktree | 1126 |
 | [2026-09-25](records/2026-09-25.md) | Contrastive-LM/CLM | 1081 |
