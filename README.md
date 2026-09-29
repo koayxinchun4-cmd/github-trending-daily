@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-28
+## Latest: 2026-09-29
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | TypeScript | ⭐1219 | Find code by asking what it does. A CLI for coding agents that uses Jev to disco |
-| 2 | [feitangyuan/onetake](https://github.com/feitangyuan/onetake) | Python | ⭐710 | Motion films that never cut to the next slide: every beat grows out of the one b |
-| 3 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | — | ⭐652 | A growing collection of viral videos made with Claude Opus 5.5 and the prompts b |
-| 4 | [lemomo-ai/lemo-opuscar](https://github.com/lemomo-ai/lemo-opuscar) | JavaScript | ⭐498 | 39 film styles, each a reusable style prompt plus a short film made entirely in  |
-| 5 | [xikhar/spiderbench](https://github.com/xikhar/spiderbench) | JavaScript | ⭐368 |  |
-| 6 | [Rieranthony/product-film-skill](https://github.com/Rieranthony/product-film-skill) | TypeScript | ⭐351 |  |
-| 7 | [kaankiziltug/logo-design-skill](https://github.com/kaankiziltug/logo-design-skill) | HTML | ⭐329 | A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI age |
-| 8 | [jaydendavisnc/inkwave](https://github.com/jaydendavisnc/inkwave) | JavaScript | ⭐291 | Splatoon-style 4v4 turf-war shooter for the browser, built on three.js. No build |
-| 9 | [AgentSystemLabs/agent-office](https://github.com/AgentSystemLabs/agent-office) | TypeScript | ⭐243 | A cartoon 3D office where your team hires Claude Code workers at desks, shares l |
-| 10 | [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | JavaScript | ⭐228 | Claude Design skill: animated before → after UX redesign, explained step by step |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | TypeScript | ⭐2651 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 2 | [firelex/jeff](https://github.com/firelex/jeff) | Python | ⭐908 | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
+| 3 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | — | ⭐867 | A growing collection of viral videos made with Claude Opus 5.5 and the prompts b |
+| 4 | [xikhar/spiderbench](https://github.com/xikhar/spiderbench) | JavaScript | ⭐423 |  |
+| 5 | [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models) | — | ⭐343 | Uncensored AI models or those fine-tuned for cybersecurity tasks. |
+| 6 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐324 |  |
+| 7 | [brainbrick-trades/The-Quant-Trading-Vault](https://github.com/brainbrick-trades/The-Quant-Trading-Vault) | — | ⭐301 | 5800+ trading strategies unlocked. |
+| 8 | [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | JavaScript | ⭐301 | Claude Design skill: animated before → after UX redesign, explained step by step |
+| 9 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | — | ⭐274 | Open-source skills and toolkits that let Claude Code, Codex and other coding age |
+| 10 | [openJiuwen-ai/iCode](https://github.com/openJiuwen-ai/iCode) | Python | ⭐229 | A lightweight, extensible, fully offline development platform and agent/workflow |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-29](records/2026-09-29.md) | KKKKhazix/AIHOT | 2651 |
 | [2026-09-28](records/2026-09-28.md) | dzhng/jevgrep | 1219 |
 | [2026-09-27](records/2026-09-27.md) | supermemoryai/company-brain | 623 |
 | [2026-09-26](records/2026-09-26.md) | tobi/disktree | 1126 |
