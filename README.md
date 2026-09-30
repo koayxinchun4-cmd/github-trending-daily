@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-29
+## Latest: 2026-09-30
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | TypeScript | ⭐2651 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| 2 | [firelex/jeff](https://github.com/firelex/jeff) | Python | ⭐908 | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
-| 3 | [yihui-dev/awesome-opus5-5-videos](https://github.com/yihui-dev/awesome-opus5-5-videos) | — | ⭐867 | A growing collection of viral videos made with Claude Opus 5.5 and the prompts b |
-| 4 | [xikhar/spiderbench](https://github.com/xikhar/spiderbench) | JavaScript | ⭐423 |  |
-| 5 | [JoasASantos/Offensive-Security-AI-Models](https://github.com/JoasASantos/Offensive-Security-AI-Models) | — | ⭐343 | Uncensored AI models or those fine-tuned for cybersecurity tasks. |
-| 6 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐324 |  |
-| 7 | [brainbrick-trades/The-Quant-Trading-Vault](https://github.com/brainbrick-trades/The-Quant-Trading-Vault) | — | ⭐301 | 5800+ trading strategies unlocked. |
-| 8 | [moguzbulbul/blueprint-animation](https://github.com/moguzbulbul/blueprint-animation) | JavaScript | ⭐301 | Claude Design skill: animated before → after UX redesign, explained step by step |
-| 9 | [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) | — | ⭐274 | Open-source skills and toolkits that let Claude Code, Codex and other coding age |
-| 10 | [openJiuwen-ai/iCode](https://github.com/openJiuwen-ai/iCode) | Python | ⭐229 | A lightweight, extensible, fully offline development platform and agent/workflow |
+| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | TypeScript | ⭐3942 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| 2 | [feder-cr/dots](https://github.com/feder-cr/dots) | Python | ⭐1434 | Open-source dots for the web: an AI agent with its own browser, one that does no |
+| 3 | [firelex/jeff](https://github.com/firelex/jeff) | Python | ⭐1158 | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
+| 4 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐840 |  |
+| 5 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐544 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
+| 6 | [fsiaonma/elpis](https://github.com/fsiaonma/elpis) | TypeScript | ⭐406 | elpis |
+| 7 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐384 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
+| 8 | [openai/mcp-extensions](https://github.com/openai/mcp-extensions) | TypeScript | ⭐379 | Build plugins that feel like native, first-class features of ChatGPT. |
+| 9 | [PostHog/jeeves](https://github.com/PostHog/jeeves) | Python | ⭐328 | Jeeves – Reasoning improves Jev-like decision models |
+| 10 | [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | C++ | ⭐325 | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Hu |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-09-30](records/2026-09-30.md) | KKKKhazix/AIHOT | 3942 |
 | [2026-09-29](records/2026-09-29.md) | KKKKhazix/AIHOT | 2651 |
 | [2026-09-28](records/2026-09-28.md) | dzhng/jevgrep | 1219 |
 | [2026-09-27](records/2026-09-27.md) | supermemoryai/company-brain | 623 |
