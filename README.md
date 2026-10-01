@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-09-30
+## Latest: 2026-10-01
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | TypeScript | ⭐3942 | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| 2 | [feder-cr/dots](https://github.com/feder-cr/dots) | Python | ⭐1434 | Open-source dots for the web: an AI agent with its own browser, one that does no |
-| 3 | [firelex/jeff](https://github.com/firelex/jeff) | Python | ⭐1158 | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
-| 4 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐840 |  |
-| 5 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐544 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
-| 6 | [fsiaonma/elpis](https://github.com/fsiaonma/elpis) | TypeScript | ⭐406 | elpis |
-| 7 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐384 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
-| 8 | [openai/mcp-extensions](https://github.com/openai/mcp-extensions) | TypeScript | ⭐379 | Build plugins that feel like native, first-class features of ChatGPT. |
-| 9 | [PostHog/jeeves](https://github.com/PostHog/jeeves) | Python | ⭐328 | Jeeves – Reasoning improves Jev-like decision models |
-| 10 | [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | C++ | ⭐325 | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Hu |
+| 1 | [feder-cr/dots](https://github.com/feder-cr/dots) | Python | ⭐2153 | Open-source dots for the web: an AI agent with its own browser, one that does no |
+| 2 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐1329 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
+| 3 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐1117 |  |
+| 4 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python | ⭐867 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese |
+| 5 | [openai/mcp-extensions](https://github.com/openai/mcp-extensions) | TypeScript | ⭐573 | Build plugins that feel like native, first-class features of ChatGPT. |
+| 6 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐547 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
+| 7 | [fsiaonma/elpis](https://github.com/fsiaonma/elpis) | TypeScript | ⭐466 | elpis |
+| 8 | [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | C++ | ⭐440 | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Hu |
+| 9 | [PostHog/jeeves](https://github.com/PostHog/jeeves) | Python | ⭐366 | Jeeves – Reasoning improves Jev-like decision models |
+| 10 | [composio-community/open-dot](https://github.com/composio-community/open-dot) | TypeScript | ⭐326 | Open-source personal AI agents that work on their own, on their own computers. M |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-01](records/2026-10-01.md) | feder-cr/dots | 2153 |
 | [2026-09-30](records/2026-09-30.md) | KKKKhazix/AIHOT | 3942 |
 | [2026-09-29](records/2026-09-29.md) | KKKKhazix/AIHOT | 2651 |
 | [2026-09-28](records/2026-09-28.md) | dzhng/jevgrep | 1219 |
