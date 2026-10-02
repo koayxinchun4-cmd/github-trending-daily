@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-01
+## Latest: 2026-10-02
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [feder-cr/dots](https://github.com/feder-cr/dots) | Python | ⭐2153 | Open-source dots for the web: an AI agent with its own browser, one that does no |
-| 2 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐1329 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
-| 3 | [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | HTML | ⭐1117 |  |
-| 4 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python | ⭐867 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese |
-| 5 | [openai/mcp-extensions](https://github.com/openai/mcp-extensions) | TypeScript | ⭐573 | Build plugins that feel like native, first-class features of ChatGPT. |
-| 6 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐547 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
-| 7 | [fsiaonma/elpis](https://github.com/fsiaonma/elpis) | TypeScript | ⭐466 | elpis |
-| 8 | [deepseek-ai/DeepGEMM-Ascend](https://github.com/deepseek-ai/DeepGEMM-Ascend) | C++ | ⭐440 | DeepGEMM-Ascend: clean and efficient matrix multiplication kernel library for Hu |
-| 9 | [PostHog/jeeves](https://github.com/PostHog/jeeves) | Python | ⭐366 | Jeeves – Reasoning improves Jev-like decision models |
-| 10 | [composio-community/open-dot](https://github.com/composio-community/open-dot) | TypeScript | ⭐326 | Open-source personal AI agents that work on their own, on their own computers. M |
+| 1 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐1869 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
+| 2 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python | ⭐1153 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese |
+| 3 | [CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox) | C# | ⭐611 | High-performance, token-based structured data engine for .NET. A core component  |
+| 4 | [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | JavaScript | ⭐584 | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Ch |
+| 5 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐555 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
+| 6 | [chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft) | C++ | ⭐388 | Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and comb |
+| 7 | [pengchujin/livecanvas](https://github.com/pengchujin/livecanvas) | Swift | ⭐324 | 一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover an |
+| 8 | [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components) | Rust | ⭐293 | A component library for GPUI, in light and dark. Every component runs live in th |
+| 9 | [kavdgaut/adobe-acrobat-pro2026](https://github.com/kavdgaut/adobe-acrobat-pro2026) | — | ⭐251 | Adobe Acrobat Standard & Pro Complete |
+| 10 | [blackbearreloaded/ProsperoEden](https://github.com/blackbearreloaded/ProsperoEden) | C++ | ⭐246 | Experimental Eden port for PS5 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-02](records/2026-10-02.md) | rehan-remade/universal-modder | 1869 |
 | [2026-10-01](records/2026-10-01.md) | feder-cr/dots | 2153 |
 | [2026-09-30](records/2026-09-30.md) | KKKKhazix/AIHOT | 3942 |
 | [2026-09-29](records/2026-09-29.md) | KKKKhazix/AIHOT | 2651 |
