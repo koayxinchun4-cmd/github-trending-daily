@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-02
+## Latest: 2026-10-03
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | Python | ⭐1869 | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod |
-| 2 | [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | Python | ⭐1153 | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese |
-| 3 | [CAPCOM-TD-OSS/REDox](https://github.com/CAPCOM-TD-OSS/REDox) | C# | ⭐611 | High-performance, token-based structured data engine for .NET. A core component  |
-| 4 | [Edwardxlai/easyread](https://github.com/Edwardxlai/easyread) | JavaScript | ⭐584 | 把英文论文读成舒服的中文：本地 PDF 论文翻译、原文对照、边读边问 AI、文献管理。Read English papers in comfortable Ch |
-| 5 | [OpSafari/hypoarena](https://github.com/OpSafari/hypoarena) | Python | ⭐555 | Scientific hypothesis-discovery workbench: grounded hypothesis-evidence graphs,  |
-| 6 | [chasmlol/SkyCraft](https://github.com/chasmlol/SkyCraft) | C++ | ⭐388 | Play Skyrim as a Minecraft player: Minecraft physics, inventory, blocks and comb |
-| 7 | [pengchujin/livecanvas](https://github.com/pengchujin/livecanvas) | Swift | ⭐324 | 一句话，做成有封面、有动画的 Live 图。Turn a sentence into a Live Photo with a designed cover an |
-| 8 | [ZacharyZhang-NY/Ely-GPUI-Components](https://github.com/ZacharyZhang-NY/Ely-GPUI-Components) | Rust | ⭐293 | A component library for GPUI, in light and dark. Every component runs live in th |
-| 9 | [kavdgaut/adobe-acrobat-pro2026](https://github.com/kavdgaut/adobe-acrobat-pro2026) | — | ⭐251 | Adobe Acrobat Standard & Pro Complete |
-| 10 | [blackbearreloaded/ProsperoEden](https://github.com/blackbearreloaded/ProsperoEden) | C++ | ⭐246 | Experimental Eden port for PS5 |
+| 1 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C | ⭐597 | Open source SDK to build Muse gadgets |
+| 2 | [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol) | JavaScript | ⭐241 | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） |
+| 3 | [youcci/playport](https://github.com/youcci/playport) | Kotlin | ⭐232 | Wireless CarPlay in your browser — a server-side receiver that turns any screen  |
+| 4 | [x4gpanell/SuperJinX](https://github.com/x4gpanell/SuperJinX) | HTML | ⭐211 |  |
+| 5 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | JavaScript | ⭐192 | Answer me with HTML — an agent skill that answers hard questions with a one-page |
+| 6 | [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | Python | ⭐187 | BootLoops 1.0: certified computational tools and house engines for exact and hig |
+| 7 | [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Objective-C++ | ⭐165 | Your iPhone helps your Mac run a 27B model: faster prompt reading and more conte |
+| 8 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | C# | ⭐131 | Godot Tool to create procedural pixel creatures |
+| 9 | [NuvexNetwork/nuvex-docs](https://github.com/NuvexNetwork/nuvex-docs) | MDX | ⭐124 | The Nuvex documentation site.  The protocol, the website, and the off-chain serv |
+| 10 | [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | TypeScript | ⭐123 | The Nuvex website. It does not read chain state and it does not submit transacti |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-03](records/2026-10-03.md) | facebookincubator/muse-gadget-sdk | 597 |
 | [2026-10-02](records/2026-10-02.md) | rehan-remade/universal-modder | 1869 |
 | [2026-10-01](records/2026-10-01.md) | feder-cr/dots | 2153 |
 | [2026-09-30](records/2026-09-30.md) | KKKKhazix/AIHOT | 3942 |
