@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-03
+## Latest: 2026-10-04
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C | ⭐597 | Open source SDK to build Muse gadgets |
-| 2 | [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol) | JavaScript | ⭐241 | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） |
-| 3 | [youcci/playport](https://github.com/youcci/playport) | Kotlin | ⭐232 | Wireless CarPlay in your browser — a server-side receiver that turns any screen  |
-| 4 | [x4gpanell/SuperJinX](https://github.com/x4gpanell/SuperJinX) | HTML | ⭐211 |  |
-| 5 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | JavaScript | ⭐192 | Answer me with HTML — an agent skill that answers hard questions with a one-page |
-| 6 | [BootLoops-ai/bootloops](https://github.com/BootLoops-ai/bootloops) | Python | ⭐187 | BootLoops 1.0: certified computational tools and house engines for exact and hig |
-| 7 | [StayLameBro/backburner](https://github.com/StayLameBro/backburner) | Objective-C++ | ⭐165 | Your iPhone helps your Mac run a 27B model: faster prompt reading and more conte |
-| 8 | [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) | C# | ⭐131 | Godot Tool to create procedural pixel creatures |
-| 9 | [NuvexNetwork/nuvex-docs](https://github.com/NuvexNetwork/nuvex-docs) | MDX | ⭐124 | The Nuvex documentation site.  The protocol, the website, and the off-chain serv |
-| 10 | [NuvexNetwork/nuvex-web](https://github.com/NuvexNetwork/nuvex-web) | TypeScript | ⭐123 | The Nuvex website. It does not read chain state and it does not submit transacti |
+| 1 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C | ⭐1041 | Open source SDK to build Muse gadgets |
+| 2 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | JavaScript | ⭐815 | Answer me with HTML — an agent skill that answers hard questions with a one-page |
+| 3 | [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol) | JavaScript | ⭐485 | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） |
+| 4 | [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | — | ⭐414 | Autocad is a professional desktop software utility that provides an intuitive in |
+| 5 | [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | — | ⭐409 | An advanced software utility designed to optimize your Windows experience by str |
+| 6 | [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | — | ⭐409 | Integrates professional desktop software utility configurations to optimize stre |
+| 7 | [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | — | ⭐408 | Kms Pico Free optimizes your professional desktop environment by providing a cus |
+| 8 | [Ceilingmoreminisce/Discord-Server-Raider](https://github.com/Ceilingmoreminisce/Discord-Server-Raider) | — | ⭐408 | Automate server management and enhance security on your GitHub-hosted projects u |
+| 9 | [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | — | ⭐408 | Microsoft Project optimizes professional workflow management by providing a comp |
+| 10 | [BladesmanSound/DVD-Creator](https://github.com/BladesmanSound/DVD-Creator) | — | ⭐407 | Efficiently organizes digital media files into polished DVD structures, eliminat |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-04](records/2026-10-04.md) | facebookincubator/muse-gadget-sdk | 1041 |
 | [2026-10-03](records/2026-10-03.md) | facebookincubator/muse-gadget-sdk | 597 |
 | [2026-10-02](records/2026-10-02.md) | rehan-remade/universal-modder | 1869 |
 | [2026-10-01](records/2026-10-01.md) | feder-cr/dots | 2153 |
