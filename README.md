@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-04
+## Latest: 2026-10-05
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | C | ⭐1041 | Open source SDK to build Muse gadgets |
-| 2 | [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | JavaScript | ⭐815 | Answer me with HTML — an agent skill that answers hard questions with a one-page |
-| 3 | [sganggs/Stronghold-Protocol](https://github.com/sganggs/Stronghold-Protocol) | JavaScript | ⭐485 | 明日方舟「卫戍协议：盟约」非官方同人复刻：浏览器自走棋塔防，单人或 1–4 人联机合作（非商业） |
-| 4 | [BlackCrewmanFringe/AutoCad](https://github.com/BlackCrewmanFringe/AutoCad) | — | ⭐414 | Autocad is a professional desktop software utility that provides an intuitive in |
-| 5 | [purpleproviderclip/Windows-Optimizer](https://github.com/purpleproviderclip/Windows-Optimizer) | — | ⭐409 | An advanced software utility designed to optimize your Windows experience by str |
-| 6 | [GreenSorcererShears/SolidWorks-CAD](https://github.com/GreenSorcererShears/SolidWorks-CAD) | — | ⭐409 | Integrates professional desktop software utility configurations to optimize stre |
-| 7 | [ScreenEvaluate/KMS-Pico](https://github.com/ScreenEvaluate/KMS-Pico) | — | ⭐408 | Kms Pico Free optimizes your professional desktop environment by providing a cus |
-| 8 | [Ceilingmoreminisce/Discord-Server-Raider](https://github.com/Ceilingmoreminisce/Discord-Server-Raider) | — | ⭐408 | Automate server management and enhance security on your GitHub-hosted projects u |
-| 9 | [Blockadezoshack/Microsoft-Project](https://github.com/Blockadezoshack/Microsoft-Project) | — | ⭐408 | Microsoft Project optimizes professional workflow management by providing a comp |
-| 10 | [BladesmanSound/DVD-Creator](https://github.com/BladesmanSound/DVD-Creator) | — | ⭐407 | Efficiently organizes digital media files into polished DVD structures, eliminat |
+| 1 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | TypeScript | ⭐1327 |  |
+| 2 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML | ⭐570 | Config-driven animated architecture diagrams: turn one JSON file into a terminal |
+| 3 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Python | ⭐458 | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t |
+| 4 | [blendi-remade/agentcraft](https://github.com/blendi-remade/agentcraft) | Java | ⭐361 |  |
+| 5 | [allenv0/SCM](https://github.com/allenv0/SCM) | JavaScript | ⭐346 | Deep AI search for every photo and every frame of video in any folder on macOS |
+| 6 | [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket) | Kotlin | ⭐313 |  |
+| 7 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java | ⭐299 | mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on A |
+| 8 | [Adolanium/hermes-gadget-sdk](https://github.com/Adolanium/hermes-gadget-sdk) | C++ | ⭐263 | Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux |
+| 9 | [rauchg/gdp-ts](https://github.com/rauchg/gdp-ts) | TypeScript | ⭐237 |  |
+| 10 | [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph) | HTML | ⭐235 | An AI skill that turns books into animated, narrated, interactive web experience |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-05](records/2026-10-05.md) | kargulstudio/sales-crm | 1327 |
 | [2026-10-04](records/2026-10-04.md) | facebookincubator/muse-gadget-sdk | 1041 |
 | [2026-10-03](records/2026-10-03.md) | facebookincubator/muse-gadget-sdk | 597 |
 | [2026-10-02](records/2026-10-02.md) | rehan-remade/universal-modder | 1869 |
