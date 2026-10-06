@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-05
+## Latest: 2026-10-06
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | TypeScript | ⭐1327 |  |
-| 2 | [ythx-101/live-panel-skill](https://github.com/ythx-101/live-panel-skill) | HTML | ⭐570 | Config-driven animated architecture diagrams: turn one JSON file into a terminal |
-| 3 | [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | Python | ⭐458 | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t |
-| 4 | [blendi-remade/agentcraft](https://github.com/blendi-remade/agentcraft) | Java | ⭐361 |  |
-| 5 | [allenv0/SCM](https://github.com/allenv0/SCM) | JavaScript | ⭐346 | Deep AI search for every photo and every frame of video in any folder on macOS |
-| 6 | [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket) | Kotlin | ⭐313 |  |
-| 7 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java | ⭐299 | mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on A |
-| 8 | [Adolanium/hermes-gadget-sdk](https://github.com/Adolanium/hermes-gadget-sdk) | C++ | ⭐263 | Build voice and text devices for your Hermes Agent, with ESP32 firmware, a Linux |
-| 9 | [rauchg/gdp-ts](https://github.com/rauchg/gdp-ts) | TypeScript | ⭐237 |  |
-| 10 | [DozenTwelve/Papermorph](https://github.com/DozenTwelve/Papermorph) | HTML | ⭐235 | An AI skill that turns books into animated, narrated, interactive web experience |
+| 1 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | TypeScript | ⭐1555 |  |
+| 2 | [rauchg/gdp-ts](https://github.com/rauchg/gdp-ts) | TypeScript | ⭐650 |  |
+| 3 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust | ⭐562 | **Deep memory for agents over large datasets.**   Leviathan is a single static b |
+| 4 | [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo) | — | ⭐489 | Spec for Agent Memory Repo |
+| 5 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐368 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| 6 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java | ⭐354 | mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on A |
+| 7 | [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket) | Kotlin | ⭐343 |  |
+| 8 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | TypeScript | ⭐339 | Turn one illustration into an animated 2D mesh avatar with a coding agent and a  |
+| 9 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | TypeScript | ⭐202 | A native, morphing floating tray for React Native. |
+| 10 | [Henryfud/werm](https://github.com/Henryfud/werm) | HTML | ⭐196 | A 302 neuron network on the real C. elegans wiring diagram, with a steering laye |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-06](records/2026-10-06.md) | kargulstudio/sales-crm | 1555 |
 | [2026-10-05](records/2026-10-05.md) | kargulstudio/sales-crm | 1327 |
 | [2026-10-04](records/2026-10-04.md) | facebookincubator/muse-gadget-sdk | 1041 |
 | [2026-10-03](records/2026-10-03.md) | facebookincubator/muse-gadget-sdk | 597 |
