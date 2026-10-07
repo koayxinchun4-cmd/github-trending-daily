@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-06
+## Latest: 2026-10-07
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | TypeScript | ⭐1555 |  |
-| 2 | [rauchg/gdp-ts](https://github.com/rauchg/gdp-ts) | TypeScript | ⭐650 |  |
-| 3 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust | ⭐562 | **Deep memory for agents over large datasets.**   Leviathan is a single static b |
-| 4 | [AgentMemoryRepo/agentmemoryrepo](https://github.com/AgentMemoryRepo/agentmemoryrepo) | — | ⭐489 | Spec for Agent Memory Repo |
-| 5 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐368 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 6 | [noahdunnagan/mcopt](https://github.com/noahdunnagan/mcopt) | Java | ⭐354 | mcopt, a Minecraft mod: a native Metal renderer for Minecraft: Java Edition on A |
-| 7 | [YXBwbWFya2V0/AppMarket](https://github.com/YXBwbWFya2V0/AppMarket) | Kotlin | ⭐343 |  |
-| 8 | [shinshin86/mesh-avatar-studio](https://github.com/shinshin86/mesh-avatar-studio) | TypeScript | ⭐339 | Turn one illustration into an animated 2D mesh avatar with a coding agent and a  |
-| 9 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | TypeScript | ⭐202 | A native, morphing floating tray for React Native. |
-| 10 | [Henryfud/werm](https://github.com/Henryfud/werm) | HTML | ⭐196 | A 302 neuron network on the real C. elegans wiring diagram, with a steering laye |
+| 1 | [openai/math](https://github.com/openai/math) | Lean | ⭐7945 |  |
+| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐1395 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| 3 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust | ⭐655 | **Deep memory for agents over large datasets.**   Leviathan is a single static b |
+| 4 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐342 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
+| 5 | [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font) | Python | ⭐318 | Photo-based reconstruction of classic Commodore 64 keycap lettering, with deskto |
+| 6 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | JavaScript | ⭐291 | A motion design studio on your own machine: Claude makes the video step by step, |
+| 7 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐265 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
+| 8 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | TypeScript | ⭐228 | A native, morphing floating tray for React Native. |
+| 9 | [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) | — | ⭐228 | 300 条 Muse 技能：每条一句话痛点 + 三步做法，点开就能用 |
+| 10 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐201 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-07](records/2026-10-07.md) | openai/math | 7945 |
 | [2026-10-06](records/2026-10-06.md) | kargulstudio/sales-crm | 1555 |
 | [2026-10-05](records/2026-10-05.md) | kargulstudio/sales-crm | 1327 |
 | [2026-10-04](records/2026-10-04.md) | facebookincubator/muse-gadget-sdk | 1041 |
