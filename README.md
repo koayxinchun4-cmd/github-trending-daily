@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-07
+## Latest: 2026-10-08
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [openai/math](https://github.com/openai/math) | Lean | ⭐7945 |  |
-| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐1395 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 3 | [elstongun/leviathan](https://github.com/elstongun/leviathan) | Rust | ⭐655 | **Deep memory for agents over large datasets.**   Leviathan is a single static b |
-| 4 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐342 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
-| 5 | [szabadkai/c64-keyboard-font](https://github.com/szabadkai/c64-keyboard-font) | Python | ⭐318 | Photo-based reconstruction of classic Commodore 64 keycap lettering, with deskto |
-| 6 | [GTKottman/mortiflix-oss](https://github.com/GTKottman/mortiflix-oss) | JavaScript | ⭐291 | A motion design studio on your own machine: Claude makes the video step by step, |
-| 7 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐265 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
-| 8 | [rit3zh/morphlet](https://github.com/rit3zh/morphlet) | TypeScript | ⭐228 | A native, morphing floating tray for React Native. |
-| 9 | [jasonbitsmith/muse-skills](https://github.com/jasonbitsmith/muse-skills) | — | ⭐228 | 300 条 Muse 技能：每条一句话痛点 + 三步做法，点开就能用 |
-| 10 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐201 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
+| 1 | [openai/math](https://github.com/openai/math) | Lean | ⭐11611 |  |
+| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐2324 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| 3 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐907 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
+| 4 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ | ⭐821 | Native PC port of P.T. (runs from your own PS4 game files) |
+| 5 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐794 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
+| 6 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐641 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
+| 7 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust | ⭐609 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| 8 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust | ⭐531 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA |
+| 9 | [bas3line/ascii](https://github.com/bas3line/ascii) | TypeScript | ⭐526 | Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one H |
+| 10 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐526 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-08](records/2026-10-08.md) | openai/math | 11611 |
 | [2026-10-07](records/2026-10-07.md) | openai/math | 7945 |
 | [2026-10-06](records/2026-10-06.md) | kargulstudio/sales-crm | 1555 |
 | [2026-10-05](records/2026-10-05.md) | kargulstudio/sales-crm | 1327 |
