@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-08
+## Latest: 2026-10-09
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [openai/math](https://github.com/openai/math) | Lean | ⭐11611 |  |
-| 2 | [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | JavaScript | ⭐2324 | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| 3 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐907 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
-| 4 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ | ⭐821 | Native PC port of P.T. (runs from your own PS4 game files) |
-| 5 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐794 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
-| 6 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐641 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
-| 7 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust | ⭐609 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| 8 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust | ⭐531 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA |
-| 9 | [bas3line/ascii](https://github.com/bas3line/ascii) | TypeScript | ⭐526 | Animated ascii art for web pages, in TypeScript: React, Next.js, Astro, or one H |
-| 10 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐526 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
+| 1 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐1991 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
+| 2 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐1699 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
+| 3 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust | ⭐1309 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| 4 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐1162 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
+| 5 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust | ⭐1144 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA |
+| 6 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ | ⭐1136 | Native PC port of P.T. (runs from your own PS4 game files) |
+| 7 | [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript | ⭐905 | A source code for playgta5.com. |
+| 8 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust | ⭐898 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content g |
+| 9 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | Rust | ⭐880 | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur |
+| 10 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐783 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-09](records/2026-10-09.md) | mhtsec/ARTEX | 1991 |
 | [2026-10-08](records/2026-10-08.md) | openai/math | 11611 |
 | [2026-10-07](records/2026-10-07.md) | openai/math | 7945 |
 | [2026-10-06](records/2026-10-06.md) | kargulstudio/sales-crm | 1555 |
