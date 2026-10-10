@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-09
+## Latest: 2026-10-10
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐1991 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
-| 2 | [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | Rust | ⭐1699 | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore) |
-| 3 | [storytold/wordcraft](https://github.com/storytold/wordcraft) | Rust | ⭐1309 | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| 4 | [alejandrobujan/tendedero](https://github.com/alejandrobujan/tendedero) | Swift | ⭐1162 | Screenshots, hung out to dry. A tiny native macOS app that hangs every screensho |
-| 5 | [storytold/cadcraft](https://github.com/storytold/cadcraft) | Rust | ⭐1144 | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA |
-| 6 | [LoreanXavier/pt-pc](https://github.com/LoreanXavier/pt-pc) | C++ | ⭐1136 | Native PC port of P.T. (runs from your own PS4 game files) |
-| 7 | [shadany7824/playgta5](https://github.com/shadany7824/playgta5) | JavaScript | ⭐905 | A source code for playgta5.com. |
-| 8 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust | ⭐898 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content g |
-| 9 | [storytold/gridcraft](https://github.com/storytold/gridcraft) | Rust | ⭐880 | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur |
-| 10 | [pingdotgg/ts-rust](https://github.com/pingdotgg/ts-rust) | Rust | ⭐783 | An experimental Rust port of the TypeScript 7 compiler (tsc) |
+| 1 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐2798 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
+| 2 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust | ⭐1418 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content g |
+| 3 | [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | Shell | ⭐1052 | airdrop for non-apple devices |
+| 4 | [ToiCF/CF-Workers-TGProxy](https://github.com/ToiCF/CF-Workers-TGProxy) | — | ⭐712 | 基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstr |
+| 5 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | TypeScript | ⭐614 | Claude generates a daily new tab page based on your browser history. |
+| 6 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | — | ⭐614 | Kms Pico Free optimizes your professional desktop environment by providing a tai |
+| 7 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | — | ⭐611 | Discord Quest Completer optimizes user experience by providing a comprehensive s |
+| 8 | [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | — | ⭐605 | Discord Server Raider", an AI-driven solution designed to streamline server mana |
+| 9 | [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) | Python | ⭐547 |  |
+| 10 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Swift | ⭐547 | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-10](records/2026-10-10.md) | mhtsec/ARTEX | 2798 |
 | [2026-10-09](records/2026-10-09.md) | mhtsec/ARTEX | 1991 |
 | [2026-10-08](records/2026-10-08.md) | openai/math | 11611 |
 | [2026-10-07](records/2026-10-07.md) | openai/math | 7945 |
