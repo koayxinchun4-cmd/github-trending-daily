@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-10
+## Latest: 2026-10-11
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | Go | ⭐2798 | AI 自主渗透测试系统 / 百度“agent+”攻防挑战赛冠军项目 |
-| 2 | [noahdunnagan/fsearch](https://github.com/noahdunnagan/fsearch) | Rust | ⭐1418 | Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content g |
-| 3 | [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | Shell | ⭐1052 | airdrop for non-apple devices |
-| 4 | [ToiCF/CF-Workers-TGProxy](https://github.com/ToiCF/CF-Workers-TGProxy) | — | ⭐712 | 基于 Cloudflare Workers 的 Telegram Web/MTProto WebSocket 代理中继，支持 bridge 鉴权、bootstr |
-| 5 | [ThariqS/ai-newtab](https://github.com/ThariqS/ai-newtab) | TypeScript | ⭐614 | Claude generates a daily new tab page based on your browser history. |
-| 6 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | — | ⭐614 | Kms Pico Free optimizes your professional desktop environment by providing a tai |
-| 7 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | — | ⭐611 | Discord Quest Completer optimizes user experience by providing a comprehensive s |
+| 1 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Rust | ⭐908 | The Craft App Launcher |
+| 2 | [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python | ⭐710 | tiktok web signature reverse engineer generates valid tiktok signatures for API  |
+| 3 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | JavaScript | ⭐696 | Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. |
+| 4 | [rociiu/talorys](https://github.com/rociiu/talorys) | TypeScript | ⭐671 | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note |
+| 5 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | — | ⭐614 | Kms Pico Free optimizes your professional desktop environment by providing a tai |
+| 6 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | — | ⭐611 | Discord Quest Completer optimizes user experience by providing a comprehensive s |
+| 7 | [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift | ⭐605 | A native macOS file browser with fast fuzzy filename search, powered by fsearch. |
 | 8 | [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | — | ⭐605 | Discord Server Raider", an AI-driven solution designed to streamline server mana |
-| 9 | [anthropics/oss-scanner](https://github.com/anthropics/oss-scanner) | Python | ⭐547 |  |
-| 10 | [franzenzenhofer/big-arrow-on-the-screen](https://github.com/franzenzenhofer/big-arrow-on-the-screen) | Swift | ⭐547 | Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, |
+| 9 | [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | — | ⭐511 | Anyunlock optimizes your workflow by providing a comprehensive desktop utility c |
+| 10 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | — | ⭐509 | Display Fusion optimizes desktop software utility configurations by providing a  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-11](records/2026-10-11.md) | storytold/craft-launcher | 908 |
 | [2026-10-10](records/2026-10-10.md) | mhtsec/ARTEX | 2798 |
 | [2026-10-09](records/2026-10-09.md) | mhtsec/ARTEX | 1991 |
 | [2026-10-08](records/2026-10-08.md) | openai/math | 11611 |
