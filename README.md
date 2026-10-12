@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-11
+## Latest: 2026-10-12
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | Rust | ⭐908 | The Craft App Launcher |
-| 2 | [n1tr00-10/tiktok-web-signature](https://github.com/n1tr00-10/tiktok-web-signature) | Python | ⭐710 | tiktok web signature reverse engineer generates valid tiktok signatures for API  |
-| 3 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | JavaScript | ⭐696 | Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. |
-| 4 | [rociiu/talorys](https://github.com/rociiu/talorys) | TypeScript | ⭐671 | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note |
-| 5 | [KindStatesman/KMS-Pico](https://github.com/KindStatesman/KMS-Pico) | — | ⭐614 | Kms Pico Free optimizes your professional desktop environment by providing a tai |
-| 6 | [VarnishSerpentBurn/Discord-Quest-Completer](https://github.com/VarnishSerpentBurn/Discord-Quest-Completer) | — | ⭐611 | Discord Quest Completer optimizes user experience by providing a comprehensive s |
-| 7 | [zeusinsight/FinderSearch](https://github.com/zeusinsight/FinderSearch) | Swift | ⭐605 | A native macOS file browser with fast fuzzy filename search, powered by fsearch. |
-| 8 | [navyofficerpipe/Discord-Server-Raider](https://github.com/navyofficerpipe/Discord-Server-Raider) | — | ⭐605 | Discord Server Raider", an AI-driven solution designed to streamline server mana |
-| 9 | [passrhymegazebo/AnyUnlock](https://github.com/passrhymegazebo/AnyUnlock) | — | ⭐511 | Anyunlock optimizes your workflow by providing a comprehensive desktop utility c |
-| 10 | [Clawfitzfilter/Display-Fusion](https://github.com/Clawfitzfilter/Display-Fusion) | — | ⭐509 | Display Fusion optimizes desktop software utility configurations by providing a  |
+| 1 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | Rust | ⭐1531 |  |
+| 2 | [rociiu/talorys](https://github.com/rociiu/talorys) | TypeScript | ⭐870 | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note |
+| 3 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | JavaScript | ⭐835 | Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. |
+| 4 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | TypeScript | ⭐694 | Open source canva alternative |
+| 5 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐593 | Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of |
+| 6 | [c22dev/muguet](https://github.com/c22dev/muguet) | Rust | ⭐511 | A native Mach-O port for iOS/macOS of GTA V, with multiplayer |
+| 7 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | — | ⭐481 |  |
+| 8 | [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | — | ⭐471 | helllllllllloooo font! Turns out it's called Macintosh Skeleton |
+| 9 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐463 | Daily radar for new AI terms: names of new models, products and repos, caught on |
+| 10 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python | ⭐426 | Introduction to Semiconductor Manufacturing |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-12](records/2026-10-12.md) | liseami/CCBaga | 1531 |
 | [2026-10-11](records/2026-10-11.md) | storytold/craft-launcher | 908 |
 | [2026-10-10](records/2026-10-10.md) | mhtsec/ARTEX | 2798 |
 | [2026-10-09](records/2026-10-09.md) | mhtsec/ARTEX | 1991 |
