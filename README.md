@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-12
+## Latest: 2026-10-13
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | Rust | ⭐1531 |  |
-| 2 | [rociiu/talorys](https://github.com/rociiu/talorys) | TypeScript | ⭐870 | Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, note |
-| 3 | [marclou/mailcheap](https://github.com/marclou/mailcheap) | JavaScript | ⭐835 | Self-hosted newsletters on Amazon SES. About $0.10 per 1,000 emails. |
-| 4 | [shaongitbd/doory](https://github.com/shaongitbd/doory) | TypeScript | ⭐694 | Open source canva alternative |
-| 5 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐593 | Open-source iOS compatibility layer for Diablo II: Resurrected with the Reign of |
-| 6 | [c22dev/muguet](https://github.com/c22dev/muguet) | Rust | ⭐511 | A native Mach-O port for iOS/macOS of GTA V, with multiplayer |
-| 7 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | — | ⭐481 |  |
-| 8 | [npwitk/Macintosh-Skeletal-Filled](https://github.com/npwitk/Macintosh-Skeletal-Filled) | — | ⭐471 | helllllllllloooo font! Turns out it's called Macintosh Skeleton |
-| 9 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐463 | Daily radar for new AI terms: names of new models, products and repos, caught on |
-| 10 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python | ⭐426 | Introduction to Semiconductor Manufacturing |
+| 1 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | Rust | ⭐2013 |  |
+| 2 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Python | ⭐1360 | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  |
+| 3 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐1037 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the  |
+| 4 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐833 | Daily radar for new AI terms: names of new models, products and repos, caught on |
+| 5 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | Python | ⭐690 |  |
+| 6 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐608 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
+| 7 | [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr) | C | ⭐582 |  |
+| 8 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python | ⭐521 | Introduction to Semiconductor Manufacturing |
+| 9 | [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn) | C | ⭐297 | Somehow, Byepervisor returned... |
+| 10 | [juliobsz/skills](https://github.com/juliobsz/skills) | TypeScript | ⭐290 | An agent skill that builds award-caliber websites from one line |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-13](records/2026-10-13.md) | liseami/CCBaga | 2013 |
 | [2026-10-12](records/2026-10-12.md) | liseami/CCBaga | 1531 |
 | [2026-10-11](records/2026-10-11.md) | storytold/craft-launcher | 908 |
 | [2026-10-10](records/2026-10-10.md) | mhtsec/ARTEX | 2798 |
