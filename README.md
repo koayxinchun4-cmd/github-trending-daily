@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-13
+## Latest: 2026-10-14
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [liseami/CCBaga](https://github.com/liseami/CCBaga) | Rust | ⭐2013 |  |
-| 2 | [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | Python | ⭐1360 | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands,  |
-| 3 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐1037 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the  |
-| 4 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐833 | Daily radar for new AI terms: names of new models, products and repos, caught on |
-| 5 | [jwuthri-cloud/Tracely-ai](https://github.com/jwuthri-cloud/Tracely-ai) | Python | ⭐690 |  |
-| 6 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐608 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
-| 7 | [h0m3us3r/w1700k-sdr](https://github.com/h0m3us3r/w1700k-sdr) | C | ⭐582 |  |
-| 8 | [chenwei810/Semiconductor_Manufacturing_Introduction](https://github.com/chenwei810/Semiconductor_Manufacturing_Introduction) | Python | ⭐521 | Introduction to Semiconductor Manufacturing |
-| 9 | [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn) | C | ⭐297 | Somehow, Byepervisor returned... |
-| 10 | [juliobsz/skills](https://github.com/juliobsz/skills) | TypeScript | ⭐290 | An agent skill that builds award-caliber websites from one line |
+| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐1720 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the  |
+| 2 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐1136 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
+| 3 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐908 | Daily radar for new AI terms: names of new models, products and repos, caught on |
+| 4 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | TypeScript | ⭐654 | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
+| 5 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript | ⭐591 | We're rebuilding and open-sourcing the world’s software from scratch. |
+| 6 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | TypeScript | ⭐582 | A design system for AI applications. Material, physical, tactile, technical. |
+| 7 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | TypeScript | ⭐447 | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
+| 8 | [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | — | ⭐389 | Overdrive releases for jailbroken PS5 |
+| 9 | [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn) | C | ⭐386 | Somehow, Byepervisor returned... |
+| 10 | [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | JavaScript | ⭐369 | 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-14](records/2026-10-14.md) | jhaizhou-ops/d2r-mobile | 1720 |
 | [2026-10-13](records/2026-10-13.md) | liseami/CCBaga | 2013 |
 | [2026-10-12](records/2026-10-12.md) | liseami/CCBaga | 1531 |
 | [2026-10-11](records/2026-10-11.md) | storytold/craft-launcher | 908 |
