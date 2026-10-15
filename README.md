@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-14
+## Latest: 2026-10-15
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | C | ⭐1720 | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the  |
-| 2 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐1136 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
-| 3 | [zhuyansen/new-term-radar](https://github.com/zhuyansen/new-term-radar) | Python | ⭐908 | Daily radar for new AI terms: names of new models, products and repos, caught on |
-| 4 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | TypeScript | ⭐654 | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
-| 5 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript | ⭐591 | We're rebuilding and open-sourcing the world’s software from scratch. |
-| 6 | [deeplethe/solid-glass](https://github.com/deeplethe/solid-glass) | TypeScript | ⭐582 | A design system for AI applications. Material, physical, tactile, technical. |
-| 7 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | TypeScript | ⭐447 | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
-| 8 | [overdriveps5/overdrive-releases](https://github.com/overdriveps5/overdrive-releases) | — | ⭐389 | Overdrive releases for jailbroken PS5 |
-| 9 | [PS5Dev/Byepervisor-Reborn](https://github.com/PS5Dev/Byepervisor-Reborn) | C | ⭐386 | Somehow, Byepervisor returned... |
-| 10 | [threerocks/sweety-handdraw-video](https://github.com/threerocks/sweety-handdraw-video) | JavaScript | ⭐369 | 从主题或文章制作完整手绘讲解视频：按部位描线、逐字书写、VoiceStudio 配音、五项内置制作依赖。 |
+| 1 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐1772 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
+| 2 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript | ⭐966 | We're rebuilding and open-sourcing the world’s software from scratch. |
+| 3 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | TypeScript | ⭐797 | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
+| 4 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | TypeScript | ⭐789 | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
+| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# | ⭐610 | A free, open source C# framework for making games, or your own game engine. Dire |
+| 6 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | TypeScript | ⭐577 | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分 |
+| 7 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python | ⭐469 | jackie-fmri-sim |
+| 8 | [solana-classic/solana-classic](https://github.com/solana-classic/solana-classic) | Rust | ⭐375 | Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, |
+| 9 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐350 | Turn your regular JavaScript code into a neural net. |
+| 10 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift | ⭐319 | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-15](records/2026-10-15.md) | Arekejoker/qwen21-nsfw-pose-skill | 1772 |
 | [2026-10-14](records/2026-10-14.md) | jhaizhou-ops/d2r-mobile | 1720 |
 | [2026-10-13](records/2026-10-13.md) | liseami/CCBaga | 2013 |
 | [2026-10-12](records/2026-10-12.md) | liseami/CCBaga | 1531 |
