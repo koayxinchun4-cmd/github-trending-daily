@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-15
+## Latest: 2026-10-16
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | Python | ⭐1772 | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud |
-| 2 | [HeyPuter/everything](https://github.com/HeyPuter/everything) | JavaScript | ⭐966 | We're rebuilding and open-sourcing the world’s software from scratch. |
-| 3 | [outcrawlai/scout](https://github.com/outcrawlai/scout) | TypeScript | ⭐797 | Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from O |
-| 4 | [CoolkHz/gptibo](https://github.com/CoolkHz/gptibo) | TypeScript | ⭐789 | Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source |
-| 5 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# | ⭐610 | A free, open source C# framework for making games, or your own game engine. Dire |
-| 6 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | TypeScript | ⭐577 | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。纯手写 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分 |
+| 1 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# | ⭐1381 | A free, open source C# framework for making games, or your own game engine. Dire |
+| 2 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐1359 | Turn your regular JavaScript code into a neural net. |
+| 3 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go | ⭐1031 | Open-source version of Scion: version control built for coding agents. |
+| 4 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | TypeScript | ⭐921 | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析 |
+| 5 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ | ⭐886 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
+| 6 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift | ⭐475 | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
 | 7 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python | ⭐469 | jackie-fmri-sim |
-| 8 | [solana-classic/solana-classic](https://github.com/solana-classic/solana-classic) | Rust | ⭐375 | Bring back the fun. Open-source SVM blockchain development focused on art, NFTs, |
-| 9 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐350 | Turn your regular JavaScript code into a neural net. |
-| 10 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift | ⭐319 | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
+| 8 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ | ⭐427 | Overdrive, a PS5 homebrew game store with 1,800+ games. |
+| 9 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | TypeScript | ⭐325 | Stretchtext replies for Claude Code: short by default, each phrase grows in plac |
+| 10 | [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python | ⭐262 | Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-16](records/2026-10-16.md) | ahwootech/BRUTAL | 1381 |
 | [2026-10-15](records/2026-10-15.md) | Arekejoker/qwen21-nsfw-pose-skill | 1772 |
 | [2026-10-14](records/2026-10-14.md) | jhaizhou-ops/d2r-mobile | 1720 |
 | [2026-10-13](records/2026-10-13.md) | liseami/CCBaga | 2013 |
