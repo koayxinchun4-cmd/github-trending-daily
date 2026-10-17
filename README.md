@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-16
+## Latest: 2026-10-17
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | C# | ⭐1381 | A free, open source C# framework for making games, or your own game engine. Dire |
-| 2 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐1359 | Turn your regular JavaScript code into a neural net. |
-| 3 | [feder-cr/open_scion](https://github.com/feder-cr/open_scion) | Go | ⭐1031 | Open-source version of Scion: version control built for coding agents. |
-| 4 | [Caho1/open-claude-ui](https://github.com/Caho1/open-claude-ui) | TypeScript | ⭐921 | 基于 REA 深度拆解并高保真还原 Claude 官方桌面端 UI。还原 30 个独立 React 组件与 8 项硬核交互物理算法，附带 3000+ 行逆向分析 |
-| 5 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ | ⭐886 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
-| 6 | [0xProbabillity/house-control](https://github.com/0xProbabillity/house-control) | Swift | ⭐475 | Your home as a live 3D model in the Mac menu bar and on iPhone — lights and ACs  |
-| 7 | [StoopwenpueNq/jackie-fmri-sim](https://github.com/StoopwenpueNq/jackie-fmri-sim) | Python | ⭐469 | jackie-fmri-sim |
-| 8 | [MyLuxy/overdrive](https://github.com/MyLuxy/overdrive) | C++ | ⭐427 | Overdrive, a PS5 homebrew game store with 1,800+ games. |
-| 9 | [pro-vi/cc-stretch](https://github.com/pro-vi/cc-stretch) | TypeScript | ⭐325 | Stretchtext replies for Claude Code: short by default, each phrase grows in plac |
-| 10 | [assafkip/claudemy](https://github.com/assafkip/claudemy) | Python | ⭐262 | Claudemy: an open-source alternative to Udemy and Coursera. Give Claude a topic, |
+| 1 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐1641 | Turn your regular JavaScript code into a neural net. |
+| 2 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ | ⭐1136 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
+| 3 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Go | ⭐1100 | Git designed for AI agents. |
+| 4 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python | ⭐502 | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc |
+| 5 | [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | Python | ⭐491 |  |
+| 6 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | — | ⭐466 | There is no official XScreenSaver GitHub repository. |
+| 7 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python | ⭐404 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 8 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python | ⭐357 | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
+| 9 | [ctresb/leis](https://github.com/ctresb/leis) | — | ⭐331 | Todas as leis do Brasil |
+| 10 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell | ⭐259 | Unlimited Google Photos auto-sync on Windows with Pixel original quality spoofin |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-17](records/2026-10-17.md) | chenglou/handwired | 1641 |
 | [2026-10-16](records/2026-10-16.md) | ahwootech/BRUTAL | 1381 |
 | [2026-10-15](records/2026-10-15.md) | Arekejoker/qwen21-nsfw-pose-skill | 1772 |
 | [2026-10-14](records/2026-10-14.md) | jhaizhou-ops/d2r-mobile | 1720 |
