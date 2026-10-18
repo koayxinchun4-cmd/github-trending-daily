@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-17
+## Latest: 2026-10-18
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [chenglou/handwired](https://github.com/chenglou/handwired) | TypeScript | ⭐1641 | Turn your regular JavaScript code into a neural net. |
-| 2 | [Supermedo/uncharted_pc](https://github.com/Supermedo/uncharted_pc) | C++ | ⭐1136 | Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMed |
-| 3 | [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | Go | ⭐1100 | Git designed for AI agents. |
-| 4 | [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | Python | ⭐502 | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc |
-| 5 | [Tencent-Hunyuan/Hy-Memory](https://github.com/Tencent-Hunyuan/Hy-Memory) | Python | ⭐491 |  |
-| 6 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | — | ⭐466 | There is no official XScreenSaver GitHub repository. |
-| 7 | [anujasid/blender-ai-mcp-addon](https://github.com/anujasid/blender-ai-mcp-addon) | Python | ⭐404 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 8 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python | ⭐357 | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
-| 9 | [ctresb/leis](https://github.com/ctresb/leis) | — | ⭐331 | Todas as leis do Brasil |
-| 10 | [shishir0x/GoogleUnlimited](https://github.com/shishir0x/GoogleUnlimited) | PowerShell | ⭐259 | Unlimited Google Photos auto-sync on Windows with Pixel original quality spoofin |
+| 1 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | Java | ⭐835 | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvO |
+| 2 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | — | ⭐793 | There is no official XScreenSaver GitHub repository. |
+| 3 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | HTML | ⭐605 | Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whit |
+| 4 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python | ⭐551 | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
+| 5 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python | ⭐533 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
+| 6 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | — | ⭐368 | Virtual clothing try-on from a single photo — mobile web app. Upload a person an |
+| 7 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | — | ⭐352 | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 |
+| 8 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust | ⭐330 | Reason Network: your team's coding agents, talking to each other. The engine beh |
+| 9 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python | ⭐302 | Co-op Anything: point your AI agent at any single-player game and play it with f |
+| 10 | [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | — | ⭐255 | Complete standalone setup for Movavi Converter 2026. Ready-to-run, fully functio |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-18](records/2026-10-18.md) | Gathin23/tv-vibehack | 835 |
 | [2026-10-17](records/2026-10-17.md) | chenglou/handwired | 1641 |
 | [2026-10-16](records/2026-10-16.md) | ahwootech/BRUTAL | 1381 |
 | [2026-10-15](records/2026-10-15.md) | Arekejoker/qwen21-nsfw-pose-skill | 1772 |
