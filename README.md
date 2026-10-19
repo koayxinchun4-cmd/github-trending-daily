@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-18
+## Latest: 2026-10-19
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Gathin23/tv-vibehack](https://github.com/Gathin23/tv-vibehack) | Java | ⭐835 | Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvO |
-| 2 | [xscreensaver-official/xscreensaver](https://github.com/xscreensaver-official/xscreensaver) | — | ⭐793 | There is no official XScreenSaver GitHub repository. |
-| 3 | [Noniv/web-ocean](https://github.com/Noniv/web-ocean) | HTML | ⭐605 | Real-time WebGPU ocean renderer written from scratch, no engine. FFT waves, whit |
-| 4 | [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image) | Python | ⭐551 | Official repository for MOSS-Image, a 5B-parameter base DiT model with high-qual |
-| 5 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python | ⭐533 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
-| 6 | [BreezeSolicitorMap/undress.ai](https://github.com/BreezeSolicitorMap/undress.ai) | — | ⭐368 | Virtual clothing try-on from a single photo — mobile web app. Upload a person an |
-| 7 | [VITASID57/bluntcore-intimacy-lab](https://github.com/VITASID57/bluntcore-intimacy-lab) | — | ⭐352 | 🧬 钝核｜人机亲密实验室 · Bluntcore Intimacy Lab｜人机恋、成人 AI、Prompt、Memory、Agent、模型床测与实验记录。 |
-| 8 | [reason-machines/reason-network](https://github.com/reason-machines/reason-network) | Rust | ⭐330 | Reason Network: your team's coding agents, talking to each other. The engine beh |
-| 9 | [cranebeaker/coop-anything](https://github.com/cranebeaker/coop-anything) | Python | ⭐302 | Co-op Anything: point your AI agent at any single-player game and play it with f |
-| 10 | [Maroonplocord/Movavi-Converter](https://github.com/Maroonplocord/Movavi-Converter) | — | ⭐255 | Complete standalone setup for Movavi Converter 2026. Ready-to-run, fully functio |
+| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java | ⭐3929 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| 2 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | C | ⭐1448 |  |
+| 3 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python | ⭐882 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
+| 4 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | ⭐851 | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
+| 5 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Python | ⭐771 | 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断 |
+| 6 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Shell | ⭐380 |  |
+| 7 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python | ⭐352 | Zero Breach — local, read-only scanner that checks a computer for indicators of  |
+| 8 | [Domainsun/awesome-chinese-secondhand-slang](https://github.com/Domainsun/awesome-chinese-secondhand-slang) | — | ⭐338 | 🐟 中国二手交易暗语全书与避坑合规指南 (闲鱼 / 转转 / 小红书 4,476+ 条实战暗号变体、卖家潜台词透视与买家验货防割指南) |
+| 9 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java | ⭐311 | Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home |
+| 10 | [justrach/nanoui](https://github.com/justrach/nanoui) | Zig | ⭐273 | Desktop apps in Zig, with native UI drawn on the GPU or a web frontend |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-19](records/2026-10-19.md) | Gathin23/cleanyourtv | 3929 |
 | [2026-10-18](records/2026-10-18.md) | Gathin23/tv-vibehack | 835 |
 | [2026-10-17](records/2026-10-17.md) | chenglou/handwired | 1641 |
 | [2026-10-16](records/2026-10-16.md) | ahwootech/BRUTAL | 1381 |
