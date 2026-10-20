@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-19
+## Latest: 2026-10-20
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | Java | ⭐3929 | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| 2 | [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | C | ⭐1448 |  |
-| 3 | [aicodeking/leanrea](https://github.com/aicodeking/leanrea) | Python | ⭐882 | One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, n |
-| 4 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | ⭐851 | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
-| 5 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Python | ⭐771 | 中小学数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级、531 知识点、2271 题、自适应诊断 |
-| 6 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | Shell | ⭐380 |  |
-| 7 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python | ⭐352 | Zero Breach — local, read-only scanner that checks a computer for indicators of  |
-| 8 | [Domainsun/awesome-chinese-secondhand-slang](https://github.com/Domainsun/awesome-chinese-secondhand-slang) | — | ⭐338 | 🐟 中国二手交易暗语全书与避坑合规指南 (闲鱼 / 转转 / 小红书 4,476+ 条实战暗号变体、卖家潜台词透视与买家验货防割指南) |
-| 9 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java | ⭐311 | Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home |
-| 10 | [justrach/nanoui](https://github.com/justrach/nanoui) | Zig | ⭐273 | Desktop apps in Zig, with native UI drawn on the GPU or a web frontend |
+| 1 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Python | ⭐1414 | 中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断 |
+| 2 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | ⭐1097 | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
+| 3 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java | ⭐978 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code.  |
+| 4 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | JavaScript | ⭐802 |  |
+| 5 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java | ⭐773 | Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home |
+| 6 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | — | ⭐505 | Prompts for you to use REA (Reverse Engineer Anything), get the most out of it,  |
+| 7 | [VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat) | TypeScript | ⭐477 |  |
+| 8 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python | ⭐470 | Zero Breach — local, read-only scanner that checks a computer for indicators of  |
+| 9 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | ⭐459 | Ely Office: offline-first desktop apps in Rust and GPUI |
+| 10 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | — | ⭐453 | AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-wei |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-20](records/2026-10-20.md) | xiaoyang111222/cn-math-taxonomy | 1414 |
 | [2026-10-19](records/2026-10-19.md) | Gathin23/cleanyourtv | 3929 |
 | [2026-10-18](records/2026-10-18.md) | Gathin23/tv-vibehack | 835 |
 | [2026-10-17](records/2026-10-17.md) | chenglou/handwired | 1641 |
