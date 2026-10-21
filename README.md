@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-20
+## Latest: 2026-10-21
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | Python | ⭐1414 | 中小学+高中数学知识图谱 + 前置诊断：课标对齐、人教版一–九年级与高中必修、674 知识点、2843 题、自适应诊断 |
-| 2 | [alchaincyf/huashu-motion](https://github.com/alchaincyf/huashu-motion) | JavaScript | ⭐1097 | 让你的agent一键直出商业级产品宣传片：会作曲，能指着画面改。Commercial-grade launch films by your coding age |
-| 3 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java | ⭐978 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code.  |
-| 4 | [humblemuzzu/dumbtv](https://github.com/humblemuzzu/dumbtv) | JavaScript | ⭐802 |  |
-| 5 | [Ansub/tv-detox](https://github.com/Ansub/tv-detox) | Java | ⭐773 | Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home |
-| 6 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | — | ⭐505 | Prompts for you to use REA (Reverse Engineer Anything), get the most out of it,  |
-| 7 | [VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat) | TypeScript | ⭐477 |  |
-| 8 | [interplains/zero-breach](https://github.com/interplains/zero-breach) | Python | ⭐470 | Zero Breach — local, read-only scanner that checks a computer for indicators of  |
-| 9 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | ⭐459 | Ely Office: offline-first desktop apps in Rust and GPUI |
-| 10 | [AndreSzymanski15/ai-jailbreaks](https://github.com/AndreSzymanski15/ai-jailbreaks) | — | ⭐453 | AI jailbreaks: 35 paste-ready AI jailbreak prompts for 25+ frontier and open-wei |
+| 1 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java | ⭐2312 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code.  |
+| 2 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin | ⭐1789 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
+| 3 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | — | ⭐1245 | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out  |
+| 4 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | ⭐687 | Ely Office: offline-first desktop apps in Rust and GPUI |
+| 5 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | TypeScript | ⭐666 | ascii shark components in typescript |
+| 6 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python | ⭐612 | Official Inference Code of EAGLE-4 |
+| 7 | [VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat) | TypeScript | ⭐543 |  |
+| 8 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | Python | ⭐504 | Run iOS and macOS on non-Apple ARM64 hardware through UEFI. |
+| 9 | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Rust | ⭐492 | A tool to generate normal maps from any sprite and animated sprite sheet. |
+| 10 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust | ⭐479 | Run many Claude Code and Codex agents side by side, in one sidebar that tells yo |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-21](records/2026-10-21.md) | simbasjungles/free-my-tv | 2312 |
 | [2026-10-20](records/2026-10-20.md) | xiaoyang111222/cn-math-taxonomy | 1414 |
 | [2026-10-19](records/2026-10-19.md) | Gathin23/cleanyourtv | 3929 |
 | [2026-10-18](records/2026-10-18.md) | Gathin23/tv-vibehack | 835 |
