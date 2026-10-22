@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-21
+## Latest: 2026-10-22
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | Java | ⭐2312 | A fast, ad-free home screen for Google TV. Open source, built with Claude Code.  |
-| 2 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin | ⭐1789 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
-| 3 | [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | — | ⭐1245 | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out  |
-| 4 | [ELY-Open-Source/ElyOffice](https://github.com/ELY-Open-Source/ElyOffice) | Rust | ⭐687 | Ely Office: offline-first desktop apps in Rust and GPUI |
-| 5 | [stackedlol/ascii-sharks](https://github.com/stackedlol/ascii-sharks) | TypeScript | ⭐666 | ascii shark components in typescript |
-| 6 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python | ⭐612 | Official Inference Code of EAGLE-4 |
-| 7 | [VictorTaelin/uniichat](https://github.com/VictorTaelin/uniichat) | TypeScript | ⭐543 |  |
-| 8 | [UniXNU/UniXNU](https://github.com/UniXNU/UniXNU) | Python | ⭐504 | Run iOS and macOS on non-Apple ARM64 hardware through UEFI. |
-| 9 | [Hugo-Dz/spritefusion-sprite-normals](https://github.com/Hugo-Dz/spritefusion-sprite-normals) | Rust | ⭐492 | A tool to generate normal maps from any sprite and animated sprite sheet. |
-| 10 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust | ⭐479 | Run many Claude Code and Codex agents side by side, in one sidebar that tells yo |
+| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin | ⭐2877 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
+| 2 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | Python | ⭐1381 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
+| 3 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python | ⭐852 | A php2shell exploit that requires no modifications to the official version, and  |
+| 4 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python | ⭐809 | Official Inference Code of EAGLE-4 |
+| 5 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | Shell | ⭐804 | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
+| 6 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | JavaScript | ⭐701 |  |
+| 7 | [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference) | Python | ⭐585 |  |
+| 8 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust | ⭐573 | Run many Claude Code and Codex agents side by side, in one sidebar that tells yo |
+| 9 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Rust | ⭐396 | Import .sql files into TypeScript with full type inference and zero codegen. |
+| 10 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | JavaScript | ⭐386 | DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-22](records/2026-10-22.md) | pengchujin/aerial-tv | 2877 |
 | [2026-10-21](records/2026-10-21.md) | simbasjungles/free-my-tv | 2312 |
 | [2026-10-20](records/2026-10-20.md) | xiaoyang111222/cn-math-taxonomy | 1414 |
 | [2026-10-19](records/2026-10-19.md) | Gathin23/cleanyourtv | 3929 |
