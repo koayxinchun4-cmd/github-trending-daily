@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-22
+## Latest: 2026-10-23
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | Kotlin | ⭐2877 | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X |
-| 2 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | Python | ⭐1381 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
-| 3 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python | ⭐852 | A php2shell exploit that requires no modifications to the official version, and  |
-| 4 | [eagle-hq/EAGLE-4](https://github.com/eagle-hq/EAGLE-4) | Python | ⭐809 | Official Inference Code of EAGLE-4 |
-| 5 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | Shell | ⭐804 | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
-| 6 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | JavaScript | ⭐701 |  |
-| 7 | [NVIDIA/flare-local-inference](https://github.com/NVIDIA/flare-local-inference) | Python | ⭐585 |  |
-| 8 | [dominikmartn/harp](https://github.com/dominikmartn/harp) | Rust | ⭐573 | Run many Claude Code and Codex agents side by side, in one sidebar that tells yo |
-| 9 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Rust | ⭐396 | Import .sql files into TypeScript with full type inference and zero codegen. |
-| 10 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | JavaScript | ⭐386 | DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原 |
+| 1 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | Python | ⭐1633 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
+| 2 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python | ⭐1080 | A php2shell exploit that requires no modifications to the official version, and  |
+| 3 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | JavaScript | ⭐935 |  |
+| 4 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | Shell | ⭐935 | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
+| 5 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Rust | ⭐917 | Import .sql files into TypeScript with full type inference and zero codegen. |
+| 6 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | C | ⭐871 |  |
+| 7 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | Swift | ⭐786 | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor |
+| 8 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python | ⭐689 | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
+| 9 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | JavaScript | ⭐417 | DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原 |
+| 10 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python | ⭐402 | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-23](records/2026-10-23.md) | ikow/php2shell-poc | 1633 |
 | [2026-10-22](records/2026-10-22.md) | pengchujin/aerial-tv | 2877 |
 | [2026-10-21](records/2026-10-21.md) | simbasjungles/free-my-tv | 2312 |
 | [2026-10-20](records/2026-10-20.md) | xiaoyang111222/cn-math-taxonomy | 1414 |
