@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-23
+## Latest: 2026-10-24
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | Python | ⭐1633 | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec |
-| 2 | [9bie/php2shell-bypass-aslr-exp](https://github.com/9bie/php2shell-bypass-aslr-exp) | Python | ⭐1080 | A php2shell exploit that requires no modifications to the official version, and  |
-| 3 | [openai/php2shell-checker](https://github.com/openai/php2shell-checker) | JavaScript | ⭐935 |  |
-| 4 | [eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC](https://github.com/eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC) | Shell | ⭐935 | Proof-of-Concept (PoC) exploit for php2shell (CVE-2026-109618 / CVE-2026-109619) |
-| 5 | [colinhacks/reylo](https://github.com/colinhacks/reylo) | Rust | ⭐917 | Import .sql files into TypeScript with full type inference and zero codegen. |
-| 6 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | C | ⭐871 |  |
-| 7 | [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | Swift | ⭐786 | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor |
-| 8 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python | ⭐689 | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
-| 9 | [WoYun520/dsh-purge](https://github.com/WoYun520/dsh-purge) | JavaScript | ⭐417 | DeepSeek Harness 破甲 (mirror of mmparko/dsh-purge) — 全量镜像：全部分支/100 个 tag/完整提交历史。原 |
-| 10 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python | ⭐402 | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
+| 1 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | C | ⭐1211 |  |
+| 2 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python | ⭐823 | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
+| 3 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python | ⭐528 | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
+| 4 | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift | ⭐415 | Turn any SVG into a professional 60 fps animation. A Claude Code skill that brin |
+| 5 | [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) | C | ⭐342 |  |
+| 6 | [david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026](https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026) | Python | ⭐303 | High-performance Roblox aimbot with adaptive smooth tracking and precise auto ai |
+| 7 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python | ⭐302 | Build a video template once, reuse it across coding agents. Editable Remotion te |
+| 8 | [tunflwgudkyb/cs2-external-esp](https://github.com/tunflwgudkyb/cs2-external-esp) | HTML | ⭐257 | CS2 external cheat: ESP player boxes, skeleton, health bars, radar hack, aimbot, |
+| 9 | [wpfigfszroxn/pubg-external-esp](https://github.com/wpfigfszroxn/pubg-external-esp) | HTML | ⭐247 | PUBG external ESP/aimbot: player skeleton ESP, item glow, no-recoil, radar — rea |
+| 10 | [7API/uncensored-ai-api](https://github.com/7API/uncensored-ai-api) | — | ⭐222 | Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek,  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-24](records/2026-10-24.md) | oosexgang/hackios-xnu-kernel | 1211 |
 | [2026-10-23](records/2026-10-23.md) | ikow/php2shell-poc | 1633 |
 | [2026-10-22](records/2026-10-22.md) | pengchujin/aerial-tv | 2877 |
 | [2026-10-21](records/2026-10-21.md) | simbasjungles/free-my-tv | 2312 |
