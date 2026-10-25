@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-24
+## Latest: 2026-10-25
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [oosexgang/hackios-xnu-kernel](https://github.com/oosexgang/hackios-xnu-kernel) | C | ⭐1211 |  |
-| 2 | [Snapintosh/Snapintosh](https://github.com/Snapintosh/Snapintosh) | Python | ⭐823 | EL2 hypervisor and toolchain that boots macOS on the ASUS A16 (Snapdragon X2 Eli |
-| 3 | [assetnote/php2shell-scanner](https://github.com/assetnote/php2shell-scanner) | Python | ⭐528 | High fidelity scanner for php2shell (CVE-2026-109618 and CVE-2026-109619) |
-| 4 | [rossark0/rossark-motion-skill](https://github.com/rossark0/rossark-motion-skill) | Swift | ⭐415 | Turn any SVG into a professional 60 fps animation. A Claude Code skill that brin |
-| 5 | [oosexgang/hackios-xnu-userland](https://github.com/oosexgang/hackios-xnu-userland) | C | ⭐342 |  |
-| 6 | [david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026](https://github.com/david-silvalab1993i0/Roblox-Aimbot-Smooth-Tracking-Auto-Aim-Script-2026) | Python | ⭐303 | High-performance Roblox aimbot with adaptive smooth tracking and precise auto ai |
-| 7 | [actionow-ai/vvv](https://github.com/actionow-ai/vvv) | Python | ⭐302 | Build a video template once, reuse it across coding agents. Editable Remotion te |
-| 8 | [tunflwgudkyb/cs2-external-esp](https://github.com/tunflwgudkyb/cs2-external-esp) | HTML | ⭐257 | CS2 external cheat: ESP player boxes, skeleton, health bars, radar hack, aimbot, |
-| 9 | [wpfigfszroxn/pubg-external-esp](https://github.com/wpfigfszroxn/pubg-external-esp) | HTML | ⭐247 | PUBG external ESP/aimbot: player skeleton ESP, item glow, no-recoil, radar — rea |
-| 10 | [7API/uncensored-ai-api](https://github.com/7API/uncensored-ai-api) | — | ⭐222 | Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek,  |
+| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | C | ⭐1936 | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa |
+| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python | ⭐441 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| 3 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Rust | ⭐400 | A Claude Code plugin that teaches Claude to write idiomatic, robust Rust |
+| 4 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐381 | Rust Google Drive direct downloader using pinned libaria2 |
+| 5 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | — | ⭐345 | Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaS |
+| 6 | [mirkobrombin/raven](https://github.com/mirkobrombin/raven) | C++ | ⭐325 | A Windows your apps recognize. |
+| 7 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python | ⭐317 | GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak |
+| 8 | [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) | — | ⭐314 | Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek,  |
+| 9 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML | ⭐254 |  |
+| 10 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | — | ⭐251 | Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-25](records/2026-10-25.md) | JustAResearcher/gpu-unlock-ada | 1936 |
 | [2026-10-24](records/2026-10-24.md) | oosexgang/hackios-xnu-kernel | 1211 |
 | [2026-10-23](records/2026-10-23.md) | ikow/php2shell-poc | 1633 |
 | [2026-10-22](records/2026-10-22.md) | pengchujin/aerial-tv | 2877 |
