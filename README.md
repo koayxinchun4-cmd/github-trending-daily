@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-25
+## Latest: 2026-10-26
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | C | ⭐1936 | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa |
-| 2 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python | ⭐441 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| 3 | [morganlinton/BeautifulRust](https://github.com/morganlinton/BeautifulRust) | Rust | ⭐400 | A Claude Code plugin that teaches Claude to write idiomatic, robust Rust |
-| 4 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐381 | Rust Google Drive direct downloader using pinned libaria2 |
-| 5 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | — | ⭐345 | Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaS |
-| 6 | [mirkobrombin/raven](https://github.com/mirkobrombin/raven) | C++ | ⭐325 | A Windows your apps recognize. |
-| 7 | [routerhubSI/glm-5.3-abliterated](https://github.com/routerhubSI/glm-5.3-abliterated) | Python | ⭐317 | GLM 5.3 abliterated or uncensored API access with RouterHub. Browse 35 jailbreak |
-| 8 | [routerhubSI/uncensored-ai-api](https://github.com/routerhubSI/uncensored-ai-api) | — | ⭐314 | Uncensored AI API and models — one key for Claude, GPT, Gemini, Grok, DeepSeek,  |
-| 9 | [enesozturk/dimensional-drawing](https://github.com/enesozturk/dimensional-drawing) | HTML | ⭐254 |  |
-| 10 | [appariciojunior/video-editor-skills](https://github.com/appariciojunior/video-editor-skills) | — | ⭐251 | Skills that teach Claude Code to be a first-pass video editor in DaVinci Resolve |
+| 1 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python | ⭐1661 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| 2 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | TypeScript | ⭐1423 | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and |
+| 3 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python | ⭐1050 | The agent skills I use every day. Works with Claude Code and Codex. |
+| 4 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python | ⭐697 | A public release of the Steal My Bitcoin challenge |
+| 5 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | ⭐694 | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
+| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐687 | Rust Google Drive direct downloader using pinned libaria2 |
+| 7 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | — | ⭐592 |  |
+| 8 | [wangrongding/tv-fresh](https://github.com/wangrongding/tv-fresh) | Shell | ⭐477 | tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键 |
+| 9 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | — | ⭐476 | Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaS |
+| 10 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐461 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-26](records/2026-10-26.md) | rddmwmddr/android-ad-cleaner | 1661 |
 | [2026-10-25](records/2026-10-25.md) | JustAResearcher/gpu-unlock-ada | 1936 |
 | [2026-10-24](records/2026-10-24.md) | oosexgang/hackios-xnu-kernel | 1211 |
 | [2026-10-23](records/2026-10-23.md) | ikow/php2shell-poc | 1633 |
