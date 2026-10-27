@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-26
+## Latest: 2026-10-27
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | Python | ⭐1661 | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| 2 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | TypeScript | ⭐1423 | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and |
-| 3 | [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | Python | ⭐1050 | The agent skills I use every day. Works with Claude Code and Codex. |
-| 4 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python | ⭐697 | A public release of the Steal My Bitcoin challenge |
-| 5 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | ⭐694 | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
-| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐687 | Rust Google Drive direct downloader using pinned libaria2 |
-| 7 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | — | ⭐592 |  |
-| 8 | [wangrongding/tv-fresh](https://github.com/wangrongding/tv-fresh) | Shell | ⭐477 | tv-fresh 电视焕新：小米电视(MIUI TV)去广告/清理预装/换桌面/装代理与影视仓的 Agent Skill——免root可逆，含固件逆向实录与一键 |
-| 9 | [songjianyang/xss-audit](https://github.com/songjianyang/xss-audit) | — | ⭐476 | Static XSS audit skill with 14 layers of checks for React, TypeScript, and JavaS |
-| 10 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐461 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
+| 1 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | TypeScript | ⭐2286 | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and |
+| 2 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | — | ⭐1699 |  |
+| 3 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐989 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
+| 4 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | ⭐971 | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
+| 5 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python | ⭐920 | A public release of the Steal My Bitcoin challenge |
+| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐743 | Rust Google Drive direct downloader using pinned libaria2 |
+| 7 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go | ⭐627 | Decrypt IPA's on MacOS |
+| 8 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | JavaScript | ⭐560 | One persona, many coding agents. Replace or inject system prompts across codex,  |
+| 9 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | TypeScript | ⭐544 | Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO |
+| 10 | [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript | ⭐462 | Tool to dump unencrypted romFS and exeFS for Switch 2 games |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-27](records/2026-10-27.md) | designfuchen/word-atlas | 2286 |
 | [2026-10-26](records/2026-10-26.md) | rddmwmddr/android-ad-cleaner | 1661 |
 | [2026-10-25](records/2026-10-25.md) | JustAResearcher/gpu-unlock-ada | 1936 |
 | [2026-10-24](records/2026-10-24.md) | oosexgang/hackios-xnu-kernel | 1211 |
