@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-27
+## Latest: 2026-10-28
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | TypeScript | ⭐2286 | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and |
-| 2 | [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | — | ⭐1699 |  |
-| 3 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐989 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
-| 4 | [DenisSergeevitch/ex-ussr-kinship-research](https://github.com/DenisSergeevitch/ex-ussr-kinship-research) | Python | ⭐971 | Evidence-first genealogy skill for AI agents (Codex, Claude Code): church books, |
-| 5 | [KillaBoi/StealMyBitcoin-PoC](https://github.com/KillaBoi/StealMyBitcoin-PoC) | Python | ⭐920 | A public release of the Steal My Bitcoin challenge |
-| 6 | [mizorewww/gdirect](https://github.com/mizorewww/gdirect) | Rust | ⭐743 | Rust Google Drive direct downloader using pinned libaria2 |
-| 7 | [DrWhax/unfairplay](https://github.com/DrWhax/unfairplay) | Go | ⭐627 | Decrypt IPA's on MacOS |
-| 8 | [ZiChuanLan/agent-purge](https://github.com/ZiChuanLan/agent-purge) | JavaScript | ⭐560 | One persona, many coding agents. Replace or inject system prompts across codex,  |
-| 9 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | TypeScript | ⭐544 | Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO |
-| 10 | [misshexa66/OunceCake](https://github.com/misshexa66/OunceCake) | JavaScript | ⭐462 | Tool to dump unencrypted romFS and exeFS for Switch 2 games |
+| 1 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | HTML | ⭐1598 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| 2 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐1263 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
+| 3 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python | ⭐776 | Free Claude skill: make Claude build award-level, cinematic landing pages. By Mo |
+| 4 | [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | TypeScript | ⭐750 |  |
+| 5 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | TypeScript | ⭐678 | Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO |
+| 6 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript | ⭐553 | How to build useful, profitable apps in 2026. Clone it and point your coding age |
+| 7 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | Python | ⭐467 | Image-driven 3D scene generation system. Users provide a reference image and pro |
+| 8 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | — | ⭐379 | 🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code |
+| 9 | [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | — | ⭐361 | multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi |
+| 10 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐331 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-28](records/2026-10-28.md) | anhao/ai-pose-gallery-zh | 1598 |
 | [2026-10-27](records/2026-10-27.md) | designfuchen/word-atlas | 2286 |
 | [2026-10-26](records/2026-10-26.md) | rddmwmddr/android-ad-cleaner | 1661 |
 | [2026-10-25](records/2026-10-25.md) | JustAResearcher/gpu-unlock-ada | 1936 |
