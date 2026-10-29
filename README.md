@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-28
+## Latest: 2026-10-29
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | HTML | ⭐1598 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| 2 | [andyhuo520/digital-human-koubo](https://github.com/andyhuo520/digital-human-koubo) | TypeScript | ⭐1263 | AI digital-human talking-head videos from one photo: Renoise MCP generation + 5  |
-| 3 | [Motionsites-AI/claude-skill](https://github.com/Motionsites-AI/claude-skill) | Python | ⭐776 | Free Claude skill: make Claude build award-level, cinematic landing pages. By Mo |
-| 4 | [kargulstudio/calender-app-design](https://github.com/kargulstudio/calender-app-design) | TypeScript | ⭐750 |  |
-| 5 | [yaojingang/GEOInflow](https://github.com/yaojingang/GEOInflow) | TypeScript | ⭐678 | Self-hosted web and AI crawler analytics for Generative Engine Optimization (GEO |
-| 6 | [blakeandersonw/ai-app-playbook](https://github.com/blakeandersonw/ai-app-playbook) | TypeScript | ⭐553 | How to build useful, profitable apps in 2026. Clone it and point your coding age |
-| 7 | [deepopen-com/deepopen-3d-webs](https://github.com/deepopen-com/deepopen-3d-webs) | Python | ⭐467 | Image-driven 3D scene generation system. Users provide a reference image and pro |
-| 8 | [ChannelCooperStart/capri-ai](https://github.com/ChannelCooperStart/capri-ai) | — | ⭐379 | 🌃 Capri — Edgerunners-inspired AI agent for your desktop. Works with Claude Code |
-| 9 | [andriu-kun/-wildrig-multi](https://github.com/andriu-kun/-wildrig-multi) | — | ⭐361 | multi algo miner for AMD, NVIDIA and Intel gpu's wildrig-multi |
-| 10 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐331 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
+| 1 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | HTML | ⭐2864 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
+| 2 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐846 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
+| 3 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | Python | ⭐461 | Fast, accurate OCR with correctness assessment. |
+| 4 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python | ⭐406 | Motion capture for any creature from one AI video: two cameras in one frame, a D |
+| 5 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python | ⭐387 | The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open  |
+| 6 | [NotRexed/SkyboundTotk](https://github.com/NotRexed/SkyboundTotk) | C++ | ⭐369 |  |
+| 7 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript | ⭐340 | See how your app actually fits together. An interactive, plain-English map of yo |
+| 8 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript | ⭐340 | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
+| 9 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | — | ⭐313 | Say cheese! Star this repo and your profile picture gets printed out on a receip |
+| 10 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | TypeScript | ⭐306 | Watson — free OSINT tool for Windows: people search across 3,100+ public sites b |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-29](records/2026-10-29.md) | anhao/ai-pose-gallery-zh | 2864 |
 | [2026-10-28](records/2026-10-28.md) | anhao/ai-pose-gallery-zh | 1598 |
 | [2026-10-27](records/2026-10-27.md) | designfuchen/word-atlas | 2286 |
 | [2026-10-26](records/2026-10-26.md) | rddmwmddr/android-ad-cleaner | 1661 |
