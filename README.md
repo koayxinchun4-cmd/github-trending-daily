@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-29
+## Latest: 2026-10-30
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [anhao/ai-pose-gallery-zh](https://github.com/anhao/ai-pose-gallery-zh) | HTML | ⭐2864 | 中文版 AI 姿势参考图库 · 1439 组 / 2878 张图片 / 完整汉化 · 零依赖静态画廊 |
-| 2 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐846 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
-| 3 | [OpenBMB/MiniCPM-OCR](https://github.com/OpenBMB/MiniCPM-OCR) | Python | ⭐461 | Fast, accurate OCR with correctness assessment. |
-| 4 | [patch-gg/anymove](https://github.com/patch-gg/anymove) | Python | ⭐406 | Motion capture for any creature from one AI video: two cameras in one frame, a D |
-| 5 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python | ⭐387 | The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open  |
-| 6 | [NotRexed/SkyboundTotk](https://github.com/NotRexed/SkyboundTotk) | C++ | ⭐369 |  |
-| 7 | [haydenschmitty/floorplan](https://github.com/haydenschmitty/floorplan) | JavaScript | ⭐340 | See how your app actually fits together. An interactive, plain-English map of yo |
-| 8 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript | ⭐340 | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
-| 9 | [aschmelyun/print-my-profile-pic](https://github.com/aschmelyun/print-my-profile-pic) | — | ⭐313 | Say cheese! Star this repo and your profile picture gets printed out on a receip |
-| 10 | [vaishantsah/watson-AI-osint-all-in-one](https://github.com/vaishantsah/watson-AI-osint-all-in-one) | TypeScript | ⭐306 | Watson — free OSINT tool for Windows: people search across 3,100+ public sites b |
+| 1 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | ⭐1094 | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
+| 2 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐1083 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
+| 3 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Go | ⭐946 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
+| 4 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript | ⭐553 | RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × |
+| 5 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python | ⭐548 | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
+| 6 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript | ⭐464 | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
+| 7 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python | ⭐451 | The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open  |
+| 8 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | ⭐435 | Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that ope |
+| 9 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | JavaScript | ⭐418 | Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, causti |
+| 10 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | JavaScript | ⭐364 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-30](records/2026-10-30.md) | valentderah/totk-pc-recomp | 1094 |
 | [2026-10-29](records/2026-10-29.md) | anhao/ai-pose-gallery-zh | 2864 |
 | [2026-10-28](records/2026-10-28.md) | anhao/ai-pose-gallery-zh | 1598 |
 | [2026-10-27](records/2026-10-27.md) | designfuchen/word-atlas | 2286 |
