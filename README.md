@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-30
+## Latest: 2026-10-31
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | ⭐1094 | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
-| 2 | [smithjohn78390/tongjiang-lab](https://github.com/smithjohn78390/tongjiang-lab) | HTML | ⭐1083 | Free interactive 3D science lessons for high school · 铜匠实验室 · https://lab.tongji |
-| 3 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Go | ⭐946 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
-| 4 | [HRuiCcc/RuiC-PoseAtlas](https://github.com/HRuiCcc/RuiC-PoseAtlas) | JavaScript | ⭐553 | RuiC-PoseAtlas｜姿态 + 衣装双图鉴：288 组人体姿态 × 5 视角 × 1,439 张人台线稿，加 1,407 套无人物衣装 × 8 分类 × |
-| 5 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python | ⭐548 | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
-| 6 | [jacke-pp/open-yoki](https://github.com/jacke-pp/open-yoki) | JavaScript | ⭐464 | An AI live-stream host that runs on one server: voice, face, chat, memory, posts |
-| 7 | [MiniMax-AI/mcode-stack](https://github.com/MiniMax-AI/mcode-stack) | Python | ⭐451 | The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open  |
-| 8 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | ⭐435 | Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that ope |
-| 9 | [Humpalumps/Ultra-Water](https://github.com/Humpalumps/Ultra-Water) | JavaScript | ⭐418 | Real-time FFT ocean renderer for three.js (WebGL2): shore breakers, foam, causti |
-| 10 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | JavaScript | ⭐364 |  |
+| 1 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript | ⭐2654 | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
+| 2 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | ⭐2286 | Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that ope |
+| 3 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | ⭐2197 | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
+| 4 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Go | ⭐1566 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
+| 5 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua | ⭐1015 | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
+| 6 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | ⭐899 | 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
+| 7 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ | ⭐857 | VERY experimental Nintendo Switch 2 emulator |
+| 8 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python | ⭐822 | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
+| 9 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐545 | Towards a More Autonomous Agent System |
+| 10 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | JavaScript | ⭐492 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-10-31](records/2026-10-31.md) | heydamir/unslop | 2654 |
 | [2026-10-30](records/2026-10-30.md) | valentderah/totk-pc-recomp | 1094 |
 | [2026-10-29](records/2026-10-29.md) | anhao/ai-pose-gallery-zh | 2864 |
 | [2026-10-28](records/2026-10-28.md) | anhao/ai-pose-gallery-zh | 1598 |
