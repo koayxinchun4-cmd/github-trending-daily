@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-10-31
+## Latest: 2026-11-01
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [heydamir/unslop](https://github.com/heydamir/unslop) | JavaScript | ⭐2654 | A Claude skill that turns vibecoded, AI-looking UI into a designed interface |
-| 2 | [wangzan101/Mika](https://github.com/wangzan101/Mika) | Kotlin | ⭐2286 | Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that ope |
-| 3 | [valentderah/totk-pc-recomp](https://github.com/valentderah/totk-pc-recomp) | C | ⭐2197 | Static recompilation of The Legend of Zelda: Tears of the Kingdom to native Wind |
-| 4 | [paipiange/nvzhuang](https://github.com/paipiange/nvzhuang) | Go | ⭐1566 | 1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、 |
-| 5 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua | ⭐1015 | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
-| 6 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | ⭐899 | 232 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
-| 7 | [Djihads80/Eglantine](https://github.com/Djihads80/Eglantine) | C++ | ⭐857 | VERY experimental Nintendo Switch 2 emulator |
-| 8 | [BryceYuuu/RUN](https://github.com/BryceYuuu/RUN) | Python | ⭐822 | RUN · 润：海外移居手册（欧洲 36 国 · 110 条路线 · 主要移民地区） |
-| 9 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐545 | Towards a More Autonomous Agent System |
-| 10 | [sleepy-zone/ai-ref-library-cn](https://github.com/sleepy-zone/ai-ref-library-cn) | JavaScript | ⭐492 |  |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐5934 | Towards a More Autonomous Agent System |
+| 2 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | ⭐2219 | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
+| 3 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua | ⭐1237 | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
+| 4 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell | ⭐1018 | Install Linux next to Windows without a USB stick |
+| 5 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | JavaScript | ⭐771 | A Claude Code skill that turns any machine into a 3D simulator you can take apar |
+| 6 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | — | ⭐593 | ⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your fi |
+| 7 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python | ⭐591 | Play any game |
+| 8 | [joeblau/subvox](https://github.com/joeblau/subvox) | Swift | ⭐497 |  |
+| 9 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ⭐489 | Craft Anything: understand how any software works, and craft your own. |
+| 10 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | — | ⭐465 | 花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 lan |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-01](records/2026-11-01.md) | deepseek-ai/dsh-superagent-prototype | 5934 |
 | [2026-10-31](records/2026-10-31.md) | heydamir/unslop | 2654 |
 | [2026-10-30](records/2026-10-30.md) | valentderah/totk-pc-recomp | 1094 |
 | [2026-10-29](records/2026-10-29.md) | anhao/ai-pose-gallery-zh | 2864 |
