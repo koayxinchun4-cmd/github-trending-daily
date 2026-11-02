@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-01
+## Latest: 2026-11-02
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐5934 | Towards a More Autonomous Agent System |
-| 2 | [patch-gg/pixelfx](https://github.com/patch-gg/pixelfx) | JavaScript | ⭐2219 | 244 pixel art effects, every one a small piece of code. Plus a Claude Code skill |
-| 3 | [kevinraymond/florilegium](https://github.com/kevinraymond/florilegium) | Lua | ⭐1237 | Procedurally generated Delft-blue floral page margins for LuaLaTeX, drawn in Lua |
-| 4 | [Arjun-Ingole/hop](https://github.com/Arjun-Ingole/hop) | PowerShell | ⭐1018 | Install Linux next to Windows without a USB stick |
-| 5 | [elvarofficial/teardown](https://github.com/elvarofficial/teardown) | JavaScript | ⭐771 | A Claude Code skill that turns any machine into a 3D simulator you can take apar |
-| 6 | [boardshogunfluctuate/Capri-AI](https://github.com/boardshogunfluctuate/Capri-AI) | — | ⭐593 | ⚡ Tell your PC what to do. Capri is a cyberpunk AI agent that works with your fi |
-| 7 | [ramenvr/autopilot](https://github.com/ramenvr/autopilot) | Python | ⭐591 | Play any game |
-| 8 | [joeblau/subvox](https://github.com/joeblau/subvox) | Swift | ⭐497 |  |
-| 9 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ⭐489 | Craft Anything: understand how any software works, and craft your own. |
-| 10 | [alchaincyf/huashu-bird-sticker](https://github.com/alchaincyf/huashu-bird-sticker) | — | ⭐465 | 花叔开源的全球鸟类贴纸库 · Stickers for all 11,064 living bird species, with names in 43 lan |
+| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐12496 | Towards a More Autonomous Agent System |
+| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ⭐3286 | Craft Anything: understand how any software works, and craft your own. |
+| 3 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Kotlin | ⭐1184 | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe |
+| 4 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | TypeScript | ⭐1039 | Agent skill: describe your stack in a sentence, get an architecture diagram with |
+| 5 | [joeblau/subvox](https://github.com/joeblau/subvox) | Swift | ⭐643 |  |
+| 6 | [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) | JavaScript | ⭐584 | One button: why the game stutters, why it lags and why it won't start. Pitstop m |
+| 7 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go | ⭐570 | The lossless, headless coding agent harness. One 7 MB static binary, four tools, |
+| 8 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐560 | Value your Steam stash in the terminal and print it as a share card: per game, p |
+| 9 | [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Kotlin | ⭐532 | AVault - Call Recorder (No Root Required) / Privacy-first, hardware-encrypted au |
+| 10 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript | ⭐507 | Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-02](records/2026-11-02.md) | deepseek-ai/dsh-superagent-prototype | 12496 |
 | [2026-11-01](records/2026-11-01.md) | deepseek-ai/dsh-superagent-prototype | 5934 |
 | [2026-10-31](records/2026-10-31.md) | heydamir/unslop | 2654 |
 | [2026-10-30](records/2026-10-30.md) | valentderah/totk-pc-recomp | 1094 |
