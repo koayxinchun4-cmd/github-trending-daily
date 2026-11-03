@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-02
+## Latest: 2026-11-03
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) | TypeScript | ⭐12496 | Towards a More Autonomous Agent System |
-| 2 | [storytold/craft-anything](https://github.com/storytold/craft-anything) | Rust | ⭐3286 | Craft Anything: understand how any software works, and craft your own. |
-| 3 | [Verlintas/NOIR](https://github.com/Verlintas/NOIR) | Kotlin | ⭐1184 | 手机隐私审计：用 adb 扫出 Android 应用的权限、上报端点与数据流向，并给出可回滚的处置。Desktop Android leak audit: pe |
-| 4 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | TypeScript | ⭐1039 | Agent skill: describe your stack in a sentence, get an architecture diagram with |
-| 5 | [joeblau/subvox](https://github.com/joeblau/subvox) | Swift | ⭐643 |  |
-| 6 | [Centiplatrap/pc-game-fps-doctor](https://github.com/Centiplatrap/pc-game-fps-doctor) | JavaScript | ⭐584 | One button: why the game stutters, why it lags and why it won't start. Pitstop m |
-| 7 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go | ⭐570 | The lossless, headless coding agent harness. One 7 MB static binary, four tools, |
-| 8 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐560 | Value your Steam stash in the terminal and print it as a share card: per game, p |
-| 9 | [arpanjot-coding/AVault](https://github.com/arpanjot-coding/AVault) | Kotlin | ⭐532 | AVault - Call Recorder (No Root Required) / Privacy-first, hardware-encrypted au |
-| 10 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript | ⭐507 | Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit |
+| 1 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | TypeScript | ⭐1444 | Agent skill: describe your stack in a sentence, get an architecture diagram with |
+| 2 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript | ⭐1054 | Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit |
+| 3 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐687 | Value your Steam stash in the terminal and print it as a share card: per game, p |
+| 4 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go | ⭐586 | The lossless, headless coding agent harness. One 7 MB static binary, four tools, |
+| 5 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript | ⭐529 | Nintendo Switch userland code execution using Civilization 7 game cartridge |
+| 6 | [Balanov/shim](https://github.com/Balanov/shim) | Go | ⭐421 | Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language C |
+| 7 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | — | ⭐417 | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-vi |
+| 8 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | JavaScript | ⭐349 | 二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装） |
+| 9 | [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin | ⭐334 | 基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端 |
+| 10 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell | ⭐330 | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-03](records/2026-11-03.md) | caru-ini/stack-diagram | 1444 |
 | [2026-11-02](records/2026-11-02.md) | deepseek-ai/dsh-superagent-prototype | 12496 |
 | [2026-11-01](records/2026-11-01.md) | deepseek-ai/dsh-superagent-prototype | 5934 |
 | [2026-10-31](records/2026-10-31.md) | heydamir/unslop | 2654 |
