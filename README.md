@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-03
+## Latest: 2026-11-04
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [caru-ini/stack-diagram](https://github.com/caru-ini/stack-diagram) | TypeScript | ⭐1444 | Agent skill: describe your stack in a sentence, get an architecture diagram with |
-| 2 | [mromidev/claude-animated-shorts](https://github.com/mromidev/claude-animated-shorts) | TypeScript | ⭐1054 | Free Claude skill: viral animated story shorts (2D characters in a 3D world) wit |
-| 3 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐687 | Value your Steam stash in the terminal and print it as a share card: per game, p |
-| 4 | [Balanov/uncut](https://github.com/Balanov/uncut) | Go | ⭐586 | The lossless, headless coding agent harness. One 7 MB static binary, four tools, |
-| 5 | [Gezine/CivSwitch](https://github.com/Gezine/CivSwitch) | JavaScript | ⭐529 | Nintendo Switch userland code execution using Civilization 7 game cartridge |
-| 6 | [Balanov/shim](https://github.com/Balanov/shim) | Go | ⭐421 | Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language C |
-| 7 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | — | ⭐417 | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-vi |
-| 8 | [sleepy-zone/char-db-cn](https://github.com/sleepy-zone/char-db-cn) | JavaScript | ⭐349 | 二次元角色换装库 · 中文版（发型 / 服装 / 姿势 / 组装） |
-| 9 | [mylea1/phongent](https://github.com/mylea1/phongent) | Kotlin | ⭐334 | 基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端 |
-| 10 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell | ⭐330 | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116 |
+| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | ⭐2271 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | ⭐1186 | Entire MacOS running in your terminal. |
+| 3 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐725 | Value your Steam stash in the terminal and print it as a share card: per game, p |
+| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | ⭐591 | YellowFruit third-party client |
+| 5 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | TypeScript | ⭐554 | Free OSINT search tool for Windows. 3100+ sources, one field, no terminal. |
+| 6 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | JavaScript | ⭐490 | Ask 970 data brokers to delete your data. Free, local, no account, no server. |
+| 7 | [Balanov/shim](https://github.com/Balanov/shim) | Go | ⭐451 | Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language C |
+| 8 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript | ⭐428 | Muse4AI — let your AI agent make the pictures and the videos. Local Windows brid |
+| 9 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | — | ⭐421 | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-vi |
+| 10 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell | ⭐404 | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-04](records/2026-11-04.md) | KKKKhazix/agent-autoloop | 2271 |
 | [2026-11-03](records/2026-11-03.md) | caru-ini/stack-diagram | 1444 |
 | [2026-11-02](records/2026-11-02.md) | deepseek-ai/dsh-superagent-prototype | 12496 |
 | [2026-11-01](records/2026-11-01.md) | deepseek-ai/dsh-superagent-prototype | 5934 |
