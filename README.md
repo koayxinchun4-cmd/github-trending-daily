@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-04
+## Latest: 2026-11-05
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | ⭐2271 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 2 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | ⭐1186 | Entire MacOS running in your terminal. |
-| 3 | [AssassinCreator/steam-stash-value-report-card](https://github.com/AssassinCreator/steam-stash-value-report-card) | Python | ⭐725 | Value your Steam stash in the terminal and print it as a share card: per game, p |
-| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | ⭐591 | YellowFruit third-party client |
-| 5 | [Chipwithinflash/watson-AI-osint-all-in-one](https://github.com/Chipwithinflash/watson-AI-osint-all-in-one) | TypeScript | ⭐554 | Free OSINT search tool for Windows. 3100+ sources, one field, no terminal. |
-| 6 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | JavaScript | ⭐490 | Ask 970 data brokers to delete your data. Free, local, no account, no server. |
-| 7 | [Balanov/shim](https://github.com/Balanov/shim) | Go | ⭐451 | Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language C |
-| 8 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript | ⭐428 | Muse4AI — let your AI agent make the pictures and the videos. Local Windows brid |
-| 9 | [wideeyededi/uncensored-nsfw-ai-video-api](https://github.com/wideeyededi/uncensored-nsfw-ai-video-api) | — | ⭐421 | Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-vi |
-| 10 | [mhfed/vn-law-check](https://github.com/mhfed/vn-law-check) | Shell | ⭐404 | Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116 |
+| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | ⭐3146 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
+| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python | ⭐1949 | Google_AI_Pro_2Year_ZeroCost_Auto |
+| 3 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | ⭐1862 | Entire MacOS running in your terminal. |
+| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | ⭐1070 | YellowFruit third-party client |
+| 5 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript | ⭐769 | Muse4AI — let your AI agent make the pictures and the videos. Local Windows brid |
+| 6 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | JavaScript | ⭐637 | Ask 970 data brokers to delete your data. Free, local, no account, no server. |
+| 7 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐426 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
+| 8 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python | ⭐426 | Automated YouTube video uploader with batch processing, thumbnail support, and s |
+| 9 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | — | ⭐426 | High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS a |
+| 10 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Rust | ⭐419 | A free Auction House bot for WoW Forever: buys low, posts high and undercuts for |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-05](records/2026-11-05.md) | KKKKhazix/agent-autoloop | 3146 |
 | [2026-11-04](records/2026-11-04.md) | KKKKhazix/agent-autoloop | 2271 |
 | [2026-11-03](records/2026-11-03.md) | caru-ini/stack-diagram | 1444 |
 | [2026-11-02](records/2026-11-02.md) | deepseek-ai/dsh-superagent-prototype | 12496 |
