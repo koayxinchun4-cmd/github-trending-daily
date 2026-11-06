@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-05
+## Latest: 2026-11-06
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [KKKKhazix/agent-autoloop](https://github.com/KKKKhazix/agent-autoloop) | TypeScript | ⭐3146 | 让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。 |
-| 2 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python | ⭐1949 | Google_AI_Pro_2Year_ZeroCost_Auto |
-| 3 | [govijr/terminal-mac](https://github.com/govijr/terminal-mac) | Swift | ⭐1862 | Entire MacOS running in your terminal. |
-| 4 | [Minireel/HGhub](https://github.com/Minireel/HGhub) | TypeScript | ⭐1070 | YellowFruit third-party client |
-| 5 | [andrew-babo/muse4ai](https://github.com/andrew-babo/muse4ai) | TypeScript | ⭐769 | Muse4AI — let your AI agent make the pictures and the videos. Local Windows brid |
-| 6 | [brightsongwrath/personal-data-deletor-osint](https://github.com/brightsongwrath/personal-data-deletor-osint) | JavaScript | ⭐637 | Ask 970 data brokers to delete your data. Free, local, no account, no server. |
-| 7 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐426 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
-| 8 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python | ⭐426 | Automated YouTube video uploader with batch processing, thumbnail support, and s |
+| 1 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python | ⭐2801 | Google_AI_Pro_2Year_ZeroCost_Auto |
+| 2 | [livliv-dev/player](https://github.com/livliv-dev/player) | TypeScript | ⭐877 | A lightweight 2.5D character player for the web, with lip sync and webcam face t |
+| 3 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | ⭐682 |  |
+| 4 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python | ⭐544 | A Codex skill for creating and verifying animated GIF sticker packs from charact |
+| 5 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | TypeScript | ⭐436 | Free people-search desktop app: look up a nickname, email, phone or site across  |
+| 6 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐429 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
+| 7 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python | ⭐429 | Automated YouTube video uploader with batch processing, thumbnail support, and s |
+| 8 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python | ⭐428 | Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude,  |
 | 9 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | — | ⭐426 | High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS a |
-| 10 | [DeltaProviderGuide/auto-auction-bot-wow-forever](https://github.com/DeltaProviderGuide/auto-auction-bot-wow-forever) | Rust | ⭐419 | A free Auction House bot for WoW Forever: buys low, posts high and undercuts for |
+| 10 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Python | ⭐425 | Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-06](records/2026-11-06.md) | worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto | 2801 |
 | [2026-11-05](records/2026-11-05.md) | KKKKhazix/agent-autoloop | 3146 |
 | [2026-11-04](records/2026-11-04.md) | KKKKhazix/agent-autoloop | 2271 |
 | [2026-11-03](records/2026-11-03.md) | caru-ini/stack-diagram | 1444 |
