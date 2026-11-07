@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-06
+## Latest: 2026-11-07
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto](https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto) | Python | ⭐2801 | Google_AI_Pro_2Year_ZeroCost_Auto |
-| 2 | [livliv-dev/player](https://github.com/livliv-dev/player) | TypeScript | ⭐877 | A lightweight 2.5D character player for the web, with lip sync and webcam face t |
-| 3 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | ⭐682 |  |
-| 4 | [WoYun520/pixel-gif-sticker-pack](https://github.com/WoYun520/pixel-gif-sticker-pack) | Python | ⭐544 | A Codex skill for creating and verifying animated GIF sticker packs from charact |
-| 5 | [AtomIllusionistDwell/watson-username-footprint-finder](https://github.com/AtomIllusionistDwell/watson-username-footprint-finder) | TypeScript | ⭐436 | Free people-search desktop app: look up a nickname, email, phone or site across  |
-| 6 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐429 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
-| 7 | [dragonwolfshovel/youtube-uploader](https://github.com/dragonwolfshovel/youtube-uploader) | Python | ⭐429 | Automated YouTube video uploader with batch processing, thumbnail support, and s |
-| 8 | [HerdBuilderEstimate/roblox-studio-mcp](https://github.com/HerdBuilderEstimate/roblox-studio-mcp) | Python | ⭐428 | Model Context Protocol server for Roblox Studio. Connect AI assistants (Claude,  |
-| 9 | [Lostuaexpand/windows-animated-wallpapers](https://github.com/Lostuaexpand/windows-animated-wallpapers) | — | ⭐426 | High-quality animated and live wallpapers for Windows 10 and 11. Smooth 60 FPS a |
-| 10 | [PulverizeLink/roblox-performance-tool](https://github.com/PulverizeLink/roblox-performance-tool) | Python | ⭐425 | Lightweight performance utility for Roblox on Windows. Boosts FPS, fixes stutter |
+| 1 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | ⭐1464 |  |
+| 2 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | ⭐1095 |  |
+| 3 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | ⭐1094 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 |
+| 4 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust | ⭐688 | Headless 3D and VFX engine for agents. Research preview. |
+| 5 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Python | ⭐611 | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
+| 6 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C | ⭐535 | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
+| 7 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python | ⭐483 | Talk to a Hermes Agent profile through Home Assistant Assist |
+| 8 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | JavaScript | ⭐460 | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, n |
+| 9 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python | ⭐434 | Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android |
+| 10 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐429 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-07](records/2026-11-07.md) | JenkinWoo/sheeridVerify | 1464 |
 | [2026-11-06](records/2026-11-06.md) | worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto | 2801 |
 | [2026-11-05](records/2026-11-05.md) | KKKKhazix/agent-autoloop | 3146 |
 | [2026-11-04](records/2026-11-04.md) | KKKKhazix/agent-autoloop | 2271 |
