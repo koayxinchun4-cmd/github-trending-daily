@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-07
+## Latest: 2026-11-08
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | ⭐1464 |  |
-| 2 | [mmdoctor/google-pro-helper](https://github.com/mmdoctor/google-pro-helper) | Python | ⭐1095 |  |
-| 3 | [NotRexed/Hookshot](https://github.com/NotRexed/Hookshot) | C++ | ⭐1094 | A Native Recompilation Of The Legend Of Zelda: Ocarina Of Time Nintendo Switch 2 |
-| 4 | [voyager-so/vork](https://github.com/voyager-so/vork) | Rust | ⭐688 | Headless 3D and VFX engine for agents. Research preview. |
-| 5 | [WoYun520/gif-factory](https://github.com/WoYun520/gif-factory) | Python | ⭐611 | GIF 工厂：按风格制作像素、人物与宠物、粘土吉祥物、光栅卡与动态海报的 GIF Skill。 |
-| 6 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C | ⭐535 | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
-| 7 | [majorminorlabs/hermes-voice](https://github.com/majorminorlabs/hermes-voice) | Python | ⭐483 | Talk to a Hermes Agent profile through Home Assistant Assist |
-| 8 | [JosssphZhou/poki](https://github.com/JosssphZhou/poki) | JavaScript | ⭐460 | Let AI agents operate a real iPhone. Local MCP server and agent, no jailbreak, n |
-| 9 | [riyadhHDA/wichforks](https://github.com/riyadhHDA/wichforks) | Python | ⭐434 | Use-case guide to Nintendo Switch 2 emulator forks: builds, games, GPUs, Android |
-| 10 | [TagPhaseArcade/tiktok-uploader](https://github.com/TagPhaseArcade/tiktok-uploader) | Python | ⭐429 | Automated TikTok video uploader with batch processing, scheduling, and hashtag m |
+| 1 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | ⭐1832 |  |
+| 2 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C | ⭐901 | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
+| 3 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | Python | ⭐823 | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
+| 4 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | ⭐813 |  |
+| 5 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Go | ⭐550 | Let AI agents use your phone, with you in the loop. |
+| 6 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Go | ⭐395 | One VM for every project. An isolated sandbox with your project’s toolchain, rea |
+| 7 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML | ⭐381 | Free OSINT app for Discord IDs: paste a user, server or invite and see when it w |
+| 8 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | C | ⭐318 | See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetoo |
+| 9 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | JavaScript | ⭐307 | Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI t |
+| 10 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | — | ⭐302 | AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for ad |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-08](records/2026-11-08.md) | JenkinWoo/sheeridVerify | 1832 |
 | [2026-11-07](records/2026-11-07.md) | JenkinWoo/sheeridVerify | 1464 |
 | [2026-11-06](records/2026-11-06.md) | worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto | 2801 |
 | [2026-11-05](records/2026-11-05.md) | KKKKhazix/agent-autoloop | 3146 |
