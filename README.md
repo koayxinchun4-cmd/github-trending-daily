@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-08
+## Latest: 2026-11-09
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [JenkinWoo/sheeridVerify](https://github.com/JenkinWoo/sheeridVerify) | JavaScript | ⭐1832 |  |
-| 2 | [sostenesfreitas/ocarina-recomp](https://github.com/sostenesfreitas/ocarina-recomp) | C | ⭐901 | Ocarina of Time running natively on Windows, no emulator. Built on your PC from  |
-| 3 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | Python | ⭐823 | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
-| 4 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | ⭐813 |  |
-| 5 | [DIYgod/pinky](https://github.com/DIYgod/pinky) | Go | ⭐550 | Let AI agents use your phone, with you in the loop. |
-| 6 | [devvmhq/devvm](https://github.com/devvmhq/devvm) | Go | ⭐395 | One VM for every project. An isolated sandbox with your project’s toolchain, rea |
-| 7 | [Tropicaldrescoop/discord-id-osint-checker](https://github.com/Tropicaldrescoop/discord-id-osint-checker) | HTML | ⭐381 | Free OSINT app for Discord IDs: paste a user, server or invite and see when it w |
-| 8 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | C | ⭐318 | See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetoo |
-| 9 | [shanselman/sandbox-mcp](https://github.com/shanselman/sandbox-mcp) | JavaScript | ⭐307 | Fresh, throwaway Windows machines for testing your apps: an MCP server and CLI t |
-| 10 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | — | ⭐302 | AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for ad |
+| 1 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | ⭐2173 |  |
+| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | ⭐1649 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
+| 3 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐1221 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
+| 4 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | Python | ⭐1001 | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
+| 5 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | Python | ⭐530 | See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetoo |
+| 6 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | — | ⭐503 | AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for ad |
+| 7 | [PresidentThaw/capcut-for-windows](https://github.com/PresidentThaw/capcut-for-windows) | — | ⭐502 | Capcut For Windows 2026 pre-configured environment for professional video editin |
+| 8 | [SmartAntRecover/instagram-liker-bot](https://github.com/SmartAntRecover/instagram-liker-bot) | — | ⭐501 | Instagram Liker Bot 2026 pre-configured environment for professional desktop sof |
+| 9 | [updatesealeradicate/start11](https://github.com/updatesealeradicate/start11) | — | ⭐501 | Start11 2023 pre-configured environment for efficient desktop software utility d |
+| 10 | [Soundplomystery/landr-plugin-bundle](https://github.com/Soundplomystery/landr-plugin-bundle) | — | ⭐501 | Landr Plugin Bundle 2026 pre-configured environment for seamless local workstati |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-09](records/2026-11-09.md) | tangerineturtle1/NX2navi | 2173 |
 | [2026-11-08](records/2026-11-08.md) | JenkinWoo/sheeridVerify | 1832 |
 | [2026-11-07](records/2026-11-07.md) | JenkinWoo/sheeridVerify | 1464 |
 | [2026-11-06](records/2026-11-06.md) | worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto | 2801 |
