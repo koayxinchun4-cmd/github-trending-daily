@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-09
+## Latest: 2026-11-10
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [tangerineturtle1/NX2navi](https://github.com/tangerineturtle1/NX2navi) | C | ⭐2173 |  |
-| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | ⭐1649 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
-| 3 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐1221 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
-| 4 | [Th0rgal/satmux](https://github.com/Th0rgal/satmux) | Python | ⭐1001 | Accelerate high-latency GEO inflight Wi-Fi via warm BBR TCP multiplexing + 1-RTT |
-| 5 | [lxe/phoneuse](https://github.com/lxe/phoneuse) | Python | ⭐530 | See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetoo |
-| 6 | [PaladinSmash84/aida-64-extreme](https://github.com/PaladinSmash84/aida-64-extreme) | — | ⭐503 | AI Prompt Engineering Toolkit Aida 64 Extreme, pre-configured environment for ad |
-| 7 | [PresidentThaw/capcut-for-windows](https://github.com/PresidentThaw/capcut-for-windows) | — | ⭐502 | Capcut For Windows 2026 pre-configured environment for professional video editin |
-| 8 | [SmartAntRecover/instagram-liker-bot](https://github.com/SmartAntRecover/instagram-liker-bot) | — | ⭐501 | Instagram Liker Bot 2026 pre-configured environment for professional desktop sof |
-| 9 | [updatesealeradicate/start11](https://github.com/updatesealeradicate/start11) | — | ⭐501 | Start11 2023 pre-configured environment for efficient desktop software utility d |
-| 10 | [Soundplomystery/landr-plugin-bundle](https://github.com/Soundplomystery/landr-plugin-bundle) | — | ⭐501 | Landr Plugin Bundle 2026 pre-configured environment for seamless local workstati |
+| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐4385 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
+| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | ⭐2327 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
+| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | ⭐894 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
+| 4 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | JavaScript | ⭐472 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新 |
+| 5 | [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) | Objective-C | ⭐454 | File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jai |
+| 6 | [PlateParrotTerminal/lag-doctor](https://github.com/PlateParrotTerminal/lag-doctor) | Rust | ⭐446 | Game ping, jitter & packet loss monitor: finds who causes your lag |
+| 7 | [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) | Objective-C | ⭐435 | A sandbox escape for iOS 26 and 27, again |
+| 8 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | ⭐426 | One self-hosted app for your shows, movies and music. |
+| 9 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | JavaScript | ⭐341 | Chrome extension: look back at posts that scrolled past on your X home timeline |
+| 10 | [phantomsociallook/auslogics](https://github.com/phantomsociallook/auslogics) | — | ⭐326 | Digital Audio Workstation Suite 2026 pre-configured environment, ready for seaml |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-10](records/2026-11-10.md) | huamidev/GestaltX | 4385 |
 | [2026-11-09](records/2026-11-09.md) | tangerineturtle1/NX2navi | 2173 |
 | [2026-11-08](records/2026-11-08.md) | JenkinWoo/sheeridVerify | 1832 |
 | [2026-11-07](records/2026-11-07.md) | JenkinWoo/sheeridVerify | 1464 |
