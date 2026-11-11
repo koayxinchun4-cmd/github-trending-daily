@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-10
+## Latest: 2026-11-11
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐4385 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
-| 2 | [jhaizhou-ops/S2Arm](https://github.com/jhaizhou-ops/S2Arm) | C# | ⭐2327 | Run your own Switch games natively on iPhone, iPad and Mac: game code rewritten  |
-| 3 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | ⭐894 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
-| 4 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | JavaScript | ⭐472 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新 |
-| 5 | [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) | Objective-C | ⭐454 | File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jai |
-| 6 | [PlateParrotTerminal/lag-doctor](https://github.com/PlateParrotTerminal/lag-doctor) | Rust | ⭐446 | Game ping, jitter & packet loss monitor: finds who causes your lag |
-| 7 | [forcequitOS/worse_query](https://github.com/forcequitOS/worse_query) | Objective-C | ⭐435 | A sandbox escape for iOS 26 and 27, again |
-| 8 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | ⭐426 | One self-hosted app for your shows, movies and music. |
-| 9 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | JavaScript | ⭐341 | Chrome extension: look back at posts that scrolled past on your X home timeline |
-| 10 | [phantomsociallook/auslogics](https://github.com/phantomsociallook/auslogics) | — | ⭐326 | Digital Audio Workstation Suite 2026 pre-configured environment, ready for seaml |
+| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐6026 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
+| 2 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | ⭐1457 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
+| 3 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | ⭐985 | Humanoid whole-body motion tracking with one differentiable world model. |
+| 4 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | ⭐731 | One self-hosted app for your shows, movies and music. |
+| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | JavaScript | ⭐610 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新 |
+| 6 | [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) | Objective-C | ⭐606 | File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jai |
+| 7 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | JavaScript | ⭐391 | Chrome extension: look back at posts that scrolled past on your X home timeline |
+| 8 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | TypeScript | ⭐386 | A Claude skill and TypeScript library for animated line-art SVG components: ink  |
+| 9 | [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) | C | ⭐380 | Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC prog |
+| 10 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | Python | ⭐373 | STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-11](records/2026-11-11.md) | huamidev/GestaltX | 6026 |
 | [2026-11-10](records/2026-11-10.md) | huamidev/GestaltX | 4385 |
 | [2026-11-09](records/2026-11-09.md) | tangerineturtle1/NX2navi | 2173 |
 | [2026-11-08](records/2026-11-08.md) | JenkinWoo/sheeridVerify | 1832 |
