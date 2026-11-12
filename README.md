@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-11
+## Latest: 2026-11-12
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [huamidev/GestaltX](https://github.com/huamidev/GestaltX) | Swift | ⭐6026 | An MobileGestalt editor for iOS 27.x, featuring region-code tweaks, device prese |
-| 2 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | ⭐1457 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
-| 3 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | ⭐985 | Humanoid whole-body motion tracking with one differentiable world model. |
-| 4 | [HolyArrs/HolyArrs](https://github.com/HolyArrs/HolyArrs) | Go | ⭐731 | One self-hosted app for your shows, movies and music. |
-| 5 | [FJNB5/fujiang-pojia](https://github.com/FJNB5/fujiang-pojia) | JavaScript | ⭐610 | 富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新 |
-| 6 | [kolbicz/WQFiles](https://github.com/kolbicz/WQFiles) | Objective-C | ⭐606 | File browser, app data manager and cache cleaner for iOS 27 (worse_query, no jai |
-| 7 | [yetone/rewind-for-x](https://github.com/yetone/rewind-for-x) | JavaScript | ⭐391 | Chrome extension: look back at posts that scrolled past on your X home timeline |
-| 8 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | TypeScript | ⭐386 | A Claude skill and TypeScript library for animated line-art SVG components: ink  |
-| 9 | [adriadam10/mkw-recomp](https://github.com/adriadam10/mkw-recomp) | C | ⭐380 | Static recompilation of Mario Kart World (Nintendo Switch 2) to a native PC prog |
-| 10 | [Dodaios/ste80-humanizer](https://github.com/Dodaios/ste80-humanizer) | Python | ⭐373 | STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the  |
+| 1 | [Kianuni/Erosion-CN](https://github.com/Kianuni/Erosion-CN) | Swift | ⭐1709 | iOS / iPadOS 系统配置与 MobileGestalt 研究工具箱（简体中文防白苹果安全加固版） |
+| 2 | [HybridRobotics/supermimic](https://github.com/HybridRobotics/supermimic) | Python | ⭐1282 | Humanoid whole-body motion tracking with one differentiable world model. |
+| 3 | [FrigadeHQ/yogurt](https://github.com/FrigadeHQ/yogurt) | TypeScript | ⭐801 | Private AI meeting notes. Free and open source. |
+| 4 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | ⭐689 | Apex Neural Rendering (ANR) by Apex Compute |
+| 5 | [JDhruv14/line-art-animation](https://github.com/JDhruv14/line-art-animation) | TypeScript | ⭐556 | A Claude skill and TypeScript library for animated line-art SVG components: ink  |
+| 6 | [aronhy/pibrowse](https://github.com/aronhy/pibrowse) | TypeScript | ⭐354 | Open-source browser profile workspaces |
+| 7 | [tigerogijzooav/Hyperliquid-Trade-Bot](https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot) | Python | ⭐288 | Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, d |
+| 8 | [MSNightmare/SignDrop](https://github.com/MSNightmare/SignDrop) | C | ⭐253 | Windows Common Log FileSystem Authentication 0day Local Privilege Escalation Vul |
+| 9 | [ValidatorStack/solana-vigil](https://github.com/ValidatorStack/solana-vigil) | Go | ⭐241 | Solana validator health in 60 seconds: score, leader duties, rewards, disk forec |
+| 10 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | TypeScript | ⭐238 | A cross-platform Tauri 2 interface and interaction practice project |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-12](records/2026-11-12.md) | Kianuni/Erosion-CN | 1709 |
 | [2026-11-11](records/2026-11-11.md) | huamidev/GestaltX | 6026 |
 | [2026-11-10](records/2026-11-10.md) | huamidev/GestaltX | 4385 |
 | [2026-11-09](records/2026-11-09.md) | tangerineturtle1/NX2navi | 2173 |
