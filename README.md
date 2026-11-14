@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-13
+## Latest: 2026-11-14
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [apex-compute/ANR](https://github.com/apex-compute/ANR) | C++ | ⭐1299 | Apex Neural Rendering (ANR) by Apex Compute |
-| 2 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | TypeScript | ⭐479 | A cross-platform Tauri 2 interface and interaction practice project |
-| 3 | [makepad/relax](https://github.com/makepad/relax) | Rust | ⭐427 | Relax Rust JIT |
-| 4 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Visual Basic .NET | ⭐383 | Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-u |
-| 5 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | TypeScript | ⭐368 | Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your  |
-| 6 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | ⭐331 | Chat Demo |
-| 7 | [linknimiball1974/ai-texture-forge](https://github.com/linknimiball1974/ai-texture-forge) | — | ⭐330 | An AI-powered texture forge for Blender — turn text prompts into seamless PBR ma |
-| 8 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | Kotlin | ⭐304 | Experimental Android 3D scanning and point-cloud viewer |
-| 9 | [op7418/guizang-game-skill](https://github.com/op7418/guizang-game-skill) | JavaScript | ⭐303 | 歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code  |
-| 10 | [tigerogijzooav/Hyperliquid-Trade-Bot](https://github.com/tigerogijzooav/Hyperliquid-Trade-Bot) | Python | ⭐289 | Independently analyze ROI, win rate, and PnL using the public Hyperliquid API, d |
+| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | ⭐1534 | Chat Demo |
+| 2 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Visual Basic .NET | ⭐1044 | Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-u |
+| 3 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | TypeScript | ⭐609 | A cross-platform Tauri 2 interface and interaction practice project |
+| 4 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | TypeScript | ⭐600 | The open-source Dynamic Island for React, installed with shadcn. |
+| 5 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | TypeScript | ⭐511 | Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your  |
+| 6 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | Kotlin | ⭐464 | Experimental Android 3D scanning and point-cloud viewer |
+| 7 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐401 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 8 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | TypeScript | ⭐345 | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an ed |
+| 9 | [quer3q/kraken-mount](https://github.com/quer3q/kraken-mount) | Rust | ⭐305 | Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd |
+| 10 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | — | ⭐296 | Cubase Studio 2026 desktop setup with full plugin suite and complete feature set |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-14](records/2026-11-14.md) | deepseek-ai/chat-demo | 1534 |
 | [2026-11-13](records/2026-11-13.md) | apex-compute/ANR | 1299 |
 | [2026-11-12](records/2026-11-12.md) | Kianuni/Erosion-CN | 1709 |
 | [2026-11-11](records/2026-11-11.md) | huamidev/GestaltX | 6026 |
