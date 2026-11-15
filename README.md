@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-14
+## Latest: 2026-11-15
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) | TypeScript | ⭐1534 | Chat Demo |
-| 2 | [DevedevT/FFmpeg-GUI-Editor-Windows](https://github.com/DevedevT/FFmpeg-GUI-Editor-Windows) | Visual Basic .NET | ⭐1044 | Lightweight portable FFmpeg GUI & lossless video trimmer for Windows (ready-to-u |
-| 3 | [AIRzZ90/study-materials-fork](https://github.com/AIRzZ90/study-materials-fork) | TypeScript | ⭐609 | A cross-platform Tauri 2 interface and interaction practice project |
-| 4 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | TypeScript | ⭐600 | The open-source Dynamic Island for React, installed with shadcn. |
-| 5 | [rivet-dev/open-orange](https://github.com/rivet-dev/open-orange) | TypeScript | ⭐511 | Run Cloudflare Workers and Durable Objects unchanged on AWS, GCP, Azure or your  |
-| 6 | [faizfahmi77/ScanDot](https://github.com/faizfahmi77/ScanDot) | Kotlin | ⭐464 | Experimental Android 3D scanning and point-cloud viewer |
-| 7 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐401 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
-| 8 | [berkantay/gpucanvas](https://github.com/berkantay/gpucanvas) | TypeScript | ⭐345 | Put thousands of live DOM nodes on an infinite canvas: the GPU draws them, an ed |
-| 9 | [quer3q/kraken-mount](https://github.com/quer3q/kraken-mount) | Rust | ⭐305 | Minimalist PS5 game mounter supporting PKG, folder dumps, lz4, and zstd |
-| 10 | [ariamitchell54/cubase-studio-desktop](https://github.com/ariamitchell54/cubase-studio-desktop) | — | ⭐296 | Cubase Studio 2026 desktop setup with full plugin suite and complete feature set |
+| 1 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐865 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 2 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | TypeScript | ⭐715 | The open-source Dynamic Island for React, installed with shadcn. |
+| 3 | [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | — | ⭐678 | AI Manus is a general-purpose AI Agent system that supports running various tool |
+| 4 | [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) | Rust | ⭐673 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
+| 5 | [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | — | ⭐672 | The GitHub Copilot app is an agent-native desktop experience for finding, runnin |
+| 6 | [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | — | ⭐670 | The GitHub Copilot app is an agent-native desktop experience for finding, runnin |
+| 7 | [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) | Rust | ⭐669 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
+| 8 | [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) | Rust | ⭐669 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
+| 9 | [WattBeetleLearn/IPTV_Player_2.0](https://github.com/WattBeetleLearn/IPTV_Player_2.0) | Rust | ⭐667 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
+| 10 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | — | ⭐666 | AI Manus is a general-purpose AI Agent system that supports running various tool |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-15](records/2026-11-15.md) | duwqijlk/muse-protocol | 865 |
 | [2026-11-14](records/2026-11-14.md) | deepseek-ai/chat-demo | 1534 |
 | [2026-11-13](records/2026-11-13.md) | apex-compute/ANR | 1299 |
 | [2026-11-12](records/2026-11-12.md) | Kianuni/Erosion-CN | 1709 |
