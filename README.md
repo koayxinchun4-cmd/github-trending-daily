@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-15
+## Latest: 2026-11-16
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐865 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
-| 2 | [opencoredev/islandcn](https://github.com/opencoredev/islandcn) | TypeScript | ⭐715 | The open-source Dynamic Island for React, installed with shadcn. |
-| 3 | [Topkiflare74/ai--manus2.0](https://github.com/Topkiflare74/ai--manus2.0) | — | ⭐678 | AI Manus is a general-purpose AI Agent system that supports running various tool |
-| 4 | [WarriorRemember/IPTV_Player_2.0](https://github.com/WarriorRemember/IPTV_Player_2.0) | Rust | ⭐673 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
-| 5 | [trackboatwrightplan/GitHub-Copilot-app](https://github.com/trackboatwrightplan/GitHub-Copilot-app) | — | ⭐672 | The GitHub Copilot app is an agent-native desktop experience for finding, runnin |
-| 6 | [TrapAccountant/GitHub-Copilot-app](https://github.com/TrapAccountant/GitHub-Copilot-app) | — | ⭐670 | The GitHub Copilot app is an agent-native desktop experience for finding, runnin |
-| 7 | [TurquoiseDetective/IPTV_Player_2.0](https://github.com/TurquoiseDetective/IPTV_Player_2.0) | Rust | ⭐669 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
-| 8 | [tornadonovicewhirl40/IPTV_Player_2.0](https://github.com/tornadonovicewhirl40/IPTV_Player_2.0) | Rust | ⭐669 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
-| 9 | [WattBeetleLearn/IPTV_Player_2.0](https://github.com/WattBeetleLearn/IPTV_Player_2.0) | Rust | ⭐667 | 🎬 A powerful, intuitive IPTV streaming app supporting M3U playlists, EPG, and co |
-| 10 | [topapothecarycanal/ai--manus2.0](https://github.com/topapothecarycanal/ai--manus2.0) | — | ⭐666 | AI Manus is a general-purpose AI Agent system that supports running various tool |
+| 1 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐1408 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
+| 2 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | Python | ⭐577 | AI clipping for long videos and live streams. Self-hosted, bring your own AI key |
+| 3 | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) | Swift | ⭐572 | Yab, yet another browser: a fast native macOS browser with an iPhone and Android |
+| 4 | [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca) | Python | ⭐567 | A 4.5M-parameter two-voice English text-to-speech model, trained from scratch |
+| 5 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | Makefile | ⭐474 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 6 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 7 | [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 8 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | Go | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 9 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 10 | [WindowStaffGate11/Gemini-Config-Checker-](https://github.com/WindowStaffGate11/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-16](records/2026-11-16.md) | duwqijlk/muse-protocol | 1408 |
 | [2026-11-15](records/2026-11-15.md) | duwqijlk/muse-protocol | 865 |
 | [2026-11-14](records/2026-11-14.md) | deepseek-ai/chat-demo | 1534 |
 | [2026-11-13](records/2026-11-13.md) | apex-compute/ANR | 1299 |
