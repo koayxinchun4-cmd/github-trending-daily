@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-16
+## Latest: 2026-11-17
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [duwqijlk/muse-protocol](https://github.com/duwqijlk/muse-protocol) | Python | ⭐1408 | muse.ai 注册与邀请码兑换协议研究（纯 HTTP Python 实现） |
-| 2 | [haziqahmedqasmi/PeakCut](https://github.com/haziqahmedqasmi/PeakCut) | Python | ⭐577 | AI clipping for long videos and live streams. Self-hosted, bring your own AI key |
-| 3 | [yetanotherbrowser/yab](https://github.com/yetanotherbrowser/yab) | Swift | ⭐572 | Yab, yet another browser: a fast native macOS browser with an iPhone and Android |
-| 4 | [n4ze3m/tiny-voca](https://github.com/n4ze3m/tiny-voca) | Python | ⭐567 | A 4.5M-parameter two-voice English text-to-speech model, trained from scratch |
-| 5 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | Makefile | ⭐474 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 6 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 7 | [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 8 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | Go | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 9 | [weldbladesmithwharf/Gemini-Config-Checker-](https://github.com/weldbladesmithwharf/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 10 | [WindowStaffGate11/Gemini-Config-Checker-](https://github.com/WindowStaffGate11/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | ⭐2016 | Show the battery level of wireless mice, headsets, keyboards and controllers on  |
+| 2 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | ⭐1080 |  |
+| 3 | [joshpuckett/allo](https://github.com/joshpuckett/allo) | Python | ⭐792 | Allo is your friendly neighborhood typeface, free and open source |
+| 4 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | ⭐721 | Agent skill for hill-climbing local LLM serving speed (decode, speculative decod |
+| 5 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | ⭐665 | Rewrite your whole app in Rust, one piece at a time, checked against the origina |
+| 6 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | HTML | ⭐580 | Steer your ideas in realtime |
+| 7 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | Makefile | ⭐475 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 8 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 9 | [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 10 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | Go | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-17](records/2026-11-17.md) | krisgfx9/Wireless-Device-Battery-Monitor | 2016 |
 | [2026-11-16](records/2026-11-16.md) | duwqijlk/muse-protocol | 1408 |
 | [2026-11-15](records/2026-11-15.md) | duwqijlk/muse-protocol | 865 |
 | [2026-11-14](records/2026-11-14.md) | deepseek-ai/chat-demo | 1534 |
