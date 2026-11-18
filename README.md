@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-17
+## Latest: 2026-11-18
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | ⭐2016 | Show the battery level of wireless mice, headsets, keyboards and controllers on  |
-| 2 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | ⭐1080 |  |
-| 3 | [joshpuckett/allo](https://github.com/joshpuckett/allo) | Python | ⭐792 | Allo is your friendly neighborhood typeface, free and open source |
-| 4 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | ⭐721 | Agent skill for hill-climbing local LLM serving speed (decode, speculative decod |
-| 5 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | ⭐665 | Rewrite your whole app in Rust, one piece at a time, checked against the origina |
-| 6 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | HTML | ⭐580 | Steer your ideas in realtime |
-| 7 | [YellowLaborerMarket/Gemini-Config-Checker-](https://github.com/YellowLaborerMarket/Gemini-Config-Checker-) | Makefile | ⭐475 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 8 | [WindGatorRise37/Gemini-Config-Checker-](https://github.com/WindGatorRise37/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 9 | [WyrmClimberManacle/Gemini-Config-Checker-](https://github.com/WyrmClimberManacle/Gemini-Config-Checker-) | Makefile | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
-| 10 | [TurtleReside/Gemini-Config-Checker-](https://github.com/TurtleReside/Gemini-Config-Checker-) | Go | ⭐473 | Chain region scanner: find proxy configs that get you into Google AI Studio and  |
+| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | ⭐3694 | Show the battery level of wireless mice, headsets, keyboards and controllers on  |
+| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | ⭐2887 | Rewrite your whole app in Rust, one piece at a time, checked against the origina |
+| 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | ⭐1046 | Agent skill for hill-climbing local LLM serving speed (decode, speculative decod |
+| 4 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | HTML | ⭐831 | Steer your ideas in realtime |
+| 5 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | Python | ⭐643 | 32 free marketing skills for your AI agent: research, positioning, copy, pages,  |
+| 6 | [Illson/RustText](https://github.com/Illson/RustText) | Rust | ⭐573 |  |
+| 7 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | JavaScript | ⭐467 | Sculpting, animation and simulation toolkit for pixel-art Gaussian splats |
+| 8 | [scottsturrock/mate-wayland-desktop](https://github.com/scottsturrock/mate-wayland-desktop) | Shell | ⭐403 | MATE Wayland Desktop: the MATE desktop on Wayland with labwc, on an Ubuntu 26.04 |
+| 9 | [waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub) | Python | ⭐299 | 万能注册机模板 / Universal Auto-Registration Template |
+| 10 | [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) | Python | ⭐272 | 加载技能 |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-18](records/2026-11-18.md) | krisgfx9/Wireless-Device-Battery-Monitor | 3694 |
 | [2026-11-17](records/2026-11-17.md) | krisgfx9/Wireless-Device-Battery-Monitor | 2016 |
 | [2026-11-16](records/2026-11-16.md) | duwqijlk/muse-protocol | 1408 |
 | [2026-11-15](records/2026-11-15.md) | duwqijlk/muse-protocol | 865 |
