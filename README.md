@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-18
+## Latest: 2026-11-19
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [krisgfx9/Wireless-Device-Battery-Monitor](https://github.com/krisgfx9/Wireless-Device-Battery-Monitor) | C++ | ⭐3694 | Show the battery level of wireless mice, headsets, keyboards and controllers on  |
-| 2 | [erkamyaman/rust-anything](https://github.com/erkamyaman/rust-anything) | Rust | ⭐2887 | Rewrite your whole app in Rust, one piece at a time, checked against the origina |
-| 3 | [sybil-solutions/inference-optimisation-skill](https://github.com/sybil-solutions/inference-optimisation-skill) | Python | ⭐1046 | Agent skill for hill-climbing local LLM serving speed (decode, speculative decod |
-| 4 | [chuanqisun/spaceship](https://github.com/chuanqisun/spaceship) | HTML | ⭐831 | Steer your ideas in realtime |
-| 5 | [boringmarketer/boring-marketing-skills](https://github.com/boringmarketer/boring-marketing-skills) | Python | ⭐643 | 32 free marketing skills for your AI agent: research, positioning, copy, pages,  |
-| 6 | [Illson/RustText](https://github.com/Illson/RustText) | Rust | ⭐573 |  |
-| 7 | [siliconjungle/shapeshift-labs-ink-studio](https://github.com/siliconjungle/shapeshift-labs-ink-studio) | JavaScript | ⭐467 | Sculpting, animation and simulation toolkit for pixel-art Gaussian splats |
-| 8 | [scottsturrock/mate-wayland-desktop](https://github.com/scottsturrock/mate-wayland-desktop) | Shell | ⭐403 | MATE Wayland Desktop: the MATE desktop on Wayland with labwc, on an Ubuntu 26.04 |
-| 9 | [waw666waw666/RegisterHub](https://github.com/waw666waw666/RegisterHub) | Python | ⭐299 | 万能注册机模板 / Universal Auto-Registration Template |
-| 10 | [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) | Python | ⭐272 | 加载技能 |
+| 1 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | ⭐2428 |  |
+| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | Python | ⭐537 | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campa |
+| 3 | [sourmitocand1987/VividFrame-GPU](https://github.com/sourmitocand1987/VividFrame-GPU) | — | ⭐416 | Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video |
+| 4 | [bothaggsigym1988/frameglide](https://github.com/bothaggsigym1988/frameglide) | — | ⭐393 | From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · f |
+| 5 | [0marContreras/gta6recomp](https://github.com/0marContreras/gta6recomp) | — | ⭐364 | A GTA VI PC Port |
+| 6 | [replit/datacat](https://github.com/replit/datacat) | TypeScript | ⭐347 | Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores  |
+| 7 | [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) | Python | ⭐310 | 加载技能 |
+| 8 | [0xkaka/homeport](https://github.com/0xkaka/homeport) | HTML | ⭐300 |  |
+| 9 | [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect) | Go | ⭐243 | Prusa Connect: a local server for your printers |
+| 10 | [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) | Python | ⭐234 | Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGIN |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-19](records/2026-11-19.md) | gylive/google-ultra | 2428 |
 | [2026-11-18](records/2026-11-18.md) | krisgfx9/Wireless-Device-Battery-Monitor | 3694 |
 | [2026-11-17](records/2026-11-17.md) | krisgfx9/Wireless-Device-Battery-Monitor | 2016 |
 | [2026-11-16](records/2026-11-16.md) | duwqijlk/muse-protocol | 1408 |
