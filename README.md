@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-19
+## Latest: 2026-11-20
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [gylive/google-ultra](https://github.com/gylive/google-ultra) | Python | ⭐2428 |  |
-| 2 | [Bodila51/gtavi-claudecode](https://github.com/Bodila51/gtavi-claudecode) | Python | ⭐537 | Claude Code plugin that turns GTA 6 streams into paid vertical clips: live campa |
-| 3 | [sourmitocand1987/VividFrame-GPU](https://github.com/sourmitocand1987/VividFrame-GPU) | — | ⭐416 | Any source. One real-time GPU enhancement pipeline. · video enhancer · gpu video |
-| 4 | [bothaggsigym1988/frameglide](https://github.com/bothaggsigym1988/frameglide) | — | ⭐393 | From a 30 fps console stream to 60–120 fps on your PC. · frame-interpolation · f |
-| 5 | [0marContreras/gta6recomp](https://github.com/0marContreras/gta6recomp) | — | ⭐364 | A GTA VI PC Port |
-| 6 | [replit/datacat](https://github.com/replit/datacat) | TypeScript | ⭐347 | Self-hosted observability: metrics, logs, traces, dashboards and alerts. Stores  |
-| 7 | [free-dam-man/cloud-exit-node-deploy](https://github.com/free-dam-man/cloud-exit-node-deploy) | Python | ⭐310 | 加载技能 |
-| 8 | [0xkaka/homeport](https://github.com/0xkaka/homeport) | HTML | ⭐300 |  |
-| 9 | [prusa3d/prusa-connect](https://github.com/prusa3d/prusa-connect) | Go | ⭐243 | Prusa Connect: a local server for your printers |
-| 10 | [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) | Python | ⭐234 | Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGIN |
+| 1 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | — | ⭐1166 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 2 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | ⭐1094 | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp |
+| 3 | [0marContreras/gta6recomp](https://github.com/0marContreras/gta6recomp) | — | ⭐815 | A GTA VI PC Port |
+| 4 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | — | ⭐523 | FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability |
+| 5 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | Python | ⭐449 | Open Source Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face  |
+| 6 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | JavaScript | ⭐348 |  |
+| 7 | [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) | Python | ⭐267 | Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGIN |
+| 8 | [HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio) | — | ⭐192 | FL Studio Audio is a comprehensive digital audio workstation (DAW) environment d |
+| 9 | [sjohansson2004/Exodus-Fake-Balance](https://github.com/sjohansson2004/Exodus-Fake-Balance) | Python | ⭐188 | Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize dis |
+| 10 | [Dimnyohollow/capcut-pro-video-editor-latest](https://github.com/Dimnyohollow/capcut-pro-video-editor-latest) | — | ⭐169 | CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing su |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-20](records/2026-11-20.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1166 |
 | [2026-11-19](records/2026-11-19.md) | gylive/google-ultra | 2428 |
 | [2026-11-18](records/2026-11-18.md) | krisgfx9/Wireless-Device-Battery-Monitor | 3694 |
 | [2026-11-17](records/2026-11-17.md) | krisgfx9/Wireless-Device-Battery-Monitor | 2016 |
