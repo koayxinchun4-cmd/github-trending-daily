@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-20
+## Latest: 2026-11-21
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | — | ⭐1166 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 2 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | ⭐1094 | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp |
-| 3 | [0marContreras/gta6recomp](https://github.com/0marContreras/gta6recomp) | — | ⭐815 | A GTA VI PC Port |
-| 4 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | — | ⭐523 | FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability |
-| 5 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | Python | ⭐449 | Open Source Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face  |
-| 6 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | JavaScript | ⭐348 |  |
-| 7 | [sfewer-r7/CVE-2026-123007](https://github.com/sfewer-r7/CVE-2026-123007) | Python | ⭐267 | Proof-of-concept (PoC) scripts for CVE-2026-123007, an integer underflow in NGIN |
-| 8 | [HandcuffPerfumer/fl-studio-audio](https://github.com/HandcuffPerfumer/fl-studio-audio) | — | ⭐192 | FL Studio Audio is a comprehensive digital audio workstation (DAW) environment d |
-| 9 | [sjohansson2004/Exodus-Fake-Balance](https://github.com/sjohansson2004/Exodus-Fake-Balance) | Python | ⭐188 | Wallet UI simulation tool for BTC, ETH, SOL, XRP, and 200+ assets. Customize dis |
-| 10 | [Dimnyohollow/capcut-pro-video-editor-latest](https://github.com/Dimnyohollow/capcut-pro-video-editor-latest) | — | ⭐169 | CapCut Pro Video Editor Latest is an all-in-one, cross-platform video editing su |
+| 1 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | — | ⭐1984 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
+| 2 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | ⭐1626 | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp |
+| 3 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | ⭐813 |  |
+| 4 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | — | ⭐635 | FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability |
+| 5 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | Python | ⭐517 | Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, F |
+| 6 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | Lean | ⭐409 | Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). Al |
+| 7 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | JavaScript | ⭐390 |  |
+| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | ⭐372 | Static recompilation research for Xbox Series X/S (Scarlett) on x64 Windows, inc |
+| 9 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | Lean | ⭐335 | Independent Comparator setup for the Lean formalization of the Riemann Hypothesi |
+| 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | HTML | ⭐319 | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-21](records/2026-11-21.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1984 |
 | [2026-11-20](records/2026-11-20.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1166 |
 | [2026-11-19](records/2026-11-19.md) | gylive/google-ultra | 2428 |
 | [2026-11-18](records/2026-11-18.md) | krisgfx9/Wireless-Device-Battery-Monitor | 3694 |
