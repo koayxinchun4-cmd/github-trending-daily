@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-21
+## Latest: 2026-11-22
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [bookwjitchieni1986/blender-ai-mcp-addon](https://github.com/bookwjitchieni1986/blender-ai-mcp-addon) | — | ⭐1984 | AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent w |
-| 2 | [iamajmeena/neonclipping](https://github.com/iamajmeena/neonclipping) | Python | ⭐1626 | Paste a link, get captioned 9:16 clips in ~2 min. Free, local, open-source clipp |
-| 3 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | ⭐813 |  |
-| 4 | [MSNightmare/FastUnlock](https://github.com/MSNightmare/FastUnlock) | — | ⭐635 | FastUnlock : Windows Narrator LockScreen Bypass 0day Vulnerability |
-| 5 | [nataphong-lab/Open-Source-Face-Recognition-Ultimate](https://github.com/nataphong-lab/Open-Source-Face-Recognition-Ultimate) | Python | ⭐517 | Face Recognition, Face Liveness Detection, Face Anti-Spoofing, Face Detection, F |
-| 6 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | Lean | ⭐409 | Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). Al |
-| 7 | [duwqijlk/google-trial-tool](https://github.com/duwqijlk/google-trial-tool) | JavaScript | ⭐390 |  |
-| 8 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | ⭐372 | Static recompilation research for Xbox Series X/S (Scarlett) on x64 Windows, inc |
-| 9 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | Lean | ⭐335 | Independent Comparator setup for the Lean formalization of the Riemann Hypothesi |
-| 10 | [danielwh2/sprite-stacking](https://github.com/danielwh2/sprite-stacking) | HTML | ⭐319 | Agent skill: turn four pixel art views into fake-3D sprites you can spin. Works  |
+| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | ⭐11597 | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 |
+| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | ⭐1273 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru |
+| 3 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | ⭐1230 |  |
+| 4 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | ⭐1197 | GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W |
+| 5 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | ⭐1149 | Progress notes for running Xbox Series X/S builds on PC (TomBox + rage9) |
+| 6 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | Lean | ⭐549 | Independent Comparator setup for the Lean formalization of the Riemann Hypothesi |
+| 7 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | Lean | ⭐498 | Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). Al |
+| 8 | [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) | HTML | ⭐448 | GTA 6 PC Release: Full Access, Zero Hassle |
+| 9 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | Python | ⭐439 | Distill a good Claude Code / Codex session into a skill an open-weight model can |
+| 10 | [realdody/americas-recomp](https://github.com/realdody/americas-recomp) | — | ⭐432 |  |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-22](records/2026-11-22.md) | ItsNotRexed/Leonida | 11597 |
 | [2026-11-21](records/2026-11-21.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1984 |
 | [2026-11-20](records/2026-11-20.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1166 |
 | [2026-11-19](records/2026-11-19.md) | gylive/google-ultra | 2428 |
