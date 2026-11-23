@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-22
+## Latest: 2026-11-23
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida) | Python | ⭐11597 | Leonida Is A Native PC Recompilation Of The Xbox Version Of Grand Theft Auto 6 |
-| 2 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | ⭐1273 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru |
-| 3 | [hatsunemiku-ai/google-one-tools](https://github.com/hatsunemiku-ai/google-one-tools) | Python | ⭐1230 |  |
-| 4 | [R0Y00/Xbox2Windows](https://github.com/R0Y00/Xbox2Windows) | Python | ⭐1197 | GTA VI static recompilation research for x64 Windows. Source-built EXEs run on W |
-| 5 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | ⭐1149 | Progress notes for running Xbox Series X/S builds on PC (TomBox + rage9) |
-| 6 | [leanprover-community/riemann-hypothesis](https://github.com/leanprover-community/riemann-hypothesis) | Lean | ⭐549 | Independent Comparator setup for the Lean formalization of the Riemann Hypothesi |
-| 7 | [CocoSgt/riemann-hypothesis-lean](https://github.com/CocoSgt/riemann-hypothesis-lean) | Lean | ⭐498 | Mirror of Levent Alpöge's Lean proof of the Riemann Hypothesis (with Claude). Al |
-| 8 | [opokukopoku/gta-6-pc-release](https://github.com/opokukopoku/gta-6-pc-release) | HTML | ⭐448 | GTA 6 PC Release: Full Access, Zero Hassle |
-| 9 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | Python | ⭐439 | Distill a good Claude Code / Codex session into a skill an open-weight model can |
-| 10 | [realdody/americas-recomp](https://github.com/realdody/americas-recomp) | — | ⭐432 |  |
+| 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | ⭐3039 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru |
+| 2 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | ⭐1606 | Progress notes for running Xbox Series X/S builds on PC (TomBox + rage9) |
+| 3 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | ⭐1293 | make your macbook's trackpad talk using its haptic motor |
+| 4 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | Python | ⭐503 | Distill a good Claude Code / Codex session into a skill an open-weight model can |
+| 5 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | TypeScript | ⭐494 | Open-source, local-first AI agent team for your desktop: multi-agent group chats |
+| 6 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Rust | ⭐437 | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner |
+| 7 | [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) | TypeScript | ⭐417 | Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing |
+| 8 | [xikhar/papercraft](https://github.com/xikhar/papercraft) | JavaScript | ⭐416 | Agent skill to build games, interactive scenes, web pages and animations in a ha |
+| 9 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | HTML | ⭐369 | Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / R |
+| 10 | [icitycode/capcut-for-windows](https://github.com/icitycode/capcut-for-windows) | HTML | ⭐357 | CapCut for Windows: Visual Video Editing and Screen Recording Workflow |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-23](records/2026-11-23.md) | EL4CTEO/fast-anything | 3039 |
 | [2026-11-22](records/2026-11-22.md) | ItsNotRexed/Leonida | 11597 |
 | [2026-11-21](records/2026-11-21.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1984 |
 | [2026-11-20](records/2026-11-20.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1166 |
