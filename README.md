@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-23
+## Latest: 2026-11-24
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [EL4CTEO/fast-anything](https://github.com/EL4CTEO/fast-anything) | Rust | ⭐3039 | Don't rewrite it in Rust. Rewrite the 5% that's slow: profile Python, Node or Ru |
-| 2 | [omonkeyz/xbox-emulator](https://github.com/omonkeyz/xbox-emulator) | Rust | ⭐1606 | Progress notes for running Xbox Series X/S builds on PC (TomBox + rage9) |
-| 3 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | ⭐1293 | make your macbook's trackpad talk using its haptic motor |
-| 4 | [sybil-solutions/skill-distill](https://github.com/sybil-solutions/skill-distill) | Python | ⭐503 | Distill a good Claude Code / Codex session into a skill an open-weight model can |
-| 5 | [w01fb0ss/PiBot](https://github.com/w01fb0ss/PiBot) | TypeScript | ⭐494 | Open-source, local-first AI agent team for your desktop: multi-agent group chats |
-| 6 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Rust | ⭐437 | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner |
-| 7 | [sshkeda/minecraft-server-on-orange-cloud](https://github.com/sshkeda/minecraft-server-on-orange-cloud) | TypeScript | ⭐417 | Run a Minecraft Java server entirely on Cloudflare. Sleeps when nobody's playing |
-| 8 | [xikhar/papercraft](https://github.com/xikhar/papercraft) | JavaScript | ⭐416 | Agent skill to build games, interactive scenes, web pages and animations in a ha |
-| 9 | [Ahmet-Dedeler/awesome-gta6-reverse-engineering](https://github.com/Ahmet-Dedeler/awesome-gta6-reverse-engineering) | HTML | ⭐369 | Curated list of open-source GTA VI (GTA 6) reverse engineering tools, RAGE 9 / R |
-| 10 | [icitycode/capcut-for-windows](https://github.com/icitycode/capcut-for-windows) | HTML | ⭐357 | CapCut for Windows: Visual Video Editing and Screen Recording Workflow |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | ⭐10630 | An attempt at running GTA VI on PC |
+| 2 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | ⭐1713 | make your macbook's trackpad talk using its haptic motor |
+| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | ⭐1673 | A continuation of Leonida, the Xbox > PC port interface of GTA VI |
+| 4 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Rust | ⭐762 | Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return |
+| 5 | [deterministic-machines/deslop-please](https://github.com/deterministic-machines/deslop-please) | Rust | ⭐626 | Bring (back) sanity to your code |
+| 6 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Rust | ⭐609 | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner |
+| 7 | [crhywun/g1-acq](https://github.com/crhywun/g1-acq) | JavaScript | ⭐443 |  |
+| 8 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | C++ | ⭐370 | 🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture  |
+| 9 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Python | ⭐343 | Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through  |
+| 10 | [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) | HTML | ⭐340 | GTA 6 PC Emulator: Your Portal to Grand Theft Auto VI on Windows |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-24](records/2026-11-24.md) | Marvisak/VIctory | 10630 |
 | [2026-11-23](records/2026-11-23.md) | EL4CTEO/fast-anything | 3039 |
 | [2026-11-22](records/2026-11-22.md) | ItsNotRexed/Leonida | 11597 |
 | [2026-11-21](records/2026-11-21.md) | bookwjitchieni1986/blender-ai-mcp-addon | 1984 |
