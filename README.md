@@ -2,25 +2,25 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-24
+## Latest: 2026-11-25
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | ⭐10630 | An attempt at running GTA VI on PC |
-| 2 | [os6/nospeaker](https://github.com/os6/nospeaker) | Swift | ⭐1713 | make your macbook's trackpad talk using its haptic motor |
-| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | ⭐1673 | A continuation of Leonida, the Xbox > PC port interface of GTA VI |
-| 4 | [Avaneesh-Inamdar/Stream-Tube-Desktop](https://github.com/Avaneesh-Inamdar/Stream-Tube-Desktop) | Rust | ⭐762 | Native YouTube client for Windows in Rust, with SponsorBlock, DeArrow and Return |
-| 5 | [deterministic-machines/deslop-please](https://github.com/deterministic-machines/deslop-please) | Rust | ⭐626 | Bring (back) sanity to your code |
-| 6 | [erkamyaman/safe-anything](https://github.com/erkamyaman/safe-anything) | Rust | ⭐609 | Find the holes before someone else does. A fast, 100% Rust vulnerability scanner |
-| 7 | [crhywun/g1-acq](https://github.com/crhywun/g1-acq) | JavaScript | ⭐443 |  |
-| 8 | [chanke17/KuroCat](https://github.com/chanke17/KuroCat) | C++ | ⭐370 | 🐱 Native macOS & Windows desktop cat pet with full-state keyboard/mouse capture  |
-| 9 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Python | ⭐343 | Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through  |
-| 10 | [lenguyenkhang816792-arch/gta-6-pc-emulator](https://github.com/lenguyenkhang816792-arch/gta-6-pc-emulator) | HTML | ⭐340 | GTA 6 PC Emulator: Your Portal to Grand Theft Auto VI on Windows |
+| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | ⭐12387 | An attempt at running GTA VI on PC |
+| 2 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | ⭐2909 | Work-in-progress fork of VIctory: getting an Xbox Series title to render and run |
+| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | ⭐2257 | A continuation of Leonida, the Xbox > PC port interface for GTA VI |
+| 4 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Rust | ⭐1559 |  |
+| 5 | [Indigo-0167/universal-game-mod-manager](https://github.com/Indigo-0167/universal-game-mod-manager) | Rust | ⭐1301 | Free Windows game mod manager to discover, install, update and manage universal  |
+| 6 | [Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows) | C# | ⭐1265 | Free open-source Windows clipboard manager with searchable history, image previe |
+| 7 | [solv4626/steam-achievement-manager-windows](https://github.com/solv4626/steam-achievement-manager-windows) | Rust | ⭐1064 | Free open-source Steam Achievement Manager for Windows to manage game achievemen |
+| 8 | [zero5122/offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | Python | ⭐1062 | Free offline file converter for Windows – convert PDF, documents, images, audio  |
+| 9 | [kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter) | C++ | ⭐1025 | Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and m |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-25](records/2026-11-25.md) | Marvisak/VIctory | 12387 |
 | [2026-11-24](records/2026-11-24.md) | Marvisak/VIctory | 10630 |
 | [2026-11-23](records/2026-11-23.md) | EL4CTEO/fast-anything | 3039 |
 | [2026-11-22](records/2026-11-22.md) | ItsNotRexed/Leonida | 11597 |
