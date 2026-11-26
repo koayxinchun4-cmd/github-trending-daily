@@ -2,24 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-25
+## Latest: 2026-11-26
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [Marvisak/VIctory](https://github.com/Marvisak/VIctory) | Rust | ⭐12387 | An attempt at running GTA VI on PC |
-| 2 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | ⭐2909 | Work-in-progress fork of VIctory: getting an Xbox Series title to render and run |
-| 3 | [ubiquitarianism/leonida](https://github.com/ubiquitarianism/leonida) | Python | ⭐2257 | A continuation of Leonida, the Xbox > PC port interface for GTA VI |
-| 4 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Rust | ⭐1559 |  |
-| 5 | [Indigo-0167/universal-game-mod-manager](https://github.com/Indigo-0167/universal-game-mod-manager) | Rust | ⭐1301 | Free Windows game mod manager to discover, install, update and manage universal  |
-| 6 | [Umbra9179/clipboard-history-manager-windows](https://github.com/Umbra9179/clipboard-history-manager-windows) | C# | ⭐1265 | Free open-source Windows clipboard manager with searchable history, image previe |
-| 7 | [solv4626/steam-achievement-manager-windows](https://github.com/solv4626/steam-achievement-manager-windows) | Rust | ⭐1064 | Free open-source Steam Achievement Manager for Windows to manage game achievemen |
-| 8 | [zero5122/offline-file-converter-windows](https://github.com/zero5122/offline-file-converter-windows) | Python | ⭐1062 | Free offline file converter for Windows – convert PDF, documents, images, audio  |
-| 9 | [kai415-debug/ffmpeg-video-audio-converter](https://github.com/kai415-debug/ffmpeg-video-audio-converter) | C++ | ⭐1025 | Free Windows FFmpeg GUI for video and audio conversion, batch transcoding, and m |
+| 1 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | ⭐3248 | Work-in-progress fork of VIctory: getting an Xbox Series title to render and run |
+| 2 | [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) | Rust | ⭐1791 | Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K w |
+| 3 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Rust | ⭐1784 |  |
+| 4 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | ⭐1285 | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch M |
+| 5 | [lsernau/grh-lean](https://github.com/lsernau/grh-lean) | Lean | ⭐824 | A short Lean 4 proof of the Generalized Riemann Hypothesis |
+| 6 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Swift | ⭐682 | iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA |
+| 7 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | ⭐635 | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games t |
+| 8 | [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) | Rust | ⭐573 | cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wi |
+| 9 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Rust | ⭐496 | Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through  |
+| 10 | [ZigZagBoi1/ScarlettPort](https://github.com/ZigZagBoi1/ScarlettPort) | Rust | ⭐494 | Native PC port layer for an Xbox Series X/S title: the game's x64 code runs on y |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-26](records/2026-11-26.md) | fxceless/victory-fork | 3248 |
 | [2026-11-25](records/2026-11-25.md) | Marvisak/VIctory | 12387 |
 | [2026-11-24](records/2026-11-24.md) | Marvisak/VIctory | 10630 |
 | [2026-11-23](records/2026-11-23.md) | EL4CTEO/fast-anything | 3039 |
