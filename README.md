@@ -2,25 +2,26 @@
 
 > Auto-updated every day at 08:00 UTC. History preserved in `records/`.
 
-## Latest: 2026-11-26
+## Latest: 2026-11-27
 
 | # | Repo | Language | Stars | Description |
 |---|------|----------|-------|-------------|
-| 1 | [fxceless/victory-fork](https://github.com/fxceless/victory-fork) | Rust | ⭐3248 | Work-in-progress fork of VIctory: getting an Xbox Series title to render and run |
-| 2 | [avatarmanz/VIctory-7900XTX](https://github.com/avatarmanz/VIctory-7900XTX) | Rust | ⭐1791 | Goal: an Xbox Series title (your own dump) on PC as the Series X version at 4K w |
-| 3 | [Belobug/VIctory-Belobug-AMD](https://github.com/Belobug/VIctory-Belobug-AMD) | Rust | ⭐1784 |  |
-| 4 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | ⭐1285 | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch M |
-| 5 | [lsernau/grh-lean](https://github.com/lsernau/grh-lean) | Lean | ⭐824 | A short Lean 4 proof of the Generalized Riemann Hypothesis |
-| 6 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Swift | ⭐682 | iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA |
-| 7 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | ⭐635 | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games t |
-| 8 | [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) | Rust | ⭐573 | cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wi |
-| 9 | [ProjectLeonidaL/leonida](https://github.com/ProjectLeonidaL/leonida) | Rust | ⭐496 | Continuation of Project Leonida, aiming to bring GTA VI from Xbox to PC through  |
-| 10 | [ZigZagBoi1/ScarlettPort](https://github.com/ZigZagBoi1/ScarlettPort) | Rust | ⭐494 | Native PC port layer for an Xbox Series X/S title: the game's x64 code runs on y |
+| 1 | [nexu-io/opengame](https://github.com/nexu-io/opengame) | TypeScript | ⭐2052 | The Super Game Agent — the Unity & Unreal for AI agents, with 100+ viral games t |
+| 2 | [alesha-pro/llm.asm](https://github.com/alesha-pro/llm.asm) | Assembly | ⭐1992 | Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch M |
+| 3 | [Reukix/Reloc](https://github.com/Reukix/Reloc) | Swift | ⭐1448 | iOS accessory-level location simulator over local loopback (iAP2 / MFi-v3 / NMEA |
+| 4 | [trustno1-coder/VIctory-NVIDIA](https://github.com/trustno1-coder/VIctory-NVIDIA) | Rust | ⭐1442 | VIctory (Xbox Series compatibility layer) tuned for NVIDIA RTX cards: Series X a |
+| 5 | [Pixel679-cmyk/windows-titlebar-blur-customizer](https://github.com/Pixel679-cmyk/windows-titlebar-blur-customizer) | C++ | ⭐1304 | Customize Windows 10 and 11 title bar effects with Aero, Acrylic, Mica and advan |
+| 6 | [lsernau/grh-lean](https://github.com/lsernau/grh-lean) | Lean | ⭐1016 | A short Lean 4 proof of the Generalized Riemann Hypothesis |
+| 7 | [DoubleGhosty/cool_fox](https://github.com/DoubleGhosty/cool_fox) | Rust | ⭐836 | cool_fox: Leading CGBJ runtime continuation for GTA VI PC - Pareto residency, Wi |
+| 8 | [0x1A6C1A9Y/focus-clock](https://github.com/0x1A6C1A9Y/focus-clock) | HTML | ⭐563 | Un minuteur web minimal pour se concentrer, faire une pause et avancer une chose |
+| 9 | [gary23w/f-ck_data_brokers](https://github.com/gary23w/f-ck_data_brokers) | Python | ⭐536 | fck_data_brokers.py is a free, open-source Python script that sends opt-out and  |
+| 10 | [Moh4696/inkworks-skill](https://github.com/Moh4696/inkworks-skill) | JavaScript | ⭐527 | Inkworks: an agent skill for interactive 3D how-it-works pages drawn like an eng |
 
 ## Archive
 
 | Date | Top Repo | Stars Gained |
 |------|----------|-------------|
+| [2026-11-27](records/2026-11-27.md) | nexu-io/opengame | 2052 |
 | [2026-11-26](records/2026-11-26.md) | fxceless/victory-fork | 3248 |
 | [2026-11-25](records/2026-11-25.md) | Marvisak/VIctory | 12387 |
 | [2026-11-24](records/2026-11-24.md) | Marvisak/VIctory | 10630 |
